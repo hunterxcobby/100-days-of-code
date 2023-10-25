@@ -1,5 +1,5 @@
 ## Progress Log
 
-| Day | Date | Created | Learned |
+| Day | Date | Worked On | Learned |
 | --- | --- | --- | --- |
 | 001 | Oct 26, 2023 | [ ](001) | |
