@@ -1,10 +1,13 @@
-## Progress Log
-
-| Day | Date | Worked On | Learned |
-| --- | --- | --- | --- |
-| 001 | Oct 26, 2023 | [ ](001) | |
+# 100 Days Of Code -  Progress Log
 
 
-|Day|Focus|Day|Focus|
-|:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **15/10/18**| HTML Basics: various tags like anchor form,img etc|[Day 2](#day-2) **16/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more|
+
+## Day 0: October 28, 2023 (Example 1)
+
+
+**Today's Progress**:  Fixed CSS, worked on canvas functionality for the app.
+
+**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [Calculator App]()
+
