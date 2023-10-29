@@ -1,8 +1,9 @@
 # 100 Days Of Code -  Progress Log
 
+### This is a round 1 of my 100DaysOfCode challenge.
 
 
-## Day 0: October 28, 2023 (Example 1)
+## Day 0: October 29, 2023 
 
 
 **Today's Progress**:  Fixed CSS, worked on canvas functionality for the app.
