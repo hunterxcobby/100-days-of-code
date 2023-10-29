@@ -14,8 +14,7 @@
 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 0](#day-1) **29/10/23**| **Python:** Test-Driven Development|[Day 1](#day-2) **30/10/23**| |
-|
+|[Day 0](log.md#day-0-october-29-2023) **29/10/23**| **Python:** Test-Driven Development - The use of the `doctest` module|[Day 1](#day-2) **30/10/23**| Under progress |
 
 ## Note
 
