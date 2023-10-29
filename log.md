@@ -6,9 +6,16 @@
 ## Day 0: October 29, 2023 
 
 
-**Today's Progress**:  Delved into Test-Driven Development, Python
+**Today's Progress**:  Test-Driven Development, Python(The Docstring Module)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
 
-**Link to work:** [Calculator App]()
+- I started implementing the use of the `doctest module` to test my codes and I also discovered the `"unittest"`.
+- There are a lot of flag options you can add to make the testing easier.
+- I always write notes with sample codes as to help new learners and the future me as a reference.
+- The link to the sample codes is down below
+- Like usual, starting to learn something new is a bit challenging but with the right mindset, you can figure it out!
+- Keep on coding ! 
+
+**Link to work:** [TDD notes](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/13-TDD)
 
