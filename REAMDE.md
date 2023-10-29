@@ -1,20 +1,23 @@
-# I've joined the #100DaysOfCode Challenge !
+# I've joined the #100DaysOfCode Challenge
 
 ## Contents
 
-- [Logs](#logs)
+- [Rules](rules.md)
+- [Log - click here to see my progress](log.md)
+- [Log Summary](#log-summary)
 
+## Log Summary
 
-### Progress Logs
+**This is a summary of my activites log.**
 
-This is the preview of my daily logs.
+**For full details of my progress, check the [log](log.md) file**
 
-Main file : [Logs](log.md)
+|Day|Focus|Day|Focus|
+|:---:|:-----:|:---:|:-----:|
+|[Day 0](#day-1) **29/10/23**| **Python:** Test-Driven Development|[Day 1](#day-2) **30/10/23**| |
+|
 
-|Day|FIle|Day|FIle|Day|Link|Day|LInk|
-|:---:|:-----:|:---:|:-----:|:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **28/10/2023**||[Day 2](#day-2) **29/10/18**| CSS Basics:linking css file,about classes ,id,various css element and much more|[Day 3](#day-3) **30/10/2023**
+## Note
 
-
-
-
+- If you have any questions about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@hunterxcobby](https://twitter.com/hunterxcobby)
+- If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) and forking it :)
