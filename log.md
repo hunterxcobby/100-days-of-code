@@ -35,4 +35,4 @@
 - I love this idea of handling data as python has no strict rules but trusts that programmers will adhere to it
 - But it also makes me think that python wouldn't be the best for data encapsualtion
 
-  **Link to work:**: [Data Encapsulation notes](https://github.com/hunterxcobby/Python-Projects/blob/main/lessons/exercises/12-OOP/9-encapsulation_demo.py)
+**Link to work:**: [Data Encapsulation notes](https://github.com/hunterxcobby/Python-Projects/blob/main/lessons/exercises/12-OOP/9-encapsulation_demo.py)
