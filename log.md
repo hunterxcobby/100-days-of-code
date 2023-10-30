@@ -19,3 +19,20 @@
 
 **Link to work:** [TDD notes](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/13-TDD)
 
+
+
+## Day 1: October 30, 2023 
+
+
+**Today's Progress**: Data Encapsulation, Python 
+
+**Thoughts:**
+
+- When we talk about Data encapsulation, it is the bundling or wrapping of data(attributes) and methods into a single unit
+- We can do this for medernization
+- But most importantly, it is to ensure that the data is well handled
+- This is an implementation of data abstraction
+- I love this idea of handling data as python has no strict rules but trusts that programmers will adhere to it
+- But it also makes me think that python wouldn't be the best for data encapsualtion
+
+  **Link to work:**: [Data Encapsulation notes](https://github.com/hunterxcobby/Python-Projects/blob/main/lessons/exercises/12-OOP/9-encapsulation_demo.py)
