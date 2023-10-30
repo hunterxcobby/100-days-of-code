@@ -13,8 +13,8 @@
 **For full details of my progress, check the [log](log.md) file**
 
 |Day|Focus|Day|Focus|
-|:---:|:-----:|:---:|:-----:|
-|[Day 0](log.md#day-0-october-29-2023) **29/10/23**| **Python:** Test-Driven Development - The use of the `doctest` module|[Day 1](#day-2) **30/10/23**| Under progress |
+|:---:|:----:|:---:|:----:|
+|[Day 0](log.md#day-0-october-29-2023) **29/10/23**| **Python:** Test-Driven Development - The use of the `doctest` module|[Day 1](#day-2) **30/10/23**| **Python:** Data Encapsulation - the use of access specifiers, getters and setters |
 
 ## Note
 
