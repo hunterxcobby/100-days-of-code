@@ -35,4 +35,21 @@
 - I love this idea of handling data as python has no strict rules but trusts that programmers will adhere to it
 - But it also makes me think that python wouldn't be the best for data encapsualtion
 
-**Link to work:**: [Data Encapsulation notes](https://github.com/hunterxcobby/Python-Projects/blob/main/lessons/exercises/12-OOP/9-encapsulation_demo.py)
+**Link to work:** [Data Encapsulation notes](https://github.com/hunterxcobby/Python-Projects/blob/main/lessons/exercises/12-OOP/9-encapsulation_demo.py)
+
+
+## Day 2: October 31, 2023 
+
+
+**Today's Progress**: A Simple Calculator that performs basic operations, C language
+
+**Thoughts:**
+
+- This is a step to get back to all my unfinished projects and it starts today
+- I decided to visit all my old projects and finish them one after the other once at a time
+- The project I am working on now is a simple calculator that performs the 4 basic operations
+- I am having some few issues with the implementation of the mixed operations that involves me using a nested switch case statements 
+- I intend to accomplish this by using a different function and later calling back for it
+- I also made use of variadic functions 
+
+**Link to project:** [Simple Calculator](https://github.com/hunterxcobby/C-Projects/tree/master/00-simple_calculator)
