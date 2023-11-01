@@ -53,3 +53,19 @@
 - I also made use of variadic functions 
 
 **Link to project:** [Simple Calculator](https://github.com/hunterxcobby/C-Projects/tree/master/00-simple_calculator)
+
+
+## Day 3: November 1, 2023 
+
+
+**Today's Progress**: HackerRank Hello World challenge, C language
+
+**Thoughts:**
+
+- A friend introfuced me to hackerrank and it is a platform for challenges
+- I decided to start with some challenges in C language since it is the one I am
+- most convenietn with
+- The challenge for today was an easy one that involved printing a string to display
+- This is a basic implementation of the standard output function `printf` in C
+
+**Link to work:** [Hello World](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x01-Hello_World)
