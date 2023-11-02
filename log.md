@@ -62,10 +62,37 @@
 
 **Thoughts:**
 
-- A friend introfuced me to hackerrank and it is a platform for challenges
+- A friend introduced me to hackerrank and it is a platform for challenges
 - I decided to start with some challenges in C language since it is the one I am
-- most convenietn with
+- most convenient with
 - The challenge for today was an easy one that involved printing a string to display
 - This is a basic implementation of the standard output function `printf` in C
 
 **Link to work:** [Hello World](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x01-Hello_World)
+
+
+## Day 4: November 2, 2023 
+
+
+**Today's Progress**: Playing with Characters Challenge, C language
+
+**Thoughts:**
+
+- I solved a challenge today called playing with characters
+- It invloves taking a character, a string an line of sentence as an input
+- Then you print it to the standard output
+- This involves the use of the `printf` and `scanf` function
+- The scanf function would normally take input until it encounters a space
+- The challenge today was about how to counter such problem
+- It invloves the use of the scanset format specifiers in this form;
+
+```C
+  char s[MAX_LEN];
+scanf("\n"); // Consume the newline character left in the buffer
+scanf("%[^\n]%*c", s); // Use this to solve the problem
+```
+
+   - Explanation:
+     - `%[^\n]` is a scanset format specifier. It tells `scanf` to read characters until it encounters a newline (`\n`).
+     - `%*c` is used to read and discard the newline character.
+   - Note: The `%*c` is needed to consume the newline character left in the input buffer after the previous `scanf`. If you omit it, the next `scanf` will not work correctly.
