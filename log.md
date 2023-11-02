@@ -91,8 +91,9 @@
 scanf("\n"); // Consume the newline character left in the buffer
 scanf("%[^\n]%*c", s); // Use this to solve the problem
 ```
-
    - Explanation:
      - `%[^\n]` is a scanset format specifier. It tells `scanf` to read characters until it encounters a newline (`\n`).
      - `%*c` is used to read and discard the newline character.
    - Note: The `%*c` is needed to consume the newline character left in the input buffer after the previous `scanf`. If you omit it, the next `scanf` will not work correctly.
+
+**Link to solution:** [Playing with characters](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x02-PLaying_with_characters)
