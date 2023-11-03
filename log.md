@@ -102,6 +102,22 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 ## Day 5: November 23, 2023 
 
 
-**Today's Progress**: 
+**Today's Progress**:  Hash Tables, C language
 
 **Thoughts:**
+
+- So from what I learnt today,
+- There are basically two types of hashing
+- The Open Hashing (closed addressing)
+- The Closed Hashing (opened hashing)
+- `Collosion` is when two different inputs (or keys) produce the same hash value .
+- I learned we can use four techniques to solve collisions
+- The separate chaining method
+- Linear probing
+- Quadratic probing
+- Double hashing
+- Hashing has a time complexity of O(1)
+- Which makes it faster
+- Check the file below to see how to implement it
+
+**Link to work:** [Hashing](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions)
