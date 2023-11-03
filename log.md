@@ -120,4 +120,4 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Which makes it faster
 - Check the file below to see how to implement it
 
-**Link to work:** [Hashing](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions)
+**Link to work:** [Hashing](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x05-Hash-tables/introduction)
