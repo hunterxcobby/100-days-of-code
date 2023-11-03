@@ -99,7 +99,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 **Link to solution:** [Playing with characters](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x02-PLaying_with_characters)
 
 
-## Day 5: November 23, 2023 
+## Day 5: November 3, 2023 
 
 
 **Today's Progress**:  Hash Tables, C language
