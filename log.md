@@ -116,7 +116,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Linear probing
 - Quadratic probing
 - Double hashing
-- Hashing has a time complexity of O(1)
+- Hashing has a complexity of O(1)
 - Which makes it faster
 - Check the file below to see how to implement it
 
