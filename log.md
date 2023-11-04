@@ -126,7 +126,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 ## Day 6: November 4, 2023 
 
 
-**Today's Progress**:  The max function, C language
+**Today's Progress**:  The max challenge, C language
 
 **Thoughts:**
 
