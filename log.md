@@ -121,3 +121,20 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Check the file below to see how to implement it
 
 **Link to work:** [Hashing](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x05-Hash-tables/introduction)
+
+
+## Day 6: November 4, 2023 
+
+
+**Today's Progress**:  The max function, C language
+
+**Thoughts:**
+
+- I solved a challenge today called max functions
+- It has to do with taking four values as arguments to a function
+- Comparing them after the other
+- And returning the greatest of them
+- My first intuiton was to use logical operators but apparently it was not logical enough ;)
+- Check out the work to see how i handled it
+
+**Link to solution:** [Max Challenge](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x04-functions_callenge)
