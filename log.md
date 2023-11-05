@@ -138,3 +138,23 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Check out the work to see how i handled it
 
 **Link to solution:** [Max Challenge](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x04-functions_callenge)
+
+
+## Day 7: November 5, 2023 
+
+
+**Today's Progress**:  Pointers challenge, C language
+
+**Thoughts:**
+
+ - In simple terms,
+ - A pointer is like a label that points to a location where some data is stored.
+ - Pointers are very useful for tasks where you need to work with memory efficiently.
+ - Use pointers when;
+   - You need to allocate memory for data at runtime
+   - When you want to modify a variable in a function and have that change reflected outside the function, you pass the variable's address (a pointer) instead of the value itself.
+   - Implementing data structures like linked lists, trees, and graphs relies heavily on pointers for creating and navigating nodes.
+- while pointers are powerful, they require careful handling to avoid issues like memory leaks and pointer arithmetic errors.
+- Checkout the file below
+
+**Link to work:** [Pointers](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x05-Pointers_challenge)  
