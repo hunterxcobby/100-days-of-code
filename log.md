@@ -172,7 +172,6 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - I made sure to document my learning process with examples to serve as a valuable resource for both newcomers and my future self.
 - For reference, you can find the sample codes in the link below.
 - Embracing new concepts in programming can be a bit daunting initially, but with persistence and the right approach, it becomes much clearer.
-- Keep honing your coding skills!
 
 **Link to notes:** [Inheritance](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/13-TDD)
 
