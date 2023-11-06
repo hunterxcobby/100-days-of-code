@@ -158,3 +158,21 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Checkout the file below
 
 **Link to work:** [Pointers](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x05-Pointers_challenge)  
+
+
+## Day 8: November 6, 2023 
+
+
+**Today's Progress**:  Inheritance, Python(Multiple Inheritance, Magic Methods)
+
+**Thoughts:**
+
+- I delved into the concept of inheritance in Python and explored the use of the `super()` function to leverage base class methods in subclasses effectively.
+- There are several ways to implement inheritance, including single and multiple inheritance.
+- I made sure to document my learning process with examples to serve as a valuable resource for both newcomers and my future self.
+- For reference, you can find the sample codes in the link below.
+- Embracing new concepts in programming can be a bit daunting initially, but with persistence and the right approach, it becomes much clearer.
+- Keep honing your coding skills!
+
+**Link to notes:** [Inheritance](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/13-TDD)
+
