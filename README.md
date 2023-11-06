@@ -17,7 +17,10 @@
 |[Day 0](log.md#day-0-october-29-2023) **29/10/23**| **Python:** Test-Driven Development - The use of the `doctest` module|[Day 1](log.md#day-1-october-30-2023) **30/10/23**| **Python:** Data Encapsulation - the use of access specifiers, getters and setters |
 |[Day 2](log.md#day-2-october-31-2023) **31/10/23**| **C lang.:** Simple Calculator that performs basic operations.|[Day 3](log.md#day-3-november-1-2023) **01/11/23**| **C lang.:** Hello World challenge, Hackerrank. |
 |[Day 4](log.md#day-4-november-2-2023) **02/11/23**| **C lang.:** Playing with characters challenge, HackerRank|[Day 5](log.md#day-5-november-3-2023) **03/11/23** | **C lang.:** Hash Tables: Creating, Inserting, Searching, Deleting. etc|
-|[Day 6](log.md#day-6-november-4-2023) **04/11/23**| **C lang.:** The max function challenge, hackerRank - reading four arguments and returning the greatest|[Day 7](log.md#day-7-november-5-2023) **04/11/23**| **C lang.:** Pointers challenge, hackerRank -  implementing basic functionalities of pointers in C |
+|[Day 6](log.md#day-6-november-4-2023) **04/11/23**| **C lang.:** The max function challenge, hackerRank - reading four arguments and returning the greatest|[Day 7](log.md#day-7-november-5-2023) **05/11/23**| **C lang.:** Pointers challenge, hackerRank -  implementing basic functionalities of pointers in C | 
+[Day 8](log.md#day-8-november-6-2023) **06/11/23**|  **Python:** Inheritance - How to implement single and multiple inheritance | 
+
+
 ## Note
 
 - If you have any questions about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@hunterxcobby](https://twitter.com/hunterxcobby)
