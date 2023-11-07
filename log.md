@@ -175,3 +175,16 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 
 **Link to notes:** [Inheritance](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/13-TDD)
 
+
+## Day 9: November 7, 2023 
+
+
+**Today's Progress**:  
+
+**Thoughts:**: File Handling - Operating on a file, using JSON to work on a file
+
+- File handling in Python allows us to work with files on our computer's storage.
+- We can perform various operations like reading, writing, and manipulating data within files.
+- It's an essential aspect of programming to manage and process information stored in files.
+- Python provides simple and effective ways to interact with files, making it a versatile tool for handling data.
+- While Python excels in file handling, it's important to follow best practices to ensure data integrity and security.
