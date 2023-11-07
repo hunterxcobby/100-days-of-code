@@ -188,3 +188,6 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - It's an essential aspect of programming to manage and process information stored in files.
 - Python provides simple and effective ways to interact with files, making it a versatile tool for handling data.
 - While Python excels in file handling, it's important to follow best practices to ensure data integrity and security.
+
+**Link to notes:** [File Handling](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/15-file_handling)
+
