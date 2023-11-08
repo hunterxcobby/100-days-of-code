@@ -191,3 +191,17 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 
 **Link to notes:** [File Handling](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/15-file_handling)
 
+
+## Day 10: November 8, 2023 
+
+
+**Today's Progress**:
+
+- Worked on the challenge involving conditional statements `if` and `else` in C.
+- Gained a deeper understanding of how to use `if`, `else if`, and `else` to make decisions in a program.
+- Practiced writing code to handle different scenarios based on specific conditions.
+- Conditional statements are a fundamental part of programming and are crucial for controlling the flow of a program.
+- It's important to consider all possible cases and plan the code accordingly to ensure the desired outcome.
+- Taking the time to understand conditional statements in C will be valuable for more complex projects in the future.
+
+**Link to notes:** [Conditionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x06-Conditionals_and_loops)
