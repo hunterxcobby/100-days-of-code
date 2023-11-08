@@ -19,6 +19,7 @@
 |[Day 4](log.md#day-4-november-2-2023) **02/11/23**| **C lang.:** Playing with characters challenge, HackerRank|[Day 5](log.md#day-5-november-3-2023) **03/11/23** | **C lang.:** Hash Tables: Creating, Inserting, Searching, Deleting. etc|
 |[Day 6](log.md#day-6-november-4-2023) **04/11/23**| **C lang.:** The max function challenge, hackerRank - reading four arguments and returning the greatest|[Day 7](log.md#day-7-november-5-2023) **05/11/23**| **C lang.:** Pointers challenge, hackerRank -  implementing basic functionalities of pointers in C | 
 [Day 8](log.md#day-8-november-6-2023) **06/11/23**|  **Python:** Inheritance - How to implement single and multiple inheritance | [Day 9](log.md#day-9-november-7-2023) **07/11/23**|  **Python:** File Handling - Operating on a file, using JSON to work on a file |
+|[Day 10](log.md#day-10-november-8-2023) **08/11/23**| **C lang.:** Conditionals and loops challenge, HackerRank|
 
 
 ## Note
