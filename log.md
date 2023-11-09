@@ -197,6 +197,8 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 
 **Today's Progress**:  Conditonals and Loops, C language
 
+**Thoughts:**: 
+
 - Worked on the challenge involving conditional statements `if` and `else` in C.
 - Gained a deeper understanding of how to use `if`, `else if`, and `else` to make decisions in a program.
 - Practiced writing code to handle different scenarios based on specific conditions.
@@ -210,7 +212,9 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 ## Day 11: November 9, 2023 
 
 
-**Today's Progress**:
+**Today's Progress**:  **Python:** Positional and Keyword arguments, arbitrary arguments
+
+**Thoughts:**: 
 
 - Positional arguments are values passed to a function in the order that the function expects them.
 - They are matched to the parameters of the function based on their position.
