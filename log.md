@@ -223,4 +223,4 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - They are specified in the form parameter=value.
 - Unlike positional arguments, they can be provided in any order, as long as their keyword matches a parameter name of the function.
 
- **Link to notes:** [Positonal and keyword arguments]() 
+ **Link to notes:** [Positonal and keyword arguments](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/16-args_n_kwargs) 
