@@ -179,9 +179,9 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 ## Day 9: November 7, 2023 
 
 
-**Today's Progress**:  
+**Today's Progress**:  File Handling - Operating on a file, using JSON to work on a file
 
-**Thoughts:**: File Handling - Operating on a file, using JSON to work on a file
+**Thoughts:**: 
 
 - File handling in Python allows us to work with files on our computer's storage.
 - We can perform various operations like reading, writing, and manipulating data within files.
@@ -195,7 +195,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 ## Day 10: November 8, 2023 
 
 
-**Today's Progress**:
+**Today's Progress**:  Conditonals and Loops, C language
 
 - Worked on the challenge involving conditional statements `if` and `else` in C.
 - Gained a deeper understanding of how to use `if`, `else if`, and `else` to make decisions in a program.
@@ -218,3 +218,5 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Keyword arguments are values passed to a function with an explicit keyword specifying which parameter they should be matched with.
 - They are specified in the form parameter=value.
 - Unlike positional arguments, they can be provided in any order, as long as their keyword matches a parameter name of the function.
+
+ **Link to notes:** [Positonal and keyword arguments]() 
