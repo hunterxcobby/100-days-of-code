@@ -205,3 +205,16 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Taking the time to understand conditional statements in C will be valuable for more complex projects in the future.
 
 **Link to notes:** [Conditionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x06-Conditionals_and_loops)
+
+
+## Day 11: November 9, 2023 
+
+
+**Today's Progress**:
+
+- Positional arguments are values passed to a function in the order that the function expects them.
+- They are matched to the parameters of the function based on their position.
+- The first argument is matched to the first parameter, the second argument to the second parameter, and so on.
+- Keyword arguments are values passed to a function with an explicit keyword specifying which parameter they should be matched with.
+- They are specified in the form parameter=value.
+- Unlike positional arguments, they can be provided in any order, as long as their keyword matches a parameter name of the function.
