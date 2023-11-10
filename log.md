@@ -195,7 +195,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 ## Day 10: November 8, 2023 
 
 
-**Today's Progress**:  Conditonals and Loops, C language
+**Today's Progress**:  Conditonals and Loops(if and else), C language
 
 **Thoughts:**: 
 
@@ -226,5 +226,17 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
  **Link to notes:** [Positonal and keyword arguments](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/16-args_n_kwargs) 
 
 
+
+## Day 12: November 10, 2023 
+
+
+**Today's Progress**:  Conditonals and Loops(for loops), C language
+
+**Thoughts:**: 
+- Employed for loops in tackling a challenge centered around conditional statements in C.
+- Developed a nuanced understanding of utilizing for loops for efficient iteration through code segments.
+- Engaged in the practical application of for loops to handle diverse scenarios and decision-making within the program.
+- Recognized the inherent versatility of for loops in streamlining code execution and managing program flow.
+- Check out my notes to see how i tackled this challenge.
 
 **Link to notes:** [Condtionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x07-Conditionals_and_loops)
