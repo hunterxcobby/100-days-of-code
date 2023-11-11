@@ -206,7 +206,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - It's important to consider all possible cases and plan the code accordingly to ensure the desired outcome.
 - Taking the time to understand conditional statements in C will be valuable for more complex projects in the future.
 
-**Link to notes:** [Conditionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x06-Conditionals_and_loops)
+**Link to work:** [Conditionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x06-Conditionals_and_loops)
 
 
 ## Day 11: November 9, 2023 
@@ -239,4 +239,15 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - Recognized the inherent versatility of for loops in streamlining code execution and managing program flow.
 - Check out my notes to see how i tackled this challenge.
 
-**Link to notes:** [Condtionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x07-Conditionals_and_loops)
+**Link to work:** [Condtionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x07-Conditionals_and_loops)
+
+
+## Day 12: November 10, 2023 
+
+
+**Today's Progress**:  Conditonals and Loops- Sum of Digits of a Five Digit Number , C language
+
+**Thoughts:**: 
+
+
+**Link to work:** [Condtionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x08-Conditionals_and_loops)
