@@ -248,6 +248,10 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 **Today's Progress**:  Conditonals and Loops- Sum of Digits of a Five Digit Number , C language
 
 **Thoughts:**: 
-
+- The script uses the modulo operator (%) to get the remainder of the division by 10
+-  which gives the last digit of the number.
+- It then updates the number by performing integer division by 10 to remove the last digit.
+- This process is repeated to get each digit of the number.
+- The sum of the digits is calculated and printed.
 
 **Link to work:** [Condtionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x08-Conditionals_and_loops)
