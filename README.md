@@ -20,8 +20,8 @@
 |[Day 6](log.md#day-6-november-4-2023) **04/11/23**| **C lang.:** The max function challenge, hackerRank - reading four arguments and returning the greatest|[Day 7](log.md#day-7-november-5-2023) **05/11/23**| **C lang.:** Pointers challenge, hackerRank -  implementing basic functionalities of pointers in C | 
 [Day 8](log.md#day-8-november-6-2023) **06/11/23**|  **Python:** Inheritance - How to implement single and multiple inheritance | [Day 9](log.md#day-9-november-7-2023) **07/11/23**|  **Python:** File Handling - Operating on a file, using JSON to work on a file |
 |[Day 10](log.md#day-10-november-8-2023) **08/11/23**| **C lang.:** Conditionals and loops challenge(if loops), HackerRank| [Day 11](log.md#day-11-november-9-2023) **09/11/23**|  **Python:** Arguments, Positional and Keyword arguments, arbitrary arguments|
-|[Day 12](log.md#day-12-november-10-2023) **10/11/23**| **C lang.:** Conditionals and loops challenge(for loops), HackerRank|[Day 13](log.md#day-13-november-11-2023) **11/11/23**| **C lang.:** Conditonals and Loops- Sum of Digits of a Five Digit Number , C language, HackerRank
-
+|[Day 12](log.md#day-12-november-10-2023) **10/11/23**| **C lang.:** Conditionals and loops challenge(for loops), HackerRank|[Day 13](log.md#day-13-november-11-2023) **11/11/23**| **C lang.:** Conditonals and Loops- Sum of Digits of a Five Digit Number , C language, HackerRank|
+|[Day 14](log.md#day-14-november-12-2023) **10/11/23**| **C lang.:** The length of the last work challenge, LeetCode|
 
 ## Note
 
