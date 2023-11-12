@@ -264,6 +264,6 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 
 **Thoughts:**
 - The **"Length of the Last Word"** problem involves finding the length of the last word in a given string.
-= This problem is commonly used as an introductory exercise in algorithmic problem-solving and is often encountered in coding interviews.
+- This problem is commonly used as an introductory exercise in algorithmic problem-solving and is often encountered in coding interviews.
 
 **Link to work:** [Length of last word](https://github.com/hunterxcobby/C-Solutions/tree/main/0-leetcode/0x04-len_of_lastword)
