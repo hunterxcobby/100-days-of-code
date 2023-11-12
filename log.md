@@ -255,3 +255,15 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - The sum of the digits is calculated and printed.
 
 **Link to work:** [Condtionals and loops](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x08-Conditionals_and_loops)
+
+
+## Day 14: November 12, 2023
+
+
+**Today's Progress**:  Conditonals and Loops- Sum of Digits of a Five Digit Number , C language
+
+**Thoughts:**
+- The **"Length of the Last Word"** problem involves finding the length of the last word in a given string.
+= This problem is commonly used as an introductory exercise in algorithmic problem-solving and is often encountered in coding interviews.
+
+**Link to work:** [Length of last word](https://github.com/hunterxcobby/C-Solutions/tree/main/0-leetcode/0x04-len_of_lastword)
