@@ -283,4 +283,4 @@ and efficient memory management.
 - when dealing with flags, masks, and compact data representations
 - mastering bitwise operators enhances a programmer's toolkit, enabling more efficient and concise solutions to specific problems
 
-*Link to work:** [will be updated soon]
+**Link to work:** [will be updated soon]
