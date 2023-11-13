@@ -269,7 +269,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 **Link to work:** [Length of last word](https://github.com/hunterxcobby/C-Solutions/tree/main/0-leetcode/0x04-len_of_lastword)
 
 
-## Day 14: November 12, 2023
+## Day 15: November 13, 2023
 
 
 **Today's Progress**: Logical Bitwise Operators, C language  
