@@ -267,3 +267,20 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 - This problem is commonly used as an introductory exercise in algorithmic problem-solving and is often encountered in coding interviews.
 
 **Link to work:** [Length of last word](https://github.com/hunterxcobby/C-Solutions/tree/main/0-leetcode/0x04-len_of_lastword)
+
+
+## Day 14: November 12, 2023
+
+
+**Today's Progress**: Logical Bitwise Operators, C language  
+
+**Thoughts:**
+- This challenge involving bitwise operators provides a practical application for understanding their usage
+- Working with bitwise AND, OR, and XOR operations within a specific context, such as finding maximum values
+based on certain conditions, helps reinforce the understanding of these operators.
+- They are commonly used in tasks like data manipulation, protocol implementations, 
+and efficient memory management.
+- when dealing with flags, masks, and compact data representations
+- mastering bitwise operators enhances a programmer's toolkit, enabling more efficient and concise solutions to specific problems
+
+*Link to work:** [will be updated soon]
