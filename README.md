@@ -22,7 +22,7 @@
 |[Day 10](log.md#day-10-november-8-2023) **08/11/23**| **C lang.:** Conditionals and loops challenge(if loops), HackerRank| [Day 11](log.md#day-11-november-9-2023) **09/11/23**|  **Python:** Arguments, Positional and Keyword arguments, arbitrary arguments|
 |[Day 12](log.md#day-12-november-10-2023) **10/11/23**| **C lang.:** Conditionals and loops challenge(for loops), HackerRank|[Day 13](log.md#day-13-november-11-2023) **11/11/23**| **C lang.:** Conditonals and Loops- Sum of Digits of a Five Digit Number , C language, HackerRank|
 |[Day 14](log.md#day-14-november-12-2023) **12/11/23**| **C lang.:** The length of the last work challenge, LeetCode|[Day 15](log.md#day-15-november-13-2023) **13/11/23**| **C lang.:** Biwise Operators |
-|[Day 16](log.md#day-16-november-11-2023) **14/11/23**| **C lang.:** 
+|[Day 16](log.md#day-16-november-11-2023) **14/11/23**| **C lang.:** Printing Patterns Using loops |
 
 ## Note
 
