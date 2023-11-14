@@ -299,4 +299,4 @@ and efficient memory management.
 - It's a good exercise to practice nested loops and conditional statements in programming
 
 
-**Link to work:** [will be updated soon]
+**Link to work:** [Printing patterns](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x09-Printing_pattern_loops)
