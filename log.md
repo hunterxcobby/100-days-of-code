@@ -291,3 +291,12 @@ and efficient memory management.
 **Today's Progress**: Printing Pattern Using loops, C language 
 
 **Thoughts:**
+- This pattern challenge involves creating a matrix with a specific numerical pattern based on the input value n. 
+- we need to calculate the distance of each cell from the nearest border (top, bottom, left, or right).
+- The challenge requires careful consideration of the pattern and how it changes based on the input. 
+- It's a good exercise to practice nested loops and conditional statements in programming
+- Use this distance to determine the value to be printed.
+- It's a good exercise to practice nested loops and conditional statements in programming
+
+
+**Link to work:** [will be updated soon]
