@@ -284,3 +284,10 @@ and efficient memory management.
 - mastering bitwise operators enhances a programmer's toolkit, enabling more efficient and concise solutions to specific problems
 
 **Link to work:** [will be updated soon]
+
+
+## Day 16: November 14, 2023
+
+**Today's Progress**: Printing Pattern Using loops, C language 
+
+**Thoughts:**
