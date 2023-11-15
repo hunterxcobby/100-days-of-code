@@ -314,4 +314,4 @@ and efficient memory management.
 -  this challenge is suitable for learners who want to solidify their understanding of dynamic memory allocation and array manipulation in C
 
 
-**Link to work:** [Dynamic 
+**Link to work:** [Dynamic Array Sum](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/1D-Array)
