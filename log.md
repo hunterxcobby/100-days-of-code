@@ -300,3 +300,18 @@ and efficient memory management.
 
 
 **Link to work:** [Printing patterns](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x09-Printing_pattern_loops)
+
+
+
+## Day 17: November 15, 2023
+
+**Today's Progress**: Arrays and Strings,Dynamic Array Sum Challenge C language 
+
+**Thoughts:**
+- The challenge highlights the use of malloc to dynamically allocate memory for an array.
+-  It involves reading values into an array, iterating through the array, and calculating the sum of its elements.
+-  The algorithm for calculating the sum is straightforward, focusing more on the usage of dynamic arrays rather than complex computations.
+-  this challenge is suitable for learners who want to solidify their understanding of dynamic memory allocation and array manipulation in C
+
+
+**Link to work:** [Dynamic 
