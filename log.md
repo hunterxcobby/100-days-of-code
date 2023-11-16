@@ -315,3 +315,17 @@ and efficient memory management.
 
 
 **Link to work:** [Dynamic Array Sum](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/1D-Array)
+
+
+
+## Day 18: November 16, 2023
+
+**Today's Progress**: Loops,Squares of non-negative numbers challenge, Python
+
+**Thoughts:**
+- This challenge is straightforward and involves printing the squares of non-negative integers less than a given number `n`. 
+- The task primarily focuses on basic input/output operations and looping through numbers up to `n`.
+- It's a good exercise for practicing these fundamental concepts in programming.
+- The challenge can be easily solved using a loop to iterate through the range of non-negative integers and printing the square of each
+
+**Link to solution:** [Squares of non-negative integers](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/0-Loops)
