@@ -23,7 +23,7 @@
 |[Day 12](log.md#day-12-november-10-2023) **10/11/23**| **C lang.:** Conditionals and loops challenge(for loops), HackerRank|[Day 13](log.md#day-13-november-11-2023) **11/11/23**| **C lang.:** Conditonals and Loops- Sum of Digits of a Five Digit Number , C language, HackerRank|
 |[Day 14](log.md#day-14-november-12-2023) **12/11/23**| **C lang.:** The length of the last work challenge, LeetCode|[Day 15](log.md#day-15-november-13-2023) **13/11/23**| **C lang.:** Biwise Operators |
 |[Day 16](log.md#day-16-november-11-2023) **14/11/23**| **C lang.:** Printing Patterns Using loops |[Day 17](log.md#day-17-november-15-2023) **15/11/23**| **C lang.:** Arrays and strings, 1D array | 
-|[Day 18](log.md#day-18-november-16-2023) **16/11/23**| **Python:** Loops, Squares of Non-Negative Integers Challenge, HackerRank | |[Day 19](log.md#day-19-november-17-2023) **17/11/23**| **Python:** Functions, The Leap Year Checker Challenge, HackerRank
+|[Day 18](log.md#day-18-november-16-2023) **16/11/23**| **Python:** Loops, Squares of Non-Negative Integers Challenge, HackerRank |[Day 19](log.md#day-19-november-17-2023) **17/11/23**| **Python:** Functions, The Leap Year Checker Challenge, HackerRank |
 
 ## Note
 
