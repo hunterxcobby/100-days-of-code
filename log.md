@@ -329,3 +329,17 @@ and efficient memory management.
 - The challenge can be easily solved using a loop to iterate through the range of non-negative integers and printing the square of each
 
 **Link to solution:** [Squares of non-negative integers](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/0-Loops)
+
+
+## Day 19: November 17, 2023
+
+**Today's Progress**: Functions, Leap Year Checker challenge, Python
+
+**Thoughts:**
+- The Leap Year challenge is a classic programming task that involves implementing a function to determine whether a given year is a leap year or not.
+-  It's a fundamental problem that tests your understanding of basic conditions and logical operations.
+-  It requires applying the given conditions for leap years and implementing them in a simple function
+-   The challenge is beginner-friendly and helps reinforce fundamental concepts such as conditionals and mathematical operations.
+-  it's a straightforward yet essential task for building a strong foundation in programming.
+
+**Link to solution:** [Leap Year Checker]()
