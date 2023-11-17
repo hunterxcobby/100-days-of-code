@@ -342,4 +342,4 @@ and efficient memory management.
 -   The challenge is beginner-friendly and helps reinforce fundamental concepts such as conditionals and mathematical operations.
 -  it's a straightforward yet essential task for building a strong foundation in programming.
 
-**Link to solution:** [Leap Year Checker]()
+**Link to solution:** [Leap Year Checker](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/01-Leap_year_checker)
