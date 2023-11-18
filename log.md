@@ -343,3 +343,17 @@ and efficient memory management.
 -  it's a straightforward yet essential task for building a strong foundation in programming.
 
 **Link to solution:** [Leap Year Checker](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/01-Leap_year_checker)
+
+
+## Day 20: November 18, 2023
+
+**Today's Progress**: IF-ELSE, Leap Year Checker challenge, Python
+
+**Thoughts:**
+- The "Number Classification" challenge is a straightforward problem that tests your understanding of conditional statements.
+-  It requires you to classify a given number based on specific conditions.
+-  The task provides an opportunity to practice implementing conditional logic in a programming language.
+-   The conditions cover various cases, such as odd numbers and specific ranges of even numbers.
+-   This challenge is suitable for beginners as it involves basic control flow concepts.
+
+**Link to solution:** [Number Classification Challenge](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/02-If-Else)
