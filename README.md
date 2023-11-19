@@ -24,7 +24,7 @@
 |[Day 14](log.md#day-14-november-12-2023) **12/11/23**| **C lang.:** The length of the last work challenge, LeetCode|[Day 15](log.md#day-15-november-13-2023) **13/11/23**| **C lang.:** Biwise Operators |
 |[Day 16](log.md#day-16-november-11-2023) **14/11/23**| **C lang.:** Printing Patterns Using loops |[Day 17](log.md#day-17-november-15-2023) **15/11/23**| **C lang.:** Arrays and strings, 1D array | 
 |[Day 18](log.md#day-18-november-16-2023) **16/11/23**| **Python:** Loops, Squares of Non-Negative Integers Challenge, HackerRank |[Day 19](log.md#day-19-november-17-2023) **17/11/23**| **Python:** Functions, The Leap Year Checker Challenge, HackerRank |
-|[Day 20](log.md#day-20-november-18-2023) **18/11/23**| **Python:** IF-ELSE, Number Classification Challenge, HackerRank |
+|[Day 20](log.md#day-20-november-18-2023) **18/11/23**| **Python:** IF-ELSE, Number Classification Challenge, HackerRank |[Day 21](log.md#day-21-november-19-2023) **19/11/23**| **C lang.:** Sorting Algorithm, Bubble Sort - big 0(n)
 
 ## Note
 
