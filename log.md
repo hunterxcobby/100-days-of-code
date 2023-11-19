@@ -357,3 +357,17 @@ and efficient memory management.
 -   This challenge is suitable for beginners as it involves basic control flow concepts.
 
 **Link to solution:** [Number Classification Challenge](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/02-If-Else)
+
+
+## Day 21: November 19, 2023
+
+**Today's Progress**: Sorting Algorithm, The Bubble Sort, C language
+
+**Thoughts:**
+- Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+- The pass through the list is repeated until the list is sorted.
+-**Bubble Sort:**
+   - **Algorithmic Paradigm:** Iterative.
+   - **Time Complexity:** O(n^2) in the worst and average case.
+   - **Space Complexity:** O(1) as it doesn't require additional space.
+   - **Key Features:** Simple to implement, good for small datasets or nearly sorted data.
