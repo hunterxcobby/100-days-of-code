@@ -364,6 +364,8 @@ and efficient memory management.
 **Today's Progress**: Sorting Algorithm, The Bubble Sort, C language
 
 **Thoughts:**
+- A sorting algorithm is a set of instructions or rules designed to arrange a collection of items in a specific order.
+- The primary purpose of sorting algorithms is to organize data in a way that makes it easier to search, retrieve, and analyze.
 - Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 - The pass through the list is repeated until the list is sorted.
 -**Bubble Sort:**
@@ -371,3 +373,5 @@ and efficient memory management.
    - **Time Complexity:** O(n^2) in the worst and average case.
    - **Space Complexity:** O(1) as it doesn't require additional space.
    - **Key Features:** Simple to implement, good for small datasets or nearly sorted data.
+
+ **Link to notes**: [Bubble Sort](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Sorting_algorithm/01-bubble_sort)
