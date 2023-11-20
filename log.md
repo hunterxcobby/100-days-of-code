@@ -375,3 +375,28 @@ and efficient memory management.
    - **Key Features:** Simple to implement, good for small datasets or nearly sorted data.
 
  **Link to notes**: [Bubble Sort](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Sorting_algorithm/01-bubble_sort)
+
+**Today's Progress**: Sorting Algorithm, The Insertion, Quick and Merge Sort, C language
+
+1 Insertion Sort is a straightforward sorting algorithm that builds the final sorted array one item at a time.
+- **Insertion Sort:**
+  - **Algorithmic Paradigm:** Iterative.
+  - **Time Complexity:** O(n^2) in the worst and average case.
+  - **Space Complexity:** O(1) as it doesn't require additional space.
+  - **Key Features:** Simple to implement, adaptive, stable, and efficient for small datasets or nearly sorted data.
+
+2. Quick Sort:is a highly efficient sorting algorithm that follows the divide-and-conquer paradigm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays according to whether they are less than or greater than the pivot.
+- **Algorithmic Paradigm:** Divide and Conquer.
+- **Time Complexity:**
+  - Worst Case: O(n^2) - Occurs when the partitioning is consistently unbalanced.
+  - Average Case: O(n log n) - Efficient for a wide range of inputs.
+  - Best Case: O(n log n) - Occurs when the pivot divides the array into roughly equal halves.
+  - Space Complexity: O(log n) - Recursive calls in the call stack.
+- **Key Features:**
+  - Efficient for large datasets.
+  - In-place sorting - Doesn't require additional memory.
+  - Unstable - Equal elements might not maintain their original order.
+  - Adaptive - Performance can be improved with optimizations like choosing the median of     
+  three elements as the pivot.
+
+**Link to notes**: [Insertion Sort, Quick Sort, Merge Sort](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Sorting_algorithm)
