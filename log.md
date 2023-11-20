@@ -378,7 +378,7 @@ and efficient memory management.
 
 **Today's Progress**: Sorting Algorithm, The Insertion, Quick and Merge Sort, C language
 
-1 Insertion Sort is a straightforward sorting algorithm that builds the final sorted array one item at a time.
+1.  Insertion Sort is a straightforward sorting algorithm that builds the final sorted array one item at a time.
 - **Insertion Sort:**
   - **Algorithmic Paradigm:** Iterative.
   - **Time Complexity:** O(n^2) in the worst and average case.
@@ -398,5 +398,16 @@ and efficient memory management.
   - Unstable - Equal elements might not maintain their original order.
   - Adaptive - Performance can be improved with optimizations like choosing the median of     
   three elements as the pivot.
+
+3. **Merge Sort:**
+- **Algorithmic Paradigm:** Divide and Conquer.
+-  **Time Complexity:** O(n log n) in the worst, average, and best cases. Merge Sort consistently maintains this efficiency across different scenarios.
+- **Space Complexity:** O(n) additional space is required for the temporary storage during the merging process, making it less memory-efficient than Insertion Sort for large datasets.
+- **Key Features:**
+   - **Stability:** Merge Sort is a stable sorting algorithm, meaning that equal elements maintain their relative order in the sorted output.
+   - **Efficiency:** It performs well on large datasets due to its consistent O(n log n) time complexity.
+   - **Divide and Conquer:** The algorithm breaks the problem into smaller sub-problems, solving them independently, and then combines the solutions to solve the original problem.
+   - **Adaptability:** Merge Sort's performance is not significantly affected by the initial order of the elements, making it suitable for a wide range of input scenarios.
+
 
 **Link to notes**: [Insertion Sort, Quick Sort, Merge Sort](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Sorting_algorithm)
