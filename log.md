@@ -376,6 +376,10 @@ and efficient memory management.
 
  **Link to notes**: [Bubble Sort](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Sorting_algorithm/01-bubble_sort)
 
+
+
+## Day 22: November 20, 2023
+
 **Today's Progress**: Sorting Algorithm, The Insertion, Quick and Merge Sort, C language
 
 1.  Insertion Sort is a straightforward sorting algorithm that builds the final sorted array one item at a time.
