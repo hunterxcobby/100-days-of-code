@@ -429,4 +429,4 @@ and efficient memory management.
 - Efficient algorithms aim for lower Big O complexities to handle larger datasets more effectively.
 
 
-**Link to notes**: [Big O Notation]
+**Link to notes**: [Big O Notation](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Big-O_notation)
