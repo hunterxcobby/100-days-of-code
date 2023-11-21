@@ -415,3 +415,8 @@ and efficient memory management.
 
 
 **Link to notes**: [Insertion Sort, Quick Sort, Merge Sort](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Sorting_algorithm)
+
+
+## Day 23: November 21, 2023
+
+**Today's Progress**: Big O Notation, C language
