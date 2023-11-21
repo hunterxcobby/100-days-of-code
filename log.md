@@ -420,3 +420,13 @@ and efficient memory management.
 ## Day 23: November 21, 2023
 
 **Today's Progress**: Big O Notation, C language
+
+**Thoughts:**
+- Big O notation is a mathematical notation that describes the performance or complexity of an algorithm.
+- It provides an upper bound on the growth rate of the algorithm's time or space requirements as the input size increases.
+- Understanding Big O notation is crucial for evaluating and comparing the efficiency of algorithms.
+- Common complexities include O(1) for constant time, O(log n) for logarithmic time, O(n) for linear time, O(n^2) for quadratic time, and so on.
+- Efficient algorithms aim for lower Big O complexities to handle larger datasets more effectively.
+
+
+**Link to notes**: [Big O Notation]
