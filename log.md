@@ -428,5 +428,24 @@ and efficient memory management.
 - Common complexities include O(1) for constant time, O(log n) for logarithmic time, O(n) for linear time, O(n^2) for quadratic time, and so on.
 - Efficient algorithms aim for lower Big O complexities to handle larger datasets more effectively.
 
-
 **Link to notes**: [Big O Notation](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x06-Big-O_notation)
+
+## Day 24: November 22, 2023
+
+**Today's Progress**: The Print Function on HackerRank, C language
+
+**Thoughts:**
+The Print Function
+- method signature is below:
+
+- print(*values, sep=' ', end='\n', file=sys.stdout)
+- print(value1, value2, value3, sep=' ', end='\n', file=sys.stdout)
+- Here, values is an array and *values means array is unpacked, you can add values separated by a comma too.
+- The arguments sep, end, and file are optional, but they can prove helpful in formatting output without taking help from a string module.
+
+- The argument definitions are below:
+- sep defines the delimiter between the values.
+- end defines what to print after the values.
+- file defines the output stream.
+
+**Link to solution**: [print function](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/03-print_function)
