@@ -449,3 +449,45 @@ The Print Function
 - file defines the output stream.
 
 **Link to solution**: [print function](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/03-print_function)
+
+
+## Day 25: November 23, 2023
+
+**Today's Progress**: loops and conditions, shell scripting
+
+**Thoughts:**
+- The for loop in shell scripting allows you to perform a set of commands for each value in a specified list.
+- Here's a breakdown using a simple example:
+
+```bash
+# Example: Printing numbers from 1 to 5 using a for loop
+for i in 1 2 3 4 5; do
+  echo "Number: $i"
+done
+```
+- **Arithmetic Operators:**
+
+1. **`+`, `-`, `*`, `/` Operators:**
+   - Purpose: Used for basic arithmetic operations.
+   - Example:
+     ```bash
+     let "result = 5 + 3"
+     ```
+
+2. **`**` Operator (Exponentiation):**
+   - Purpose: Raises a number to the power of another.
+   - Example:
+     ```bash
+     let "z = 5**3"  # 5 * 5 * 5
+     ```
+
+3. **`%` Operator (Modulo):**
+   - Purpose: Returns the remainder of an integer division operation.
+   - Example:
+     ```bash
+     expr 5 % 3  # Returns 2 (remainder of 5/3)
+     ```
+   - Modulo finds use in generating numbers within a specific range, formatting program output, and even generating prime numbers.
+
+
+**Link to notes**: [Loops_condtitions_parsing](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x04-loops_conditions_and_parsing)
