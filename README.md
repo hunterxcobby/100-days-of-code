@@ -26,7 +26,7 @@
 |[Day 18](log.md#day-18-november-16-2023) **16/11/23**| **Python:** Loops, Squares of Non-Negative Integers Challenge, HackerRank |[Day 19](log.md#day-19-november-17-2023) **17/11/23**| **Python:** Functions, The Leap Year Checker Challenge, HackerRank |
 |[Day 20](log.md#day-20-november-18-2023) **18/11/23**| **Python:** IF-ELSE, Number Classification Challenge, HackerRank |[Day 21](log.md#day-21-november-19-2023) **19/11/23**| **C lang.:** Sorting Algorithm, Bubble Sort - big 0(n) |
 |[Day 22](log.md#day-22-november-20-2023) **20/11/23**| **C lang.:** Sorting Algorithm, Insertion sort, Quick sort, Merge sort - big 0(n) |[Day 23](log.md#day-23-november-21-2023) **21/11/23**| **C lang.:** The Big 0 Notation.|
-|[Day 24](log.md#day-24-november-22-2023) **22/11/23**| **Python.:** The Print Function, HackerRank Challenge.|
+|[Day 24](log.md#day-24-november-22-2023) **22/11/23**| **Python.:** The Print Function, HackerRank Challenge.|[Day 25](log.md#day-25-november-23-2023) **23/11/23**| **Bash Script.:** Loops, conditions and operaators.|
 
 
 ## Note
