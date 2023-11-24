@@ -491,3 +491,11 @@ done
 
 
 **Link to notes**: [Loops_condtitions_parsing](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x04-loops_conditions_and_parsing)
+
+
+## Day 26: November 24, 2023
+
+**Today's Progress**: file test operators, shell scripting
+
+
+**Link to notes**: [file test operators](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x04-loops_conditions_and_parsing/file_test_operators)
