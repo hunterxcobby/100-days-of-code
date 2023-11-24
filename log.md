@@ -497,5 +497,38 @@ done
 
 **Today's Progress**: file test operators, shell scripting
 
+-**File Test Operators**
+
+- File test operators in Bash are used to check various attributes and properties of files.
+- They are commonly used in conditional statements to make decisions based on the existence, type, or properties of files.
+
+- `-e file`: Returns true if the file exists.
+
+  Example: `if [ -e "myfile.txt" ]; then echo "File exists"; fi`
+
+- `-f file`: Returns true if the file is a regular file (not a directory or device file).
+
+  Example: `if [ -f "document.pdf" ]; then echo "It's a regular file"; fi`
+
+- `-d file`: Returns true if the file is a directory.
+
+  Example: `if [ -d "myfolder" ]; then echo "It's a directory"; fi`
+
+- `-s file`: Returns true if the file is not zero size.
+
+  Example: `if [ -s "nonemptyfile.txt" ]; then echo "File is not empty"; fi`
+
+- `-r file`: Returns true if the file has read permission.
+
+  Example: `if [ -r "readablefile.txt" ]; then echo "File is readable"; fi`
+
+- `-w file`: Returns true if the file has write permission.
+
+  Example: `if [ -w "writablefile.txt" ]; then echo "File is writable"; fi`
+
+- `-x file`: Returns true if the file has execute permission.
+
+  Example: `if [ -x "executablescript.sh" ]; then echo "Script is executable"; fi`
+These operators provide a powerful way to perform file-related checks in Bash scripts, enabling you to make decisions and take actions based on the properties of files.
 
 **Link to notes**: [file test operators](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x04-loops_conditions_and_parsing/file_test_operators)
