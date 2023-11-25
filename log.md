@@ -532,3 +532,14 @@ done
 These operators provide a powerful way to perform file-related checks in Bash scripts, enabling you to make decisions and take actions based on the properties of files.
 
 **Link to notes**: [file test operators](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x04-loops_conditions_and_parsing/file_test_operators)
+
+
+## Day 27: November 25, 2023
+
+**Today's Progress**: Subset Check Challenge, Functions in Python, HackerRank
+
+- **Subset Check Challenge:**
+
+This challenge involves determining whether one set is a subset of another. The goal is to compare two sets, A and B, and check if all elements of set A are present in set B. The solution employs Python, utilizing set operations and a concise function to check the subset relationship. The implementation iterates through the given test cases, reads the sets, and outputs "True" or "False" based on the subset condition.
+
+**Link to solution**: [Subset Check]()
