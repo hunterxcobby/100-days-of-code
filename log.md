@@ -540,6 +540,10 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 - **Subset Check Challenge:**
 
-This challenge involves determining whether one set is a subset of another. The goal is to compare two sets, A and B, and check if all elements of set A are present in set B. The solution employs Python, utilizing set operations and a concise function to check the subset relationship. The implementation iterates through the given test cases, reads the sets, and outputs "True" or "False" based on the subset condition.
+- This challenge involves determining whether one set is a subset of another. 
+- The goal is to compare two sets, A and B, and check if all elements of set A are present in set B.
+- The solution employs Python, utilizing set operations and a concise function to check the subset relationship.
+- The implementation iterates through the given test cases, reads the sets,
+- and outputs "True" or "False" based on the subset condition.
 
-**Link to solution**: [Subset Check]()
+**Link to solution**: [Subset Check](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/04-Check_subset)
