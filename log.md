@@ -547,3 +547,20 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 - and outputs "True" or "False" based on the subset condition.
 
 **Link to solution**: [Subset Check](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/04-Check_subset)
+
+
+
+## Day 28: November 26, 2023
+
+**Today's Progress**: Processes and Signals
+
+- **Process:** A process is described as an instance of a program in execution. In simpler terms, if a program is executed multiple times, each execution is considered a separate process.
+
+- **Multiple Instances:** If the same program is run multiple times, each execution creates a distinct process. For example, if a program is run 10 times simultaneously, there will be 10 corresponding processes.
+
+- **Unique Process ID (PID):** Each process is identified by a unique Process ID (PID). The PID serves as a numerical identifier that distinguishes one process from another in the system.
+
+- **Parent Process ID:** Additionally, each process is associated with the Process ID of its parent process. Understanding the parent-child relationship between processes is crucial for managing and organizing the execution flow.
+
+
+**Link to notes**: [Processes and Signals](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x05-Processes_and_signals)
