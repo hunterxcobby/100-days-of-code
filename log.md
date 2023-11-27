@@ -564,3 +564,39 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 
 **Link to notes**: [Processes and Signals](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x05-Processes_and_signals)
+
+
+## Day 29: November 27, 2023
+
+**Today's Progress**: Building a command line PhoneBook
+
+** Project Log:**
+Certainly, let's create a simple log of what we have accomplished so far in your terminal project.
+
+### Terminal Project Log:
+
+**1. Building a Phonebook Interface:**
+
+- Created a Python script (`interface.py`) to build a command-line phonebook interface.
+- Used the `curses` library to create a simple interactive menu with options to start the phonebook or quit.
+- Implemented functions to print menu items, author information, and contacts model details.
+- Set up a basic structure for running a C program in a new tmux window.
+
+**2. Improving the Interface:**
+
+- Adjusted the layout of menu items and author information.
+- Changed the background and text color of the interface.
+- Implemented a loading effect using a separate utility module (`utility.py`).
+- Separated the "Loading..." message from the "Please wait" message in the loading animation.
+
+**3. Additional Improvements:**
+
+- Explored ways to enhance the phonebook interface, such as adjusting text size and formatting.
+- Addressed issues with the loading animation and clarified the separation of messages.
+
+**Next Steps:**
+
+- Planning to integrate the C program execution into the interface.
+- Considering additional features or improvements for the phonebook interface.
+
+**Link to project**: [Phonebook CLI Project](https://github.com/hunterxcobby/phonebook)
