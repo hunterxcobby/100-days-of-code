@@ -570,7 +570,7 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 **Today's Progress**: Building a command line PhoneBook
 
-** Project Log:**
+**Project Log:**
 Certainly, let's create a simple log of what we have accomplished so far in your terminal project.
 
 ### Terminal Project Log:
