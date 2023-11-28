@@ -29,7 +29,7 @@
 |[Day 24](log.md#day-24-november-22-2023) **22/11/23**| **Python.:** The Print Function, HackerRank Challenge.|[Day 25](log.md#day-25-november-23-2023) **23/11/23**| **Bash Script.:** Loops, conditions and operaators.|
 |[Day 26](log.md#day-26-november-24-2023) **24/11/23**| **Bash Script.:** File test operators.|[Day 27](log.md#day-27-november-25-2023) **25/11/23**| **Python.:** Subset Check Challenge, HackerRank.|
 |[Day 28](log.md#day-28-november-26-2023) **26/11/23**| **Bash Script.:** Processes and Signals .|[Day 29](log.md#day-29-november-27-2023) **27/11/23**| **C lang, Bash && Python:** Building a command line phonebook, implemented an interface |
-
+|[Day 30](log.md#day-30-november-28-2023) **28/11/23**| **C lang, Bash && Python:** Building a command line phonebook, added the options interface |
 
 ## Note
 
