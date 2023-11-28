@@ -598,4 +598,20 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 **Link to project**: [Phonebook CLI Project](https://github.com/hunterxcobby/phonebook)
 
 
+## Day 30: November 28, 2023
 
+**Today's Progress**: Building a command line PhoneBook
+
+**Project Log:**
+
+- **Interface Design:** I worked on designing an interactive interface for the phone book application using the curses library in Python. This involved creating a main menu and options for the phone book, with the ability to navigate using arrow keys.
+
+- **Dynamic Menu Highlighting:** I implemented dynamic highlighting for the selected option in the phone book menu, making it more interactive.
+
+- **Option Selection:** I set up the functionality to perform actions based on the selected option, such as adding, saving, editing, and deleting contacts.
+
+- **Interface Customization:** I made adjustments to the interface, including changing the background color, adjusting text formatting, and adding information at specific locations.
+
+- **Introduction of Control Pad:** I introduced the use of control pad navigation for a more user-friendly experience in the phone book options.
+
+**Link to project**: [Phonebook CLI Project](https://github.com/hunterxcobby/phonebook)
