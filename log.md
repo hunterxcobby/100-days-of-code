@@ -571,10 +571,6 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 **Today's Progress**: Building a command line PhoneBook
 
 **Project Log:**
-Certainly, let's create a simple log of what we have accomplished so far in your terminal project.
-
-### Terminal Project Log:
-
 **1. Building a Phonebook Interface:**
 
 - Created a Python script (`interface.py`) to build a command-line phonebook interface.
@@ -600,3 +596,6 @@ Certainly, let's create a simple log of what we have accomplished so far in your
 - Considering additional features or improvements for the phonebook interface.
 
 **Link to project**: [Phonebook CLI Project](https://github.com/hunterxcobby/phonebook)
+
+
+
