@@ -621,7 +621,7 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 **Today's Progress**: Array Reversal Challenge
 
-**Project Log:**
+**Thoughts:**
 - Solved a challenge to reverse an array in C.
 
 - Implemented the logic to take user input for the array size and elements.
@@ -640,3 +640,22 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 **Link to solution**: [Array Reversal](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x09-Array_reversal)
 
+
+## Day 32: November 30, 2023
+
+**Today's Progress**: Print Token Challenge
+
+**Thoughts:**
+
+- **Understanding the Task:**
+   - The goal is to take a sentence as input and print each word on a new line.
+   - The sentence can include spaces and various characters.
+
+- **Input Handling:**
+   - Read the input sentence. This can be done using standard input functions in C, such as `scanf` or `fgets`.
+
+- **Tokenization:**
+   - Break down the sentence into individual words. In C, you can achieve this by iterating through the characters of the sentence and identifying spaces as word separators.
+   - Keep track of the start and end indices of each word.
+ 
+**Link to solution**: [Print Token](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x10-Print_Tokens)
