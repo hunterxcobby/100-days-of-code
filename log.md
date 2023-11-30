@@ -615,3 +615,28 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 - **Introduction of Control Pad:** I introduced the use of control pad navigation for a more user-friendly experience in the phone book options.
 
 **Link to project**: [Phonebook CLI Project](https://github.com/hunterxcobby/phonebook)
+
+
+## Day 31: November 29, 2023
+
+**Today's Progress**: Array Reversal Challenge
+
+**Project Log:**
+- Solved a challenge to reverse an array in C.
+
+- Implemented the logic to take user input for the array size and elements.
+
+- Used dynamic memory allocation (`malloc`) to create an array based on user input.
+
+- Implemented a loop to reverse the array elements using a temporary variable for swapping.
+
+- Printed the reversed array.
+
+- Freed the allocated memory using `free()` to prevent memory leaks.
+
+- Tested the program with different input arrays to ensure correct reversal.
+
+- Concluded the project and provided a corrected version of the code.
+
+**Link to solution**: [Array Reversal](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x09-Array_reversal)
+
