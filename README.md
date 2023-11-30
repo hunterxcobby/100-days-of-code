@@ -30,6 +30,7 @@
 |[Day 26](log.md#day-26-november-24-2023) **24/11/23**| **Bash Script.:** File test operators.|[Day 27](log.md#day-27-november-25-2023) **25/11/23**| **Python.:** Subset Check Challenge, HackerRank.|
 |[Day 28](log.md#day-28-november-26-2023) **26/11/23**| **Bash Script.:** Processes and Signals .|[Day 29](log.md#day-29-november-27-2023) **27/11/23**| **C lang, Bash && Python:** Building a command line phonebook, implemented an interface |
 |[Day 30](log.md#day-30-november-28-2023) **28/11/23**| **C lang, Bash && Python:** Building a command line phonebook, added the options interface |[Day 31](log.md#day-31-november-29-2023) **29/11/23**| **C language:** Array Reversal Challenge, HackerRank |
+[Day 32](log.md#day-32-november-30-2023) **30/11/23**| **C language:** String Tokenization, Print Token, HackerRank |
 
 ## Note
 
