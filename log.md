@@ -661,7 +661,7 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 **Link to solution**: [Print Token](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x10-Print_Tokens)
 
 
-## Day 32: November 30, 2023
+## Day 32: December 1, 2023
 
 **Today's Progress**: The Digit Frequency Challenge
 
