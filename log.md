@@ -659,3 +659,19 @@ These operators provide a powerful way to perform file-related checks in Bash sc
    - Keep track of the start and end indices of each word.
  
 **Link to solution**: [Print Token](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x10-Print_Tokens)
+
+
+## Day 32: November 30, 2023
+
+**Today's Progress**: The Digit Frequency Challenge
+
+**Thoughts:**
+- **String Iteration:** To solve this challenge, you need to iterate through each character in the given string.
+
+- **Digit Identification:** For each character, check if it is a digit. You can use the ASCII values to identify digits ('0' to '9').
+
+- **Frequency Counting:** Maintain an array or some data structure to store and update the frequency count of each digit as you iterate through the string.
+
+- **Output:** Print the frequency count of each digit in a specific format.
+
+**Link to solution**: [Digit Frequency](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x11-Digit_Frequency)
