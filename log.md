@@ -675,3 +675,15 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 - **Output:** Print the frequency count of each digit in a specific format.
 
 **Link to solution**: [Digit Frequency](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x11-Digit_Frequency)
+
+
+## Day 34: December 2, 2023
+
+**Today's Progress**: The List Comprehension Challenge, Python
+
+**Link to solution**: [List Comprehension](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/05-List_Comprehensions)
+
+
+
+**Link to solution**: [Digit Frequency](https://github.com/hunterxcobby/C-Solutions/tree/main/1-HackerRank/0x11-Digit_Frequenc)
+
