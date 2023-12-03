@@ -692,3 +692,9 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 **Link to solution**: [List Comprehension](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/05-List_Comprehensions)
 
+
+## Day 35: December 3, 2023
+
+**Today's Progress**: Runner-Up Score Finder, Python
+
+**Link to solution**: [Runner-Up Score Finder](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/06-RunnerUP_Score)
