@@ -710,7 +710,7 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 
 
-## Day 35: December 3, 2023
+## Day 36: December 4, 2023
 
 **Today's Progress**: The UUID and Datetime module, Python
 
@@ -723,8 +723,10 @@ These operators provide a powerful way to perform file-related checks in Bash sc
   - uuid4(): This method generates a UUID based on random numbers.
   - While not guaranteed to be unique, the probability of collision is extremely low.
 **link to notes:**  [UUID Module](https://github.com/hunterxcobby/Python-Projects/tree/main/my_projects/airbnb_console_test/notes)   
+
+
 - The datetime module in Python provides classes for working with dates and times. 
 - It's particularly useful for handling various time-related operations.
 - Here's a brief overview of how you can use the datetime module:
 
-**link to notes:**  [DateTime Module]()
+**link to notes:**  [DateTime Module](https://github.com/hunterxcobby/Python-Projects/blob/main/my_projects/airbnb_console_test/notes/uuid.md)
