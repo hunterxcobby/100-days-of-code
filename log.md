@@ -730,4 +730,4 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 - It's particularly useful for handling various time-related operations.
 - Here's a brief overview of how you can use the datetime module:
 
-**link to notes:**  [DateTime Module](https://github.com/hunterxcobby/Python-Projects/blob/main/my_projects/airbnb_console_test/notes/uuid.md)
+**link to notes:**  [DateTime Module](https://github.com/hunterxcobby/Python-Projects/blob/main/my_projects/airbnb_console_test/notes/datetime.md)
