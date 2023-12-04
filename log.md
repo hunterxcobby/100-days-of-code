@@ -707,3 +707,24 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 - **Edge Cases:** The code should handle edge cases gracefully. For example, if there's only one unique score, there's no runner-up. The provided solution includes a check for this scenario.
 
 **Link to solution**: [Runner-Up Score Finder](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/06-RunnerUP_Score)
+
+
+
+## Day 35: December 3, 2023
+
+**Today's Progress**: The UUID and Datetime module, Python
+
+- The uuid module in Python is used for generating universally unique identifiers 
+- It is often referred to as UUIDs.
+- UUIDs are 128-bit numbers that are unique across both space and time.
+- They are commonly used in various applications and systems to uniquely identify entities.
+  - uuid1(): This method generates a UUID based on the current timestamp and the machine's hardware address.
+  - It may compromise uniqueness if multiple UUIDs are generated within the same 100-nanosecond interval.
+  - uuid4(): This method generates a UUID based on random numbers.
+  - While not guaranteed to be unique, the probability of collision is extremely low.
+**link to notes:**  [UUID Module](https://github.com/hunterxcobby/Python-Projects/tree/main/my_projects/airbnb_console_test/notes)   
+- The datetime module in Python provides classes for working with dates and times. 
+- It's particularly useful for handling various time-related operations.
+- Here's a brief overview of how you can use the datetime module:
+
+**link to notes:**  [DateTime Module]()
