@@ -32,7 +32,7 @@
 |[Day 30](log.md#day-30-november-28-2023) **28/11/23**| **C lang, Bash && Python:** Building a command line phonebook, added the options interface |[Day 31](log.md#day-31-november-29-2023) **29/11/23**| **C language:** Array Reversal Challenge, HackerRank |
 [Day 32](log.md#day-32-november-30-2023) **30/11/23**| **C language:** String Tokenization, Print Token, HackerRank |[Day 33](log.md#day-33-december-1-2023) **1/12/23**| **C language:** , Digit Frequency, HackerRank |
 |[Day 34](log.md#day-34-december-2-2023) **2/12/23**| **Python:** Basic Datatype, List comprehension, HackerRank |[Day 35](log.md#day-35-december-3-2023) **3/12/23**| **Python:** Basic Datatype, Runner Up Score Finder, HackerRank |
-[Day 36](log.md#day-36-december-4-2023) **4/12/23**| **Python:** UUID and DateTime Modules, AirBnR project |
+[Day 36](log.md#day-36-december-4-2023) **4/12/23**| **Python:** UUID and DateTime Modules, AirBnB project |
 
 
 
