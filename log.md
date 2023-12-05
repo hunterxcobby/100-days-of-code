@@ -731,3 +731,30 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 - Here's a brief overview of how you can use the datetime module:
 
 **link to notes:**  [DateTime Module](https://github.com/hunterxcobby/Python-Projects/blob/main/my_projects/airbnb_console_test/notes/datetime.md)
+
+
+## Day 37: December 5, 2023
+
+**Today's Progress**: The cmd module, Python
+The `Cmd` class in Python provides a simple framework for building line-oriented command interpreters. Here's a breakdown:
+
+1. **Purpose:**
+   - It's designed for creating command-line interpreters, which are handy for building tools, administrative utilities, or prototypes that might later get a fancier interface.
+
+2. **Class Definition:**
+   - `class cmd.Cmd(completekey='tab', stdin=None, stdout=None)`
+   - When you create an instance of `Cmd`, you're essentially setting up a framework for handling commands and providing an interactive interface.
+
+3. **Usage:**
+   - You typically don't directly use `Cmd` but instead subclass it. By doing this, you inherit the methods provided by `Cmd` and can define your own methods to handle specific commands.
+
+4. **Completion Key:**
+   - The `completekey` argument is optional and defaults to 'Tab'. If the `readline` library is available, it enables automatic command completion when the user hits the specified key.
+
+5. **Input and Output:**
+   - You can specify input and output file objects using the `stdin` and `stdout` arguments. If not provided, they default to `sys.stdin` and `sys.stdout`.
+
+6. **Raw Input:**
+   - If you want to use a specific `stdin`, ensure to set the instance's `use_rawinput` attribute to `False`. This prevents ignoring the specified `stdin`.
+
+**link to notes:**  [cmd Module]()
