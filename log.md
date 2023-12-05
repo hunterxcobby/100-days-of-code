@@ -757,4 +757,4 @@ The `Cmd` class in Python provides a simple framework for building line-oriented
 6. **Raw Input:**
    - If you want to use a specific `stdin`, ensure to set the instance's `use_rawinput` attribute to `False`. This prevents ignoring the specified `stdin`.
 
-**link to notes:**  [cmd Module]()
+**link to notes:**  [cmd Module](https://github.com/hunterxcobby/Python-Projects/tree/main/my_projects/airbnb_console_test/notes/cmd_module)
