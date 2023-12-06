@@ -758,3 +758,23 @@ The `Cmd` class in Python provides a simple framework for building line-oriented
    - If you want to use a specific `stdin`, ensure to set the instance's `use_rawinput` attribute to `False`. This prevents ignoring the specified `stdin`.
 
 **link to notes:**  [cmd Module](https://github.com/hunterxcobby/Python-Projects/tree/main/my_projects/airbnb_console_test/notes/cmd_module)
+
+
+## Day 38: December 6, 2023
+
+**Today's Progress**: AirBnB Clone Project, Python
+
+Here's a short progress log summarizing what my partner and I have accomplished so far:
+
+1. **File Storage Class (`file_storage.py`):**
+   - Created a `FileStorage` class for serialization and deserialization of instances to/from a JSON file.
+   - Implemented private class attributes (`__file_path` and `__objects`) for file path and object storage.
+   - Added public methods (`all`, `new`, `save`, `reload`) for managing instances.
+
+2. **Base Model Class (`base_model.py`):**
+   - Developed a `BaseModel` class with a constructor, string representation method (`__str__`), `save`, and `to_dict` methods.
+   - Implemented initialization from dictionary representation in the constructor.
+
+
+
+**link to progress:**  [cmd Module](https://github.com/hunterxcobby/AirBnB_clone)
