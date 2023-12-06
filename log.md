@@ -775,6 +775,4 @@ Here's a short progress log summarizing what my partner and I have accomplished 
    - Developed a `BaseModel` class with a constructor, string representation method (`__str__`), `save`, and `to_dict` methods.
    - Implemented initialization from dictionary representation in the constructor.
 
-
-
-**link to progress:**  [cmd Module](https://github.com/hunterxcobby/AirBnB_clone)
+**link to progress:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
