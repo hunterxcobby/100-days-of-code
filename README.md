@@ -33,7 +33,7 @@
 [Day 32](log.md#day-32-november-30-2023) **30/11/23**| **C language:** String Tokenization, Print Token, HackerRank |[Day 33](log.md#day-33-december-1-2023) **1/12/23**| **C language:** , Digit Frequency, HackerRank |
 |[Day 34](log.md#day-34-december-2-2023) **2/12/23**| **Python:** Basic Datatype, List comprehension, HackerRank |[Day 35](log.md#day-35-december-3-2023) **3/12/23**| **Python:** Basic Datatype, Runner Up Score Finder, HackerRank |
 [Day 36](log.md#day-36-december-4-2023) **4/12/23**| **Python:** UUID and DateTime Modules, AirBnB project |[Day 37](log.md#day-37-december-5-2023) **5/12/23**| **Python:** The cmd module, AirBnB project |
-|[Day 38](log.md#day-38-december-6-2023) **6/12/23**| **Python:** AirBnB Clone Project- The Console |[Day 39](log.md#day-39-december-7-2023) **6/12/23**| **Python:** AirBnB Clone Project- Show, Create, Update and Destroy |
+|[Day 38](log.md#day-38-december-6-2023) **6/12/23**| **Python:** AirBnB Clone Project- The Console |[Day 39](log.md#day-39-december-7-2023) **7/12/23**| **Python:** AirBnB Clone Project- Show, Create, Update and Destroy |
 
 
 
