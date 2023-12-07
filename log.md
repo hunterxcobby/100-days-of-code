@@ -778,19 +778,44 @@ Here's a short progress log summarizing what my partner and I have accomplished 
 **link to progress:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
 
 
-## Day 38: December 6, 2023
+## Day 39: December 7, 2023
 
-**Today's Progress**: AirBnB Clone Project, Python
+**Today's Progress**: AirBnB Clone Project - Create, Show, Update, Destroy. Python
 
 Here's a short progress log summarizing what my partner and I have accomplished so far:
 
-1. **File Storage Class (`file_storage.py`):**
-   - Created a `FileStorage` class for serialization and deserialization of instances to/from a JSON file.
-   - Implemented private class attributes (`__file_path` and `__objects`) for file path and object storage.
-   - Added public methods (`all`, `new`, `save`, `reload`) for managing instances.
+1. **Code Review and Refinement:**
+   - Reviewed and discussed the existing code for the `do_update` method in the console application.
+   - Identified potential issues and inconsistencies in the code.
+   - Collaboratively refined the code to align with project requirements and best practices.
 
-2. **Base Model Class (`base_model.py`):**
-   - Developed a `BaseModel` class with a constructor, string representation method (`__str__`), `save`, and `to_dict` methods.
-   - Implemented initialization from dictionary representation in the constructor.
+2. **Error Handling and Attribute Creation:**
+   - Addressed an error related to updating attributes that don't exist in the class.
+   - Modified the code to create the attribute if it doesn't exist and update it with the given value.
+
+3. **Display Order Enhancement:**
+   - Discussed and resolved an issue related to the display order of attributes in the `show` command.
+   - Adjusted the code to display attributes alphabetically before the default `created_at` and `updated_at` attributes.
+
+4. **New Model Placement:**
+   - Explored options to control the placement of newly created models in the list.
+   - Discussed the desire to have newly created models appear at the top of the list.
+
+5. **Additional Changes and Testing:**
+   - Discussed and implemented changes in the `new` method for setting objects in `__objects`.
+   - Ensured that the code aligns with requirements and tested it with various scenarios.
+
+6. **General Code Comparison:**
+   - Compared and discussed different code snippets related to the `do_update` method.
+   - Ensured that the code is concise, clear, and aligned with the specified requirements.
+
+7. **Documentation:**
+   - Documented key decisions, changes made, and rationale behind modifications.
+   - Ensured that the code and discussions are well-documented for future reference.
+
+**Next Steps:**
+- Consider additional enhancements based on user preferences.
+- Continue testing and refining the code for robustness.
+- Discuss any other specific requirements or improvements.
 
 **link to progress:**  [AirBnB Clone Test](https://github.com/hunterxcobby/Python-Projects/blob/main/my_projects/airbnb_console_test/console.py)
