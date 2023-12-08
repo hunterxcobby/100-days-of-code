@@ -821,9 +821,19 @@ Here's a short progress log summarizing what my partner and I have accomplished 
 **link to progress:**  [AirBnB Clone Test](https://github.com/hunterxcobby/Python-Projects/blob/main/my_projects/airbnb_console_test/console.py)
 
 
-## Day 39: December 7, 2023
+## Day 40: December 8, 2023
 
 **Today's Progress**: AirBnB Clone Project - SubClasses, serialization and deserialization, Python
 
+**Progress Log:**
+
+- Implemented new classes (State, City, Amenity, Place, Review) inheriting from BaseModel, each with specific attributes.
+- Updated FileStorage to manage serialization and deserialization for the new classes.
+- Enhanced the command interpreter (console.py) to support actions (show, create, destroy, update, all) for all classes.
+- Made improvements to the code structure and adhered to PEP 8 style guidelines.
+- Ensured that the command interpreter handles actions consistently for all classes.
+- Collaboratively refined and debugged the codebase to ensure correctness and clarity.
+
+Next steps may involve further testing, refining, and potentially extending functionality based on project requirements.
 
 **link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
