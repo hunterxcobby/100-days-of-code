@@ -775,7 +775,7 @@ Here's a short progress log summarizing what my partner and I have accomplished 
    - Developed a `BaseModel` class with a constructor, string representation method (`__str__`), `save`, and `to_dict` methods.
    - Implemented initialization from dictionary representation in the constructor.
 
-**link to progress:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
+**link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
 
 
 ## Day 39: December 7, 2023
@@ -819,3 +819,11 @@ Here's a short progress log summarizing what my partner and I have accomplished 
 - Discuss any other specific requirements or improvements.
 
 **link to progress:**  [AirBnB Clone Test](https://github.com/hunterxcobby/Python-Projects/blob/main/my_projects/airbnb_console_test/console.py)
+
+
+## Day 39: December 7, 2023
+
+**Today's Progress**: AirBnB Clone Project - SubClasses, serialization and deserialization, Python
+
+
+**link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
