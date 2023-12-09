@@ -837,3 +837,22 @@ Here's a short progress log summarizing what my partner and I have accomplished 
 Next steps may involve further testing, refining, and potentially extending functionality based on project requirements.
 
 **link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
+
+
+## Day 41: December 9, 2023
+
+**Today's Progress**: AirBnB Clone Project - Refining of command model, custom commands instances, Python
+
+**Progress Log:**
+
+1. **Model Classes:** Created and refined model classes such as `BaseModel`, `User`, `State`, `City`, `Amenity`, `Place`, and `Review`, each inheriting from `BaseModel`.
+
+2. **File Storage:** Updated the `FileStorage` class to correctly handle serialization and deserialization for all new classes.
+
+3. **Command Interpreter (`console.py`):** Enhanced the command interpreter to handle various actions like creating, showing, destroying, updating, and listing instances for all classes. Refactored the code for better organization and readability.
+
+4. **Custom Commands:** Implemented custom commands for showing all instances, counting instances, and destroying instances based on their IDs.
+
+5. **Error Handling:** Maintained consistent error handling throughout the code, providing clear messages for missing classes, instances, or invalid actions.
+
+**link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
