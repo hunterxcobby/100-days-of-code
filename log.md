@@ -856,3 +856,38 @@ Next steps may involve further testing, refining, and potentially extending func
 5. **Error Handling:** Maintained consistent error handling throughout the code, providing clear messages for missing classes, instances, or invalid actions.
 
 **link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
+
+
+## Day 42: December 10, 2023
+
+**Today's Progress**: AirBnB Clone Project - Writing a test for the program using the Unittest module, Python
+
+**Progress Log:**
+
+1. **BaseModel Class:**
+   - Created unit tests to ensure proper initialization, string representation, and `to_dict` method in the `BaseModel` class.
+   - Tests cover key attributes such as `id`, `created_at`, `updated_at`, and their proper functionality.
+
+2. **User Class:**
+   - Extended unit tests to cover the `User` class, ensuring proper initialization, string representation, and `to_dict` method.
+   - Tests include checking for attributes like `email`, `password`, `first_name`, and `last_name`.
+
+3. **Amenity Class:**
+   - Further extended unit tests to cover the `Amenity` class, ensuring proper initialization, string representation, and `to_dict` method.
+   - Tests include checking for the `name` attribute.
+
+4. **City Class:**
+   - Continued the trend by creating unit tests for the `City` class, covering initialization, string representation, and `to_dict` method.
+   - Tests include checking for attributes such as `state_id` and `name`.
+
+5. **Place Class:**
+   - Progressed to create unit tests for the `Place` class, covering initialization, string representation, and `to_dict` method.
+   - Tests include checking for various attributes such as `city_id`, `user_id`, `name`, and several others.
+
+6. **Review Class:**
+   - Concluded by creating unit tests for the `Review` class, covering initialization, string representation, and `to_dict` method.
+   - Tests include checking for attributes such as `place_id`, `user_id`, and `text`.
+
+Each set of tests is designed to ensure the correct functionality of the respective class, providing a foundation for ongoing development and maintenance of the project.
+
+**link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
