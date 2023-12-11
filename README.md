@@ -35,7 +35,8 @@
 [Day 36](log.md#day-36-december-4-2023) **4/12/23**| **Python:** UUID and DateTime Modules, AirBnB project |[Day 37](log.md#day-37-december-5-2023) **5/12/23**| **Python:** The cmd module, AirBnB project |
 |[Day 38](log.md#day-38-december-6-2023) **6/12/23**| **Python:** AirBnB Clone Project- The Console |[Day 39](log.md#day-39-december-7-2023) **7/12/23**| **Python:** AirBnB Clone Project- Show, Create, Update and Destroy |
 [Day 40](log.md#day-40-december-8-2023) **8/12/23**| **Python:** AirBnB Clone Project- Show, Subclass, serialization and deserialization |[Day 41](log.md#day-41-december-9-2023) **9/12/23**| **Python:** AirBnB Clone Project- custom commands all instances, serialization and deserialization |
-|[Day 42](log.md#day-42-december-10-2023) **10/12/23**| **Python:** AirBnB Clone Project- Writing a test for the program using the Unittest module, Python|
+|[Day 42](log.md#day-42-december-10-2023) **10/12/23**| **Python:** AirBnB Clone Project- Writing a test for the program using the Unittest module, Python|[Day 43](log.md#day-43-december-11-2023) **11/12/23**|**C lang, Bash && Python:** Command line phonebook, the options menu|
+
 
 
 
