@@ -891,3 +891,32 @@ Next steps may involve further testing, refining, and potentially extending func
 Each set of tests is designed to ensure the correct functionality of the respective class, providing a foundation for ongoing development and maintenance of the project.
 
 **link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/AirBnB_clone)
+
+
+## Day 43: December 11, 2023
+
+**Today's Progress**: Building a command line PhoneBook
+
+**Project Log:**
+*
+**Achievements:**
+1. Implemented a loading animation using curses to enhance user experience during certain processes.
+2. Created a modular structure for the phonebook application, separating the main program from utility functions.
+3. Developed a phonebook interface with interactive menu options, allowing users to navigate through functionalities.
+4. Integrated control commands for "Help" (Ctrl + H) and "Quit" (Ctrl + Q) in the phonebook interface.
+5. Addressed issues related to the termination of the program and lingering processes in the terminal.
+
+**Challenges:**
+1. Encountered initial difficulties in handling terminal state properly, resolved by using `curses.wrapper` for setup and cleanup.
+2. Worked on refining the loading animation to provide a smoother and more interactive experience.
+
+**Next Steps:**
+1. Implement specific functionalities (e.g., adding, displaying, searching, editing, and deleting contacts) within the phonebook interface.
+2. Enhance the user interface further, considering color schemes, fonts, and layout adjustments.
+3. Continue testing and refining the application for a seamless user experience.
+4. Explore additional features and improvements based on project goals.
+
+**Notes:**
+Today's progress focused on establishing a foundation for the phonebook application, incorporating user-friendly interfaces and navigation. Addressed challenges related to terminal handling and implemented basic control commands. Further enhancements and feature implementations are planned for the next session.
+
+**link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/phonebook)
