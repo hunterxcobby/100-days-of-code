@@ -919,4 +919,4 @@ Each set of tests is designed to ensure the correct functionality of the respect
 **Notes:**
 Today's progress focused on establishing a foundation for the phonebook application, incorporating user-friendly interfaces and navigation. Addressed challenges related to terminal handling and implemented basic control commands. Further enhancements and feature implementations are planned for the next session.
 
-**link to project:**  [AirBnB Clone](https://github.com/hunterxcobby/phonebook)
+**link to project:**  [PhoneBook](https://github.com/hunterxcobby/phonebook)
