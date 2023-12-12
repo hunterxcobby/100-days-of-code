@@ -926,4 +926,15 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 
 **Today's Progress**: Basic Datatypes, Nested Lists, Second Lowest Grade Finder Challenge, HackerRank
 
+- **Approach**:
+  - Took input for the number of participants and their scores.
+  - Stored the scores in a list.
+  - Sorted the unique scores in descending order.
+  - Extracted the second element (runner-up score) from the sorted list.
+  - Printed the runner-up score.
+
+- **Result**:
+  - Successfully found and printed the runner-up score for the given participants' score sheet.
+
+
 **link to solution:**  [Nested List](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/07-Nested_List)
