@@ -898,7 +898,7 @@ Each set of tests is designed to ensure the correct functionality of the respect
 **Today's Progress**: Building a command line PhoneBook
 
 **Project Log:**
-*
+
 **Achievements:**
 1. Implemented a loading animation using curses to enhance user experience during certain processes.
 2. Created a modular structure for the phonebook application, separating the main program from utility functions.
@@ -920,3 +920,7 @@ Each set of tests is designed to ensure the correct functionality of the respect
 Today's progress focused on establishing a foundation for the phonebook application, incorporating user-friendly interfaces and navigation. Addressed challenges related to terminal handling and implemented basic control commands. Further enhancements and feature implementations are planned for the next session.
 
 **link to project:**  [PhoneBook](https://github.com/hunterxcobby/phonebook)
+
+
+## Day 44: December 12, 2023
+**Today's Progress**: Basic Datatypes, Nested Lists, Second Lowest Grade Finder Challenge, HackerRank
