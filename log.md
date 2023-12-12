@@ -923,4 +923,7 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 
 
 ## Day 44: December 12, 2023
+
 **Today's Progress**: Basic Datatypes, Nested Lists, Second Lowest Grade Finder Challenge, HackerRank
+
+**link to solution:**  [Nested List](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/07-Nested_List)
