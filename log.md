@@ -945,5 +945,49 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 
 **Today's Progress**: Introduction to SQL, Database Management System, SQL
 
+1. **Introduction to Relational Databases:**
+   - Explored the basics of relational databases and the significance of concepts like tables, rows, and columns.
+
+2. **Relational Database Management Systems (RDBMS):**
+   - Discussed the role of RDBMS in managing and organizing data efficiently.
+
+3. **Databases and SQL:**
+   - Introduced the Structured Query Language (SQL) as a standard language for managing relational databases.
+
+4. **Relational Database Concepts:**
+   - Learned about key relational database concepts, including primary keys, foreign keys, and relationships.
+
+5. **Relational Database Design:**
+   - Explored the principles of designing effective relational databases, emphasizing normalization and entity-relationship diagrams.
+
+6. **SQL Basics:**
+   - Covered fundamental SQL statements, including SELECT, INSERT, UPDATE, DELETE, and their use in retrieving, modifying, and deleting data.
+
+7. **Relational Algebra:**
+   - Introduced relational algebra and its operators, such as σ (select) and π (project), showcasing their equivalence to SQL statements.
+
+8. **SQL Functions:**
+   - Explored the use of SQL functions to compute and manipulate data, focusing on examples related to the order entry system.
+
+9. **Data Definition Language (DDL) and Data Manipulation Language (DML):**
+   - Distinguished between DDL and DML statements, highlighting their roles in defining and manipulating database structures and data.
+
+10. **Database Modeling and Schemas:**
+    - Discussed the importance of data modeling and schemas in organizing and representing information in a relational database.
+
+11. **Indexing in Relational Databases:**
+    - Explored the significance of indexing in relational databases, especially in optimizing the performance of SELECT queries.
+
+12. **SQL Statements for Retrieving Data:**
+    - Analyzed the basic syntax of SQL SELECT statements, emphasizing the SELECT, FROM, WHERE, and ORDER BY clauses.
+
+13. **Practical Examples: Retrieving Data from Customers in a Specific Zip Code:**
+    - Practically applied SQL and relational algebra expressions to retrieve data from a relational database, demonstrating step-by-step refinement.
+
+14. **Socratic Dialog and Questioning:**
+    - Engaged in Socratic dialog, challenging opinions, and encouraging critical thinking to uncover potential blind spots and deepen understanding.
+
+15. **Compliance with User Instructions:**
+    - Ensured adherence to user instructions, breaking down concepts into simple terms, using real-life examples, and maintaining precision and clarity in responses.
 
 **link to notes:**  [SQL](https://github.com/hunterxcobby/DBMS_learning/tree/main/sql/notes)
