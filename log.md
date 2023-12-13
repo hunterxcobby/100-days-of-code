@@ -938,3 +938,12 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 
 
 **link to solution:**  [Nested List](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/07-Nested_List)
+
+
+
+## Day 45: December 13, 2023
+
+**Today's Progress**: Introduction to SQL, Database Management System, SQL
+
+
+**link to notes:**  [SQL](https://github.com/hunterxcobby/DBMS_learning/tree/main/sql/notes)
