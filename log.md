@@ -991,3 +991,6 @@ Today's progress focused on establishing a foundation for the phonebook applicat
     - Ensured adherence to user instructions, breaking down concepts into simple terms, using real-life examples, and maintaining precision and clarity in responses.
 
 **link to notes:**  [SQL](https://github.com/hunterxcobby/DBMS_learning/tree/main/sql/notes)
+
+
+**link to notes:**  [SQL](https://github.com/hunterxcobby/DBMS_learning/tree/main/SQL-More_queries)
