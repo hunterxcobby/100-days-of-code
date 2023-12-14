@@ -993,4 +993,40 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 **link to notes:**  [SQL](https://github.com/hunterxcobby/DBMS_learning/tree/main/sql/notes)
 
 
+## Day 46: December 14, 2023
+
+**Today's Progress**: More Queries, Contraints, Functions - SQL
+
+1. Explored the **NOT NULL Constraint**:
+   - Ensures a column cannot have NULL values.
+   - Illustrated with a table example where LastName and FirstName columns are set as NOT NULL.
+   - Demonstrated that an attempt to insert a row with a NULL value in a NOT NULL column results in an error.
+
+2. Explored the **UNIQUE Constraint**:
+   - Ensures all values in a column are unique.
+   - Illustrated with a Brands table where BrandName is set as UNIQUE.
+   - Showed that duplicate entries trigger an error, maintaining uniqueness.
+
+3. Discussed the **PRIMARY KEY Constraint**:
+   - Uniquely identifies each record in a table.
+   - Illustrated with the creation of a Brands table with Id as the primary key.
+   - Highlighted that primary keys are essential for database design and become foreign keys in other tables for establishing relationships.
+
+4. Discussed the **FOREIGN KEY Constraint**:
+   - Establishes a referential constraint between two tables.
+   - Illustrated with Authors and Books tables, where AuthorId in Books is a foreign key referencing AuthorId in Authors.
+   - Emphasized that foreign key enforcement ensures data integrity and valid relationships between tables.
+
+5. Explored the **ENUM Constraint**:
+   - Creates a string object with values chosen from a list.
+   - Illustrated with a Shops table where Quality is an ENUM with values 'High', 'Average', 'Low'.
+   - Showed that inserting values not in the ENUM list results in an empty string.
+
+6. Discussed the **SET Constraint**:
+   - Allows a column to have zero or more values chosen from a list.
+   - Illustrated with a Students table where Certificates is a SET with values 'A1', 'A2', 'B1', 'C1'.
+   - Demonstrated that each row can have multiple values separated by commas.
+
+Each constraint serves a specific purpose in database design, contributing to data integrity and flexibility in representing different types of information.
+
 **link to notes:**  [SQL](https://github.com/hunterxcobby/DBMS_learning/tree/main/SQL-More_queries)
