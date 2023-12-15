@@ -1030,3 +1030,29 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 Each constraint serves a specific purpose in database design, contributing to data integrity and flexibility in representing different types of information.
 
 **link to notes:**  [SQL](https://github.com/hunterxcobby/DBMS_learning/tree/main/SQL-More_queries)
+
+
+## Day 47: December 15, 2023
+
+**Today's Progress**: Introduction to Web Development, HTML and CSS
+
+1. **Understanding HTML Elements:**
+   - Explored the concept of HTML elements as the building blocks of a webpage, defining its structure and content.
+
+2. **HTML Tags:**
+   - Broke down the idea of tags as the bookends of HTML elements, with opening and closing tags forming a container for content.
+
+3. **HTML Attributes:**
+   - Explored attributes as additional information or properties attached to HTML elements, enhancing their behavior or appearance.
+
+4. **HTML Document Structure:**
+   - Discussed the necessary structure for HTML documents, including the document type declaration, `<html>`, `<head>`, and `<body>` elements.
+   - Examined an example HTML document structure and understood the purpose of each section.
+
+5. **Changing Colors in CSS:**
+   - Reviewed the provided CSS code and made changes to color codes based on your request.
+   - Replaced the blue color with black and the cyan color with blue in specific sections of the stylesheet.
+
+6. **Summary of Changes in CSS:**
+   - Updated colors in the `header`, `features` section, `quote` section, and `footer` to align with your preferences.
+
