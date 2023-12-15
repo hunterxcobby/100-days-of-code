@@ -1056,3 +1056,4 @@ Each constraint serves a specific purpose in database design, contributing to da
 6. **Summary of Changes in CSS:**
    - Updated colors in the `header`, `features` section, `quote` section, and `footer` to align with your preferences.
 
+[link to notes:**](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/introduction)
