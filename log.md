@@ -1057,3 +1057,36 @@ Each constraint serves a specific purpose in database design, contributing to da
    - Updated colors in the `header`, `features` section, `quote` section, and `footer` to align with your preferences.
 
 **link to notes:** [WebDev Introduction](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/introduction)
+
+
+
+## Day 48: December 16, 2023
+
+**Today's Progress**: Getting to know, HTML and CSS
+
+1. **HTML Basics:**
+   - Explored the fundamentals of HTML, including elements, tags, and attributes.
+   - Discussed the common HTML terms: elements, tags, and attributes.
+   - Learned about the structure of an HTML document, including the `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` elements.
+
+2. **CSS Basics:**
+   - Introduced the basics of CSS, focusing on selectors, properties, and values.
+   - Explored different types of selectors, such as type, class, and ID selectors.
+   - Discussed the role of properties in styling HTML elements and how values determine the appearance.
+   - Learned about additional selectors like descendant, child, pseudo-classes, and attribute selectors.
+
+3. **Referencing CSS in HTML:**
+   - Explored best practices for referencing external CSS files in HTML using the `<link>` element.
+   - Discussed the importance of organizing styles in an external stylesheet for consistency across a website.
+
+4. **CSS Resets and Cross-Browser Compatibility:**
+   - Explored the concept of CSS resets to standardize default styles across different browsers.
+   - Discussed the importance of cross-browser compatibility and testing.
+   - Introduced popular CSS resets like Eric Meyer's reset and Normalize.css.
+
+5. **Design Enhancement with CSS:**
+   - Updated existing CSS styles to add a touch of beautiful design.
+   - Added smooth transitions for color changes and hover effects.
+   - Improved the smoothness of borders by incorporating `border-radius` and enhancing transition properties.
+
+**link to progress:** [WebDev](https://github.com/hunterxcobby/WEB-DEV_learning)
