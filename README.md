@@ -38,8 +38,7 @@
 |[Day 42](log.md#day-42-december-10-2023) **10/12/23**| **Python:** AirBnB Clone Project- Writing a test for the program using the Unittest module, Python|[Day 43](log.md#day-43-december-11-2023) **11/12/23**|**C lang, Bash && Python:** Command line phonebook, the options menu|
 |[Day 44](log.md#day-44-december-12-2023) **12/12/23**|**Python:** Basic Datatypes, Nested Lists, Second Lowest Grade Finder Challenge, HackerRank |[Day 45](log.md#day-45-december-13-2023) **13/12/23**| **SQL:** Introduction to SQL, Database Management System.|
 |[Day 46](log.md#day-46-december-14-2023) **14/12/23**| **SQL:**  More Queries |[Day 47](log.md#day-47-december-15-2023) **15/12/23**| **HTML && CSS:**  Learn to code HTML and CSS |
-|[Day 48](log.md#day-48-december-16-2023) **16/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |
-|[Day 49](log.md#day-49-december-17-2023) **17/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |
+|[Day 48](log.md#day-48-december-16-2023) **16/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |[Day 49](log.md#day-49-december-17-2023) **17/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |
 
 
 
