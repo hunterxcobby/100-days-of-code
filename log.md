@@ -1090,3 +1090,50 @@ Each constraint serves a specific purpose in database design, contributing to da
    - Improved the smoothness of borders by incorporating `border-radius` and enhancing transition properties.
 
 **link to progress:** [WebDev](https://github.com/hunterxcobby/WEB-DEV_learning)
+
+
+## Day 49: December 17, 2023
+
+**Today's Progress**: knowing more into details - Web Static, HTML and CSS
+
+1. **HTML Structure:**
+   - Discussed the importance of structuring HTML documents.
+   - Introduced the `<head>` and `<body>` elements, explaining their roles.
+
+2. **Text-Based Elements in HTML:**
+   - Explored various text-based elements such as headings, paragraphs, bold text (`<strong>`), and italicized text (`<em>`).
+   - Demonstrated the use of heading levels from `<h1>` to `<h6>` and the `<p>` element.
+
+3. **Building Structure with HTML5 Elements:**
+   - Explored new HTML5 structurally based elements like `<header>`, `<nav>`, `<article>`, `<section>`, `<aside>`, and `<footer>`.
+   - Clarified the semantic meanings and use cases for each element.
+
+4. **CSS Cascade:**
+   - Introduced the cascade in CSS, emphasizing how styles progress from the top to the bottom of a stylesheet.
+   - Demonstrated how styles can be overwritten based on the cascade order.
+
+5. **Cascading Properties in CSS:**
+   - Discussed how properties inside individual selectors also follow the cascade.
+   - Illustrated examples of how cascading properties work, emphasizing the order's importance.
+
+6. **Calculating Specificity:**
+   - Discussed specificity weights of CSS selectors, focusing on type, class, and ID selectors.
+   - Explored how specificity influences the precedence of styles, using examples.
+
+7. **Combining Selectors:**
+   - Introduced the concept of combining selectors to increase specificity.
+   - Discussed the key selector and prequalifiers in combined selectors.
+
+8. **Layering Styles with Multiple Classes:**
+   - Explored the use of multiple classes in HTML elements for modular styling.
+   - Demonstrated how to layer styles using different classes.
+
+9. **Common CSS Property Values - Colors:**
+   - Discussed color representation in CSS, including keywords, hexadecimal notation, and RGB and HSL values.
+   - Introduced common color-related property values.
+
+10. **Common CSS Property Values - Lengths:**
+    - Explored absolute and relative length values in CSS.
+    - Discussed pixel units for absolute lengths and percentage and em units for relative lengths.
+  
+**link to progress:** [WebDev](https://github.com/hunterxcobby/WEB-DEV_learning)
