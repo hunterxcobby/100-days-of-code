@@ -1137,3 +1137,11 @@ Each constraint serves a specific purpose in database design, contributing to da
     - Discussed pixel units for absolute lengths and percentage and em units for relative lengths.
   
 **link to progress:** [WebDev](https://github.com/hunterxcobby/WEB-DEV_learning)
+
+
+## Day 50: December 18, 2023
+
+**Today's Progress**: The AirBnB Clone - Web Static.
+
+
+**link to projecct:** [AirBnB](https://github.com/hunterxcobby/AirBnB_clone)
