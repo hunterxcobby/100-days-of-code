@@ -1174,3 +1174,51 @@ Each constraint serves a specific purpose in database design, contributing to da
    - Provided guidance on incorporating a logo into the header and using background images.
 
 **link to projecct:** [AirBnB](https://github.com/hunterxcobby/AirBnB_clone)
+
+
+## Day 51: December 19, 2023
+
+**Today's Progress**: Using the join operations in SQL
+
+1. **Basic Query Operation: The Join:**
+   - SQL syntax for joining tables.
+   - NATURAL JOIN and INNER JOIN used to combine rows based on common attributes.
+   - NATURAL JOIN implicitly uses attributes with the same name.
+   - INNER JOIN requires explicitly specifying join conditions.
+
+2. **RA Syntax for Join:**
+   - RA join denoted as r ⋈ s.
+   - Result scheme is the union of the two relation schemes.
+   - Join attributes found in the intersection of the two schemes.
+   - Result consists of pairwise paste of tuples from both relations.
+
+3. **Multiple Joins:**
+   - Ability to retrieve information from multiple tables.
+   - Example: List of products purchased by a specific customer.
+   - Follow PK-FK pairs to link related information.
+   - Join types include NATURAL, INNER, LEFT OUTER, RIGHT OUTER.
+
+4. **DISTINCT Keyword:**
+   - Used to eliminate duplicate rows from query results.
+   - Ensures SELECT clause attributes form a super key.
+   - Example: `SELECT DISTINCT cFirstName, cLastName, prodName FROM ...`
+
+5. **Superkey:**
+   - A set of attributes that uniquely identifies a tuple in a relation.
+   - Ensures distinctiveness and non-redundancy of rows.
+
+6. **Database Design:**
+   - The process of defining the structure that organizes and stores data.
+   - Ensures data integrity, efficiency, and ease of use.
+
+7. **Inner Join:**
+    - Joins two tables based on a specified condition.
+    - Examples using INNER JOIN, USING, and ON clauses.
+
+8. **Outer Join:**
+    - LEFT OUTER JOIN and RIGHT OUTER JOIN include unmatched rows from the left or right table.
+    - Allows inclusion of rows with no match in the join condition.
+    - Example: `SELECT * FROM customers LEFT OUTER JOIN orders ON ...`
+  
+
+**link to projecct:** [MySql](https://github.com/hunterxcobby/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries)
