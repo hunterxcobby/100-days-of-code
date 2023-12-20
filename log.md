@@ -1222,3 +1222,19 @@ Each constraint serves a specific purpose in database design, contributing to da
   
 
 **link to projecct:** [MySql](https://github.com/hunterxcobby/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries)
+
+
+## Day 52: December 20, 2023
+
+**Today's Progress**: Finding the percentage, the student average calculator, HackerRank
+
+- Read the number of students' records, `n`, from the user input.
+- Created an empty dictionary, `student_marks`, to store the names and marks of each student.
+- Used a loop to input the names and marks for each student, and stored them in the dictionary.
+- Input the name of the student to query, `query_name`.
+- Calculated the average marks for the specified student using the `sum` and `len` functions.
+- Printed the average marks with a precision of two decimal places using the `format` method.
+
+The solution reads and processes the input correctly, calculates the average marks, and prints the result with the required precision.
+
+**link to solution:** [Finding Percentage](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/08-Finding_percentage)
