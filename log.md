@@ -1243,3 +1243,10 @@ The solution reads and processes the input correctly, calculates the average mar
 ## Day 53: December 21, 2023
 
 **Today's Progress**: The Swap Cases Challenge, HackerRank
+
+- Defined the `swap_case` function that takes a string `s` as input.
+- Utilized the `swapcase` method to swap the case of each character in the string.
+- Tested the function with the provided sample input.
+- Verified the correctness of the function by printing the result.
+- The function successfully swapped the cases in the given sample, resulting in the expected output.
+
