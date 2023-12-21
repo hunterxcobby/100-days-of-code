@@ -1238,3 +1238,8 @@ Each constraint serves a specific purpose in database design, contributing to da
 The solution reads and processes the input correctly, calculates the average marks, and prints the result with the required precision.
 
 **link to solution:** [Finding Percentage](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/08-Finding_percentage)
+
+
+## Day 53: December 21, 2023
+
+**Today's Progress**: The Swap Cases Challenge, HackerRank
