@@ -1250,3 +1250,5 @@ The solution reads and processes the input correctly, calculates the average mar
 - Verified the correctness of the function by printing the result.
 - The function successfully swapped the cases in the given sample, resulting in the expected output.
 
+  **link to solution:** [Swap Cases](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/09-sWAP_Case)
+
