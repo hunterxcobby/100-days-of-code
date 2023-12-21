@@ -40,7 +40,7 @@
 |[Day 46](log.md#day-46-december-14-2023) **14/12/23**| **SQL:**  More Queries |[Day 47](log.md#day-47-december-15-2023) **15/12/23**| **HTML && CSS:**  Learn to code HTML and CSS |
 |[Day 48](log.md#day-48-december-16-2023) **16/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |[Day 49](log.md#day-49-december-17-2023) **17/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |
 |[Day 50](log.md#day-50-december-18-2023) **18/12/23**| **HTML && CSS:**  AirBnB Clone - WebStatic. |[Day 51](log.md#day-51-december-19-2023) **19/12/23**| **SQL:**  Using the join operations in SQL, More Queries |
-|[Day 52](log.md#day-52-december-20-2023) **20/12/23**| **Python**  Finding the percentage, the student average calculator, HackerRank|
+|[Day 52](log.md#day-52-december-20-2023) **20/12/23**| **Python**  Finding the percentage, the student average calculator, HackerRank|[Day 53](log.md#day-53-december-21-2023) **21/12/23**| **Python**  The Swap Cases Challenge, HackerRank|
 
 
 
