@@ -1263,3 +1263,6 @@ The solution reads and processes the input correctly, calculates the average mar
 - Removed an extra function call outside the main block.
 - Tested the function by taking user input for first and last names and printing the formatted message.
 - The function now prints a message in the desired format, greeting the person with their full name and indicating they've delved into Python.
+
+
+ **link to solution:** [Printing fullname](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/10-What_is_your_name)
