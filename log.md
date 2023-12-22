@@ -1252,3 +1252,14 @@ The solution reads and processes the input correctly, calculates the average mar
 
   **link to solution:** [Swap Cases](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/09-sWAP_Case)
 
+
+## Day 54: December 22, 2023
+
+**Today's Progress**: What is your name, HackerRank - Python
+
+- Created a function named `print_full_name` with parameters `first` and `last`.
+- Removed unnecessary input statements from within the function, as the names are already provided as parameters.
+- Corrected the f-string formatting to include placeholders for `first` and `last`.
+- Removed an extra function call outside the main block.
+- Tested the function by taking user input for first and last names and printing the formatted message.
+- The function now prints a message in the desired format, greeting the person with their full name and indicating they've delved into Python.
