@@ -41,7 +41,7 @@
 |[Day 48](log.md#day-48-december-16-2023) **16/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |[Day 49](log.md#day-49-december-17-2023) **17/12/23**| **HTML && CSS:**  Learn to code more HTML, more CSS |
 |[Day 50](log.md#day-50-december-18-2023) **18/12/23**| **HTML && CSS:**  AirBnB Clone - WebStatic. |[Day 51](log.md#day-51-december-19-2023) **19/12/23**| **SQL:**  Using the join operations in SQL, More Queries |
 |[Day 52](log.md#day-52-december-20-2023) **20/12/23**| **Python**  Finding the percentage, the student average calculator, HackerRank|[Day 53](log.md#day-53-december-21-2023) **21/12/23**| **Python**  The Swap Cases Challenge, HackerRank|
-[Day 54](log.md#day-54-december-22-2023) **22/12/23**| **Python**  The string format and print function, HackerRank|
+[Day 54](log.md#day-54-december-22-2023) **22/12/23**| **Python**  The string format and print function, HackerRank|[Day 55](log.md#day-55-december-23-2023) **23/12/23**| **Python && Ruby**  Refactoring of scripts|
 
 ## Note
 
