@@ -1299,4 +1299,4 @@ The solution reads and processes the input correctly, calculates the average mar
 - **Overall Progress:** The combined scripts cover different programming languages, showcasing improved readability, functionality, and adherence to best practices.
 
 
-**link to solution:** [Fix my code](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/10-What_is_your_name)
+**link to solution:** [Fix my code](https://github.com/hunterxcobby/Fix_My_Code_Challenge/tree/master/0x00-challenge)
