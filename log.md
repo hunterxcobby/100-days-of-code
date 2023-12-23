@@ -1266,3 +1266,37 @@ The solution reads and processes the input correctly, calculates the average mar
 
 
  **link to solution:** [Printing fullname](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/10-What_is_your_name)
+
+
+## Day 55: December 23, 2023
+
+**Today's Progress**: Refactoring scripts, fixing code - Python && Ruby
+
+### FizzBuzz Python Script Refactoring
+
+- **Code Refactoring:** The original FizzBuzz Python script was refactored to correctly identify numbers divisible by both 3 and 5 as "FizzBuzz" and to follow proper Python syntax.
+
+- **Enhancements:** The script now checks for the correct number of command-line arguments and provides a usage example when the number is missing.
+
+- **Testing:** The script was tested with different inputs to ensure correct FizzBuzz output.
+
+- **Documentation:** Added comments and docstrings to improve code readability and explain the purpose of the script.
+
+### Sorting Ruby Script Refactoring
+
+- **Code Refactoring:** The Ruby script for sorting integer arguments was refactored for improved readability and efficiency.
+
+- **Functionality Improvement:** The insertion of integers into the result array was optimized using the `bsearch_index` method for binary searching, resulting in a more efficient sorting algorithm.
+
+- **Testing:** The script was tested with various integer inputs and non-integer inputs to verify correct sorting behavior.
+
+- **Documentation:** Added comments to clarify the logic and purpose of the script.
+
+### Combined Ruby and Python Scripts
+
+- **Integration:** Both scripts were combined for convenience, providing a Ruby script for sorting integer arguments and a Python script for FizzBuzz.
+
+- **Overall Progress:** The combined scripts cover different programming languages, showcasing improved readability, functionality, and adherence to best practices.
+
+
+**link to solution:** [Fix my code](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/10-What_is_your_name)
