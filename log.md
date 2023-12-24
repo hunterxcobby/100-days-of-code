@@ -1302,9 +1302,11 @@ The solution reads and processes the input correctly, calculates the average mar
 **link to solution:** [Fix my code](https://github.com/hunterxcobby/Fix_My_Code_Challenge/tree/master/0x00-challenge)
 
 
+
+## Day 56: December 24, 2023
+
 **Today's Progress**:  **BASH**  Make, Makefiles
 
-### Learning Progress Log - Makefiles
 
 1. **Introduction to Make and Makefiles:**
    - Explored the purpose and functionality of `make`.
