@@ -1300,3 +1300,45 @@ The solution reads and processes the input correctly, calculates the average mar
 
 
 **link to solution:** [Fix my code](https://github.com/hunterxcobby/Fix_My_Code_Challenge/tree/master/0x00-challenge)
+
+
+**Today's Progress**:  **BASH**  Make, Makefiles
+
+### Learning Progress Log - Makefiles
+
+1. **Introduction to Make and Makefiles:**
+   - Explored the purpose and functionality of `make`.
+   - Defined what Makefiles are and their role in automating software builds.
+
+2. **When, Why, and How to Use Makefiles:**
+   - Discussed the scenarios when Makefiles are beneficial.
+   - Explored the basics of using Makefiles to automate build processes.
+
+3. **Rules in Makefiles:**
+   - Introduced the concept of rules in Makefiles.
+   - Demonstrated how to set and use rules to build targets.
+
+4. **Explicit and Implicit Rules:**
+   - Explained the difference between explicit and implicit rules in Makefiles.
+   - Showcased examples of both explicit and implicit rules.
+
+5. **Common/Useful Rules:**
+   - Discussed common and useful rules in Makefiles.
+   - Explored how these rules can simplify the build process.
+
+6. **Variables in Makefiles:**
+   - Introduced the concept of variables in Makefiles.
+   - Demonstrated how to set and use variables for compiler flags.
+
+7. **Review of a Simple Makefile:**
+   - Reviewed and improved a simple Makefile.
+   - Added compiler flags, handled dependencies, and declared phony targets.
+
+8. **Practical Examples:**
+   - Walked through practical examples to reinforce concepts.
+   - Engaged in hands-on learning to create and modify Makefiles.
+
+The learning session covered essential aspects of Makefiles, providing a solid foundation for using this tool to automate software builds. The Feynman learning technique was applied, breaking down complex topics into simpler explanations for better understanding. The focus on practical examples enhanced the application of learned concepts.
+
+
+**link to notes:** [makefiles]()
