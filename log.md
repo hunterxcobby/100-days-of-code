@@ -1341,4 +1341,4 @@ The solution reads and processes the input correctly, calculates the average mar
 The learning session covered essential aspects of Makefiles, providing a solid foundation for using this tool to automate software builds. The Feynman learning technique was applied, breaking down complex topics into simpler explanations for better understanding. The focus on practical examples enhanced the application of learned concepts.
 
 
-**link to notes:** [makefiles]()
+**link to notes:** [makefiles](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x1C-makefiles)
