@@ -1383,4 +1383,4 @@ The learning session covered essential aspects of Makefiles, providing a solid f
 The solution is complete, providing an efficient way to check different properties of a given string.
 
 
-**link to solution:** [String validators](https://github.com/hunterxcobby/Python-Challenges/tree/main)
+**link to solution:** [String validators](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/11-String_Validators)
