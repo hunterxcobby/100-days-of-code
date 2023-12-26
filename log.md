@@ -1384,3 +1384,47 @@ The solution is complete, providing an efficient way to check different properti
 
 
 **link to solution:** [String validators](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/11-String_Validators)
+
+
+
+## Day 58: December 26, 2023
+
+**Today's Progress**: Building a command line PhoneBook, Python, C && Bash
+
+**Project Log:**
+
+1. **Phonebook Interface Development:**
+   - Created a modular phonebook interface using Python and curses library.
+   - Implemented an interactive menu for actions such as adding, displaying, searching, editing, and deleting contacts.
+   - Enabled control pad navigation for user interaction.
+   - Integrated a persistent Help and Quit button at the bottom of the screen.
+
+2. **Loading Animation:**
+   - Designed a loading animation for visual appeal while the program is executing.
+   - Used Unicode characters for dynamic and interactive loading frames.
+   - Ensured the loading animation disappears after a set duration.
+
+3. **Option Interface Enhancements:**
+   - Modified the layout to include a persistent Help button at the left bottom and a Quit button at the right bottom.
+   - Updated keybindings to use Ctrl+H for Help and Ctrl+Q for Quit.
+
+4. **Help Functionality:**
+   - Implemented a Help function to display information about each option in the phonebook interface.
+   - Used curses.A_BOLD to make specific text bold for better emphasis.
+
+5. **Bug Fixes:**
+   - Addressed a bug related to concatenating NoneType with strings.
+   - Resolved an issue where the program termination didn't release the terminal properly.
+
+6. **Planning for Next Session:**
+   - Discussed plans for creating a separate module for the phonebook operations.
+   - Outlined steps for integrating C program execution with Python.
+
+7. **Next Steps:**
+   - Implement contact-related functionalities (Add, Display, Search, Edit, Delete) in Python.
+   - Integrate these functionalities with the main interface.
+   - Investigate and resolve issues related to terminal release after program termination.
+
+The session was productive, focusing on creating an engaging user interface and laying the groundwork for phonebook functionalities. The loading animation and persistent buttons contribute to a more user-friendly experience. We also discussed plans for the next session, which includes integrating the C program and expanding phonebook features.
+
+**link to project:**  [PhoneBook](https://github.com/hunterxcobby/phonebook)
