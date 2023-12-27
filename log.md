@@ -1428,3 +1428,32 @@ The solution is complete, providing an efficient way to check different properti
 The session was productive, focusing on creating an engaging user interface and laying the groundwork for phonebook functionalities. The loading animation and persistent buttons contribute to a more user-friendly experience. We also discussed plans for the next session, which includes integrating the C program and expanding phonebook features.
 
 **link to project:**  [PhoneBook](https://github.com/hunterxcobby/phonebook)
+
+
+## Day 59: December 27, 2023
+
+**Today's Progress**: The text alignment, hackerank logo challenge , python
+
+## Problem Description:
+The task is to generate the HackerRank Logo with variable thickness. The user provides an odd integer representing the thickness of the logo.
+
+## Solution Approach:
+1. Read the input value for the thickness.
+2. Use loops and string alignment methods (`rjust()`, `ljust()`, `center()`) to construct the logo.
+3. Iterate through different sections of the logo (top cone, top pillars, middle belt, bottom pillars, and bottom cone).
+4. Print each section with the appropriate alignment.
+
+## Code Review:
+- Used proper variable names like `thickness` and `c`.
+- Implemented loops for constructing different parts of the logo.
+- Correctly applied string alignment methods (`rjust()`, `ljust()`, `center()`) to achieve the desired output.
+- Ensured the thickness is an odd number as required.
+
+## Adjustments Made:
+- Updated the code to use the correct string alignment methods in each section.
+- Applied `rjust()` for the bottom cone to match the requirements.
+
+## Final Solution:
+The provided Python code now correctly generates the HackerRank Logo with the specified thickness. The code is well-structured, uses appropriate alignment methods, and meets the requirements outlined in the problem description.
+
+**link to solution:** [Text Alignment](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/12-Test_Alignment)
