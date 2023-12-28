@@ -1459,7 +1459,7 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
 **link to solution:** [Text Alignment](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/12-Test_Alignment)
 
 
-## Day : 60December 28, 2023
+## Day 60: December 28, 2023
 
 **Today's Progress**: Web Infrastructure design - DNS, Web Server, Network basics,  monitoring.
 
