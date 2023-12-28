@@ -44,6 +44,7 @@
 |[Day 54](log.md#day-54-december-22-2023) **22/12/23**| **Python**  The string format and print function, HackerRank|[Day 55](log.md#day-55-december-23-2023) **23/12/23**| **Python && Ruby**  Refactoring of scripts|
 |[Day 56](log.md#day-56-december-24-2023) **24/12/23**| **BASH**  Make, Makefiles|[Day 57](log.md#day-57-december-25-2023) **25/12/23**| **Python**  String Validators, HackerRank|
 |[Day 58](log.md#day-58-december-26-2023) **26/12/23**| **Python, C && Bash** Building a command line PhoneBook|[Day 59](log.md#day-59-december-27-2023) **27/12/23**| **Python** The text alignment, hackerank logo challenge , python|
+|[Day 60](log.md#day-60-december-28-2023) **28/12/23**|Web Infrastructure design - DNS, Web Server, Network basics,  monitoring|
 
 
 ## Note
