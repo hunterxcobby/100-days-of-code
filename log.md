@@ -1498,3 +1498,22 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
    - Highlighting the use of port numbers for efficient data routing.
 
 **link to notes:** [Web Infrastructure](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/web_infrastructure)
+
+
+
+## Day 61: December 29, 2023
+
+**Today's Progress**: Web Infrastructure design - Database, MySql, DBMS, Database Structure
+
+   - **Structured Query Language (SQL):** Introduced SQL as a programming language for relational databases, originating in the 1970s at IBM.
+   - **Evolution of Databases:** Discussed the evolution from navigational to relational databases, object-oriented, NoSQL, and beyond.
+   - **Database Software:** Defined database software as a tool for creating, editing, and maintaining database files.
+   - **Database Management System (DBMS):** Described DBMS as a comprehensive software interface between databases and users/programs.
+   - **MySQL Database:** Explored MySQL, an open-source relational DBMS optimized for web applications and widely used by major platforms.
+   - **Using Databases for Business:** Highlighted how databases, especially self-driving ones, enhance business performance and decision-making.
+   - **Database Challenges:** Discussed challenges faced by large enterprise databases, including data volume, security, scalability, and maintenance.
+   - **Autonomous Technology:** Explored the rise of self-driving databases, utilizing cloud-based tech and machine learning for automation.
+   - **Future of Databases:** Envisioned the future impact of autonomous databases, revolutionizing computing with enhanced performance and security.
+
+
+**link to notes:** [Web Infrastructure](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/web_infrastructure/database)
