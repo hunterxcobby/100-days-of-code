@@ -1503,7 +1503,7 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
 
 ## Day 61: December 29, 2023
 
-**Today's Progress**: Web Infrastructure design - Database, MySql, DBMS, Database Structure
+**Today's Progress**: Web Infrastructure design - Database, MySql, DBMS, Database Software.
 
    - **Structured Query Language (SQL):** Introduced SQL as a programming language for relational databases, originating in the 1970s at IBM.
    - **Evolution of Databases:** Discussed the evolution from navigational to relational databases, object-oriented, NoSQL, and beyond.
