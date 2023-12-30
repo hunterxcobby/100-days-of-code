@@ -1517,3 +1517,37 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
 
 
 **link to notes:** [Web Infrastructure](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/web_infrastructure/database)
+
+
+
+## Day 62: December 30, 2023
+
+**Today's Progress**: Web Infrastructure design, 
+
+1. **Web Server and Application Server Distinction:**
+   - Discussed the roles of web servers and application servers.
+   - Provided an analogy of a web server as a receptionist and an application server as a behind-the-scenes expert.
+
+2. **DNS Record Types:**
+   - Introduced major DNS record types: A, AAAA, CNAME, NS, MX.
+   - Defined A and AAAA records with analogies of postal addresses and upgraded addresses.
+   - Explained CNAME records as domain aliases and redirects.
+   - Described NS records as GPS coordinates for domains.
+   - Illustrated MX records as mail sorting centers for domains.
+
+3. **Other DNS Record Types:**
+   - Introduced additional DNS record types: SOA, TXT, PTR, SRV, CERT, DCHID, DNAME.
+   - Provided functions and brief explanations for each record type.
+
+4. **Conclusion:**
+   - Summarized the importance of DNS records in navigating the internet.
+   - Concluded with the analogy of celestial bodies in the DNS universe.
+
+5. **Overall Progress:**
+   - Explored the distinctions between web and application servers.
+   - Delved into various DNS record types and their functions.
+   - Maintained clarity and simplicity in explanations with relevant analogies.
+   - Ensured a systematic and comprehensive coverage of the provided topics.
+
+
+**link to notes:** [Web Infrastructure](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/web_infrastructure)
