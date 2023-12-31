@@ -1551,3 +1551,54 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
 
 
 **link to notes:** [Web Infrastructure](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/web_infrastructure)
+
+
+
+## Day 64: December 31, 2023
+
+**Today's Progress**: The Alphabet Rangoli Challenge. Python 
+
+Progress Log - Alphabet Rangoli Challenge
+
+1. **Problem Understanding:**
+   - Understood the problem description and requirements.
+   - Recognized the pattern and structure of the desired output.
+
+2. **Initial Analysis:**
+   - Recognized the need for generating alphabets in a specific pattern.
+   - Identified the need for loops to iterate through the pattern.
+
+3. **Algorithm Design:**
+   - Planned the algorithm to generate the rangoli pattern.
+   - Determined the approach for creating the left and right sides of the pattern.
+   - Decided to use the `center` method for formatting each line.
+
+4. **Coding:**
+   - Created a Python function `print_rangoli` to implement the algorithm.
+   - Used a loop to iterate through the range of size in both ascending and descending order.
+   - Constructed each line by joining alphabets and formatted using `center`.
+   - Tested the function with sample inputs.
+
+5. **Refinement:**
+   - Ensured the code handles the input constraints.
+   - Made adjustments for proper formatting and alignment.
+
+6. **Documentation:**
+   - Added comments to explain the purpose of each code section.
+   - Ensured clear and concise variable and function names.
+
+7. **Testing:**
+   - Tested the function with various inputs, including edge cases.
+   - Verified that the output matches the expected rangoli patterns.
+
+8. **Completion:**
+   - Finalized the code and documentation.
+   - Confirmed that the solution meets the requirements.
+
+9. **Submission:**
+   - Submitted the solution for review and further feedback.
+
+The implementation successfully generates alphabet rangoli patterns based on the given size. The code is well-documented and tested for various scenarios. Any potential improvements or feedback from the review will be considered for refinement.
+
+
+**link to solution:** [Alphabet Rangoli](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/13-Alphabet_Rangoli)
