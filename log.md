@@ -1554,7 +1554,7 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
 
 
 
-## Day 64: December 31, 2023
+## Day 63: December 31, 2023
 
 **Today's Progress**: The Alphabet Rangoli Challenge. Python 
 
