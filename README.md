@@ -45,8 +45,8 @@
 |[Day 56](log.md#day-56-december-24-2023) **24/12/23**| **BASH**  Make, Makefiles|[Day 57](log.md#day-57-december-25-2023) **25/12/23**| **Python**  String Validators, HackerRank|
 |[Day 58](log.md#day-58-december-26-2023) **26/12/23**| **Python, C && Bash** Building a command line PhoneBook|[Day 59](log.md#day-59-december-27-2023) **27/12/23**| **Python** The text alignment, hackerank logo challenge , python|
 |[Day 60](log.md#day-60-december-28-2023) **28/12/23**|Web Infrastructure design - DNS, Web Server, Network basics,  monitoring|[Day 61](log.md#day-61-december-29-2023) **29/12/23**|Web Infrastructure design - Database, MySql, DBMS, Database Software|
-|[Day 62](log.md#day-62-december-30-2023) **30/12/23**|Web Infrastructure design - Servers, Web Servers, Application servers, DNS record types |[Day 63](log.md#day-63-december-31-2023) **31/12/23**| **Python**  Alphabet Rangoli Challenge, HackerRank|
-|[Day 64](log.md#day-64-january-01-2023) **01/01/23**|Web Infrastructure design - HTTPS/HTTP, SPOF, Firewalls |
+|[Day 62](log.md#day-62-december-30-2023) **30/12/23**|Web Infrastructure design - Servers, Web Servers, Application servers, DNS record types |[Day 63](log.md#day-63-december-31-2023) **31/12/24**| **Python**  Alphabet Rangoli Challenge, HackerRank|
+|[Day 64](log.md#day-64-january-01-2024) **01/01/23**|Web Infrastructure design - HTTPS/HTTP, SPOF, Firewalls |[Day 65](log.md#day-65-january-02-2024) **01/02/24**|**Python**: Exceptions and Errrors |
 
 
 
