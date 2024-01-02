@@ -1605,7 +1605,7 @@ The implementation successfully generates alphabet rangoli patterns based on the
 
 
 
-## Day 64: January 01, 2023
+## Day 64: January 01, 2024
 
 **Today's Progress**: Web Infrastructure design - DNS, HTTPS/HTTP, SPOF, Firewalls
 
@@ -1658,7 +1658,7 @@ The implementation successfully generates alphabet rangoli patterns based on the
 
 
 
-## Day 65: January 02, 2023
+## Day 65: January 02, 2024
 
 **Today's Progress**: Errors and exceptions . Python
 
