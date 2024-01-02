@@ -1655,3 +1655,40 @@ The implementation successfully generates alphabet rangoli patterns based on the
 
 
 **link to notes:** [Web Infrastructure](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/web_infrastructure)
+
+
+
+## Day 65: January 02, 2023
+
+**Today's Progress**: Errors and exceptions . Python
+
+1. **Understanding the Problem:**
+   - The problem involves handling exceptions in Python, specifically `ZeroDivisionError` and `ValueError`.
+   - The goal is to perform integer division of two input values and print the result.
+   - If there's a division by zero or if the input values are not valid integers, the script should print the corresponding error code.
+
+2. **Developing a Solution:**
+   - Created a function `perform_integer_division` to encapsulate the logic for integer division and exception handling.
+   - Utilized a `try-except` block to catch potential exceptions and print the appropriate error code.
+
+3. **Testing the Solution:**
+   - Ran the script with various test cases:
+     - Valid input values for normal integer division.
+     - Division by zero scenario.
+     - Invalid input values causing a `ValueError`.
+   - Ensured that the script behaves as expected and handles exceptions gracefully.
+
+4. **Refining the Solution:**
+   - Reviewed the code to ensure readability and adherence to best practices.
+   - Encapsulated the script logic inside functions for modularity.
+
+5. **Documentation:**
+   - Added comments to the code to explain the purpose of each section.
+   - Included a brief description of the problem at the beginning of the script.
+
+6. **Completion:**
+   - The script successfully addresses the problem by performing integer division and handling exceptions appropriately.
+   - The code is organized, readable, and includes error codes for better understanding in case of exceptions.
+
+
+**link to solution:** [Exceptions](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/14-Exceptions)
