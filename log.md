@@ -1749,9 +1749,5 @@ The implementation successfully generates alphabet rangoli patterns based on the
     - Accounted for future scalability requirements and technological advancements.
     - Planned for periodic architecture reviews and updates.
 
-12. **Approval and Implementation:**
-    - Presented the design to stakeholders for approval.
-    - Coordinated with the implementation team to bring the design to fruition.
-
 **link to solution:** [Web Infrastructure Design](https://github.com/hunterxcobby/alx-system_engineering-devops/tree/master/0x09-web_infrastructure_design)
 
