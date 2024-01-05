@@ -1788,3 +1788,31 @@ The implementation successfully generates alphabet rangoli patterns based on the
 
 
 **link to notes:** [Binary Tree](https://github.com/hunterxcobby/DSA/tree/main/0x1D-Binary_trees)
+
+
+## Day 68: January 05, 2024
+
+**Today's Progress**: Binary Tree, Preorder, Inorder, Postorder Traversal, Full, Complete, Perct Tree - C lang
+
+1. **Code Review and Refinement:**
+   - Reviewed and refined the code for checking if a binary tree is full (`binary_tree_is_full`).
+   - Made adjustments to adhere to coding standards, focusing on comment clarity and variable naming.
+
+2. **New Function Implementation:**
+   - Implemented a function to check if a binary tree is perfect (`binary_tree_is_perfect`).
+   - Ensured that the function returns 1 if the tree is perfect and 0 otherwise, following the specified prototype.
+
+3. **Binary Tree Concepts:**
+   - Explored and discussed concepts related to binary trees, including fullness and perfection.
+   - Implemented functions to evaluate these properties, deepening understanding of binary tree structures.
+
+4. **Coding Style Compliance:**
+   - Ensured that the code aligns with the specified coding style, emphasizing proper indentation, commenting, and function prototypes.
+
+5. **Code Optimization:**
+   - Received suggestions for optimizing code, particularly in terms of using more descriptive variable names for enhanced clarity.
+
+6. **Continuous Learning:**
+   - Engaged in continuous learning by exploring and implementing new functions, contributing to personal and academic growth in software engineering.
+  
+**link to implementation:** [Binary Tree](https://github.com/hunterxcobby/DSA/tree/main/0x1D-Binary_trees)
