@@ -47,8 +47,7 @@
 |[Day 60](log.md#day-60-december-28-2023) **28/12/23**|Web Infrastructure design - DNS, Web Server, Network basics,  monitoring|[Day 61](log.md#day-61-december-29-2023) **29/12/23**|Web Infrastructure design - Database, MySql, DBMS, Database Software|
 |[Day 62](log.md#day-62-december-30-2023) **30/12/23**|Web Infrastructure design - Servers, Web Servers, Application servers, DNS record types |[Day 63](log.md#day-63-december-31-2023) **31/12/24**| **Python**  Alphabet Rangoli Challenge, HackerRank|
 |[Day 64](log.md#day-64-january-01-2024) **01/01/23**|Web Infrastructure design - HTTPS/HTTP, SPOF, Firewalls |[Day 65](log.md#day-65-january-02-2024) **02/01/24**|**Python**: Exceptions and Errrors |
-|[Day 66](log.md#day-66-january-03-2024) **03/01/24**|Web Infrastructure design - The project |
-[Day 67](log.md#day-67-january-04-2024) **04/01/24**| **C lang**: Binary Trees, Create, Insert at left & right, Displat |
+|[Day 66](log.md#day-66-january-03-2024) **03/01/24**|Web Infrastructure design - The project |[Day 67](log.md#day-67-january-04-2024) **04/01/24**| **C lang**: Binary Trees, Create, Insert at left & right, Displat |
 
 
 
