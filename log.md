@@ -1751,3 +1751,40 @@ The implementation successfully generates alphabet rangoli patterns based on the
 
 **link to solution:** [Web Infrastructure Design](https://github.com/hunterxcobby/alx-system_engineering-devops/tree/master/0x09-web_infrastructure_design)
 
+
+
+## Day 67: January 04, 2024
+
+**Today's Progress**: Binary Tree, Create, INser @ left && right, Delete - C lang
+
+
+1. Reviewed and Improved Code:
+   - Reviewed and improved C code for inserting a node as the left child in a binary tree.
+   - Implemented comments using analogies to explain the logic of the code.
+   - Adjusted the formatting style.
+
+2. Code Refinement:
+   - Modified the commenting style .
+   - Improved comments using analogies for inserting a node as the right child in a binary tree.
+
+3. Code Development:
+   - Created a function to display a binary tree in a formatted way.
+   - Developed a function to free the memory allocated for a binary tree.
+
+4. Gitignore File:
+   - created a Gitignore file pattern to ignore executable and object files in C programs.
+
+5. User Guidance:
+   - Explained the logic behind inserting a node as the left and right child in a binary tree to my imaginary students.
+   - Clarified the confusion regarding the analogy and code alignment.
+
+6. Bug Fixing:
+   - Detected and corrected potential issues in the binary_tree_insert_right function.
+
+7. New Function:
+   - Implemented a function (`binary_tree_delete`) to delete an entire binary tree.
+   - Developed a function (`binary_tree_is_leaf`) to check if a node is a leaf.
+   - Created a function (`binary_tree_is_root`) to check if a given node is a root.
+
+
+**link to notes:** [Binary Tree](https://github.com/hunterxcobby/DSA/tree/main/0x1D-Binary_trees)
