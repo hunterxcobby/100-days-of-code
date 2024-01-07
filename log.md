@@ -1870,7 +1870,7 @@ Overall, the session focused on creating a functional and educational CRUD appli
 
 1. **Objective:**
    - Integrated JSON serialization and deserialization into the `UserManagement` class.
-   - Introduced the `uuid` module for generating unique IDs and utilized the `datetime` module for timestamps.
+   - Learned the `uuid` module for generating unique IDs and utilized the `datetime` module for timestamps.
 
 2. **Code Enhancements:**
    - Updated the `do_create` method to use `uuid` for generating unique IDs.
