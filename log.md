@@ -1901,3 +1901,62 @@ Overall, the session focused on creating a functional and educational CRUD appli
    - The class now offers a more robust and modular solution for managing user data through a command-line interface.
 
 **link to implementation:** [AirBnBV2](https://github.com/hunterxcobby/Airbnb_CloneV2)
+
+
+**Today's Progress**: AirBnB revised with cohort 18- packages && modules, BaseModel, JSON  Serialization and Deserialization, CRUD
+
+1. **Understanding and Implementing cmd Module:**
+   - Discussed and implemented a simple command-line interface using the `cmd` module.
+   - Created a basic structure for a user management system with commands like create, read, update, destroy.
+
+2. **Integration of UUID and Time:**
+   - Integrated UUID for generating unique identifiers for users.
+   - Incorporated timestamps (created_at and updated_at) to track when users are created and updated.
+
+3. **Explained File Organization, Modules, and Packages:**
+   - Discussed the differences between modules and packages.
+   - Explored file organization strategies for a project.
+
+4. **Explained Absolute and Relative Import Paths:**
+   - Clarified the difference between absolute and relative import paths in Python.
+
+5. **Implemented BaseModel and User Class:**
+   - Created a `BaseModel` class with common functionalities like `save`, `to_dict`, and `__str__`.
+   - Implemented a `User` class inheriting from `BaseModel` with attributes like email, password, etc.
+
+6. **Integration of JSON Serialization and Deserialization:**
+   - Integrated JSON serialization and deserialization to save and load instances.
+   - Implemented the `save` and `reload` methods to persist and restore instances from a JSON file.
+
+7. **Implemented CRUD Commands in cmd Interface:**
+   - Extended the cmd interface to handle CRUD (Create, Read, Update, Delete) operations.
+   - Implemented methods to create, read, update, and delete users using a simple console interface.
+
+8. **Testing and Verification:**
+   - Discussed and demonstrated how to test the functionality of the `create` method and others in the cmd interface.
+   - Explored interactions and outputs to ensure proper functioning.
+
+9. **Understanding and Discussing Various Code Snippets:**
+   - Analyzed and explained code snippets related to datetime, JSON handling, and command-line interfaces.
+
+10. **Explained `to_dict` and `__str__` Methods:**
+    - Discussed the purpose and functionality of the `to_dict` and `__str__` methods in the `BaseModel` class.
+
+11. **Implemented Class for Handling Custom Commands:**
+    - Implemented a class (`HBNBCommand`) to handle custom commands like `show`, `all`, `destroy`, and `update` in the cmd interface.
+
+12. **Explanation of Specific Code Sections:**
+    - Explained specific code sections, such as the `reload` method and the dynamic creation of instances based on class names.
+
+13. **Introduction to Testing and Verification Strategies:**
+    - Discussed how to test and verify the correctness of implemented functionality, especially focusing on the `create` method.
+
+14. **Incorporated Global Dictionary for Storing Instances:**
+    - Used a global dictionary (`__objects`) to store instances, allowing easy access and manipulation in different methods.
+
+15. **Explanation of `__init__` and `do_create` Methods:**
+    - Explained the purpose of the `__init__` method in the `User` class and the `do_create` method in the cmd interface.
+
+Throughout the session, we focused on practical implementations, explanations tailored to a beginner's understanding, and testing strategies to ensure the correctness of the implemented features.
+
+**link to implementation:** [AirBnBV2](https://github.com/hunterxcobby/Airbnb_CloneV2)
