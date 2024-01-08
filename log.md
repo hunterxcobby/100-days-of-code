@@ -1903,6 +1903,9 @@ Overall, the session focused on creating a functional and educational CRUD appli
 **link to implementation:** [AirBnBV2](https://github.com/hunterxcobby/Airbnb_CloneV2)
 
 
+
+## Day 71: January 08, 2024
+
 **Today's Progress**: AirBnB revised with cohort 18- packages && modules, BaseModel, JSON  Serialization and Deserialization, CRUD
 
 1. **Understanding and Implementing cmd Module:**
