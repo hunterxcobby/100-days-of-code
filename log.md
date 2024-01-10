@@ -1966,7 +1966,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 
-## Day 72: January 08, 2024
+## Day 72: January 09, 2024
 
 **Today's Progress**: conditionals, data structure, functions, operators, variables, operators precedence
 
@@ -1996,6 +1996,35 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 9. **Code Review:**
    - Reviewed and refined code snippets for user input handling and exception handling, ensuring correct syntax and addressing issues related to the `prompt` function.
+
+
+**link to notes:** [Js learning](https://github.com/hunterxcobby/JS-Lessons/tree/main/basics)
+
+
+
+## Day 73: January 10, 2024
+
+**Today's Progress**: Functions, Objects, constructers 
+
+1. Clarified the concept of functions in programming, covering basic syntax, invocation, scope, and parameters.
+
+2. Discussed functions versus methods, emphasizing their roles and distinctions.
+
+3. Introduced the concept of objects in programming, explaining how they are a collection of related data and functionality.
+
+4. Explored object literals, showcasing their structure and common patterns for creating and accessing properties and methods.
+
+5. Dived into more advanced object concepts, such as objects as object properties and bracket notation for property access.
+
+6. Covered setting object members, including updating values, creating new members, and dynamically setting member names.
+
+7. Explored the significance of the "this" keyword in methods and how it refers to the current object.
+
+8. Introduced constructors as a way to create reusable object blueprints, making it more efficient to create multiple objects with shared properties and methods.
+
+9. Emphasized the ubiquity of objects in JavaScript, pointing out their use in built-in APIs and objects like String, Array, and Document.
+
+10. Applied the acquired knowledge to complete practical tasks involving objects and their properties, including creating band and cat objects with specific requirements.
 
 
 **link to notes:** [Js learning](https://github.com/hunterxcobby/JS-Lessons/tree/main/basics)
