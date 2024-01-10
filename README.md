@@ -50,7 +50,7 @@
 |[Day 66](log.md#day-66-january-03-2024) **03/01/24**|Web Infrastructure design - The project |[Day 67](log.md#day-67-january-04-2024) **04/01/24**| **C lang**: Binary Trees, Create, Insert at left & right, Display |
 [Day 68](log.md#day-68-january-05-2024) **05/01/24**| **C lang**: Postorder, Inorder, Preorder Traversal, Perfcet, Full , Complete |[Day 69](log.md#day-69-january-06-2024) **06/01/24**| **Python**: AirBnB revised - CRUD, cmd module |
 |[Day 70](log.md#day-70-january-06-2024) **07/01/24**| **Python**: AirBnB revised - uuid module, datetime module, json file as storage type |[Day 71](log.md#day-71-january-08-2024) **08/01/24**| **Python**: AirBnB revised -  packages && modules, BaseModel, JSON  Serialization and Deserialization, CRUD,  |
-|[Day 72](log.md#day-72-january-09-2024) **09/01/24**| **JavaScript**: conditionals, Control flow and error handling, data structure, variables ||[Day 73](log.md#day-73-january-10-2024) **10/01/24**| **JavaScript**: Function, Constructers, Objects | 
+|[Day 72](log.md#day-72-january-09-2024) **09/01/24**| **JavaScript**: conditionals, Control flow and error handling, data structure, variables|[Day 73](log.md#day-73-january-10-2024) **10/01/24**| **JavaScript**: Function, Constructers, Objects | 
 
 
 
