@@ -2028,3 +2028,47 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 **link to notes:** [Js learning](https://github.com/hunterxcobby/JS-Lessons/tree/main/basics)
+
+
+## Day 73: January 10, 2024
+
+**Today's Progress**: Object, functions and scopes, operators, cmdlines, modules
+
+1. **JavaScript Basics:**
+   - Discussed the importance of JavaScript programming.
+   - Covered how to run a JavaScript script.
+   - Explored the creation of variables and constants.
+   - Discussed the differences between `var`, `const`, and `let`.
+   - Covered various data types available in JavaScript.
+
+2. **Control Flow in JavaScript:**
+   - Explored the use of `if` and `if...else` statements.
+   - Covered the use of comments and assigning values to variables.
+   - Explored the use of `while` and `for` loops, as well as `break` and `continue` statements.
+
+3. **Functions and Scope:**
+   - Discussed what a function is and how to use functions in JavaScript.
+   - Explored functions that do not use a return statement.
+   - Discussed the scope of variables in JavaScript.
+
+4. **Operators and Data Manipulation:**
+   - Explored arithmetic operators and how to use them.
+   - Discussed how to manipulate dictionaries in JavaScript.
+
+5. **Modules and Importing Files:**
+   - Explored how to import a file in JavaScript using ES modules.
+
+6. **Error Resolution:**
+   - Addressed and resolved issues related to package installation and script execution.
+
+7. **Command-Line Arguments:**
+   - Discussed scripts that handle command-line arguments using `process.argv`.
+   - Explained a script checking for the number and type of command-line arguments.
+
+8. **Additional Queries:**
+   - understanding and troubleshooting issues related to Node.js installation and script execution.
+
+9. **Next Steps:**
+   - Upcoming topics include more advanced JavaScript concepts, further exploration of ES modules, and addressing specific questions or topics of interest.
+
+**link to notes:** [Js learning](https://github.com/hunterxcobby/JS-Lessons/tree/main/basics)
