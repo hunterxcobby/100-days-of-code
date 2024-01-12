@@ -51,8 +51,7 @@
 [Day 68](log.md#day-68-january-05-2024) **05/01/24**| **C lang**: Postorder, Inorder, Preorder Traversal, Perfcet, Full , Complete |[Day 69](log.md#day-69-january-06-2024) **06/01/24**| **Python**: AirBnB revised - CRUD, cmd module |
 |[Day 70](log.md#day-70-january-06-2024) **07/01/24**| **Python**: AirBnB revised - uuid module, datetime module, json file as storage type |[Day 71](log.md#day-71-january-08-2024) **08/01/24**| **Python**: AirBnB revised -  packages && modules, BaseModel, JSON  Serialization and Deserialization, CRUD,  |
 |[Day 72](log.md#day-72-january-09-2024) **09/01/24**| **JavaScript**: conditionals, Control flow and error handling, data structure, variables|[Day 73](log.md#day-73-january-10-2024) **10/01/24**| **JavaScript**: Function, Constructers, Objects |
-|[Day 74](log.md#day-74-january-11-2024) **11/01/24**| **JavaScript**: functions and scopes, data manipulation, moduels, arithmetric operators, manipulate objects|
-
+|[Day 74](log.md#day-74-january-11-2024) **11/01/24**| **JavaScript**: functions and scopes, data manipulation, moduels, arithmetric operators, manipulate objects|[Day 75](log.md#day-75-january-12-2024) **12/01/24**| **JavaScript**: SQLAlchemy, declarative mapping, creating a schema, mapping classes creating sessions|
 
 
 
