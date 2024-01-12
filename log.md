@@ -2124,3 +2124,5 @@ Throughout the session, we focused on practical implementations, explanations ta
 11. **Future Steps:**
     - Considered the need for further exploration, including querying data, handling relationships between tables, and advanced topics in SQLAlchemy.
 
+
+**link to notes:** [SQL Alchemy](https://github.com/hunterxcobby/DBMS_learning/tree/main/sql_alchemy)
