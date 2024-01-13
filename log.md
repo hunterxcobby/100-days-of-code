@@ -2126,3 +2126,19 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 **link to notes:** [SQL Alchemy](https://github.com/hunterxcobby/DBMS_learning/tree/main/sql_alchemy)
+
+
+
+## Day 75: January 13, 2024
+
+**Today's Progress**: Introduction to django
+
+
+1. Web Frameworks
+2. MVT - (Model, Views, Template)
+3. Virtual environments
+4. Projects Vs Apps
+5. HTTP response cycle
+
+   
+**link to notes:** [Django](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/django)
