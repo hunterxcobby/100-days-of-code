@@ -2142,3 +2142,26 @@ Throughout the session, we focused on practical implementations, explanations ta
 
    
 **link to notes:** [Django](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/django)
+
+
+
+## Day 76: January 14, 2024
+
+**Today's Progress**: Object Relational Mappers
+
+1. Discussed various Python ORM implementations, including SQLAlchemy, Peewee, Django's ORM, Pony ORM, and SQLObject.
+
+2. Highlighted key characteristics of SQLAlchemy, such as its balanced abstraction level and effectiveness in handling complex queries.
+
+3. Introduced Peewee ORM, emphasizing its design philosophy of being "simpler, smaller, and more hackable" compared to SQLAlchemy.
+
+4. Covered Django's ORM, a built-in module in the Django web framework, suitable for simple to medium-complexity database operations. Noted criticisms about its complexity for certain queries.
+
+5. Introduced Pony ORM, an open-source Python ORM released under the Apache 2.0 license, providing an alternative for developers.
+
+6. Mentioned SQLObject as a long-standing ORM with over 14 years of active open-source development, showcasing its stability and reliability.
+
+7. Included Tortoise ORM as an open-source ORM implementation for Python, broadening the options available to developers.
+
+
+**link to notes:** [ORM](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/21-object_relational_mappers)
