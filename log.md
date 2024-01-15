@@ -2170,7 +2170,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 ## Day 78: January 14, 2024
 
-**Today's Progress**: Object Relational Mappers
+**Today's Progress**: Python MySQL
 
 1. **SQLAlchemy Overview:**
    - Discussed the importance and benefits of using Object-Relational Mappers (ORMs).
