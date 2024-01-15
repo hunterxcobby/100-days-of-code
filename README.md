@@ -53,6 +53,7 @@
 |[Day 72](log.md#day-72-january-09-2024) **09/01/24**| **JavaScript**: conditionals, Control flow and error handling, data structure, variables|[Day 73](log.md#day-73-january-10-2024) **10/01/24**| **JavaScript**: Function, Constructers, Objects |
 |[Day 74](log.md#day-74-january-11-2024) **11/01/24**| **JavaScript**: functions and scopes, data manipulation, moduels, arithmetric operators, manipulate objects|[Day 75](log.md#day-75-january-12-2024) **12/01/24**| **JavaScript**: SQLAlchemy, declarative mapping, creating a schema, mapping classes creating sessions|
 |[Day 76](log.md#day-76-january-13-2024) **13/01/24**| **Python**: Web frameworks, MVT, Projects vs Apps, environment variables|[Day 77](log.md#day-77-january-14-2024) **14/01/24**| **Python**: Object Relational Mappers (ORM)|
+[Day 78](log.md#day-78-january-15-2024) **15/01/24**| **Python**: Object Relational Mappers, The MySQLdb Module, SQLAlchemy |
 
 
 
