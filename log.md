@@ -2030,7 +2030,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 **link to notes:** [Js learning](https://github.com/hunterxcobby/JS-Lessons/tree/main/basics)
 
 
-## Day 73: January 11, 2024
+## Day 74: January 11, 2024
 
 **Today's Progress**: Object, functions and scopes, operators, cmdlines, modules
 
@@ -2075,7 +2075,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 
-## Day 74: January 12, 2024
+## Day 75: January 12, 2024
 
 **Today's Progress**: SQLAlchemy, declarative mapping, creating schema, instance of mapped classes, sessions.
 
@@ -2129,7 +2129,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 
-## Day 75: January 13, 2024
+## Day 76: January 13, 2024
 
 **Today's Progress**: Introduction to django
 
@@ -2145,7 +2145,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 
-## Day 76: January 14, 2024
+## Day 77: January 14, 2024
 
 **Today's Progress**: Object Relational Mappers
 
@@ -2165,3 +2165,50 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 **link to notes:** [ORM](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/21-object_relational_mappers)
+
+
+
+## Day 78: January 14, 2024
+
+**Today's Progress**: Object Relational Mappers
+
+1. **SQLAlchemy Overview:**
+   - Discussed the importance and benefits of using Object-Relational Mappers (ORMs).
+   - Explored various Python ORM implementations, including SQLAlchemy, Peewee, Django ORM, PonyORM, and SQLObject.
+
+2. **Introduction to MySQL in Python:**
+   - Introduced MySQL Python, the MySQL driver for Python, including the _mysql wrapper library and the DB-API 2.0 module MySQLdb.
+   - Covered the installation process of MySQLdb.
+
+3. **Connecting to a MySQL Database:**
+   - Demonstrated how to establish a connection to a MySQL database using the MySQLdb module.
+
+4. **Getting a Cursor in MySQL Python:**
+   - Explained the concept of a cursor and demonstrated how to create a cursor object.
+
+5. **Executing MySQL Queries in Python:**
+   - Illustrated the execution of various MySQL queries using the cursor's execute function.
+
+6. **Obtaining Query Results:**
+   - Explained methods for fetching query results, including fetching all-at-once and fetching one-at-a-time.
+
+7. **Exceptions & Errors:**
+   - Discussed error handling using try-except blocks and demonstrated handling MySQL errors.
+
+8. **Clean Up:**
+   - Covered the importance of closing cursors and database connections for proper cleanup.
+
+9. **Parameterized Queries:**
+   - Introduced the concept of parameterized queries to prevent SQL injection.
+   - Showcased examples of creating and executing parameterized queries.
+
+10. **Using Python Virtual Environment:**
+    - Addressed the need for a Python virtual environment and discussed when and why to use one.
+
+11. **Installing SQLAlchemy:**
+    - Briefly explained the process of installing the SQLAlchemy library.
+
+12. **Miscellaneous Questions:**
+    - Tackled additional questions, including the purpose of the `freeze` command, filtering options in MySQLdb, printing from a table, and using format to create SQL queries.
+
+**link to notes:** [Python MySQL](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/22-Python_MYSQL)
