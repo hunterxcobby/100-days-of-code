@@ -2251,4 +2251,4 @@ Throughout the session, we focused on practical implementations, explanations ta
    - learned common filter operators such as `==`, `!=`, `like`, `ilike`, `in_`, `notin_`, `is_`, `isnot`, `and_`, `or_`, and `match`.
 
 
-**link to notes:** [Python && SQL]
+**link to notes:** [Python && SQL](https://github.com/hunterxcobby/DBMS_learning)
