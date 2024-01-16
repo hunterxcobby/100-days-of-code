@@ -167,7 +167,7 @@ scanf("%[^\n]%*c", s); // Use this to solve the problem
 
 **Thoughts:**
 
-- I delved into the concept of inheritance in Python and explored the use of the `super()` function to leverage base class methods in subclasses effectively.
+- I delved into the concept of inheritance in Python and learned the use of the `super()` function to leverage base class methods in subclasses effectively.
 - There are several ways to implement inheritance, including single and multiple inheritance.
 - I made sure to document my learning process with examples to serve as a valuable resource for both newcomers and my future self.
 - For reference, you can find the sample codes in the link below.
@@ -587,7 +587,7 @@ These operators provide a powerful way to perform file-related checks in Bash sc
 
 **3. Additional Improvements:**
 
-- Explored ways to enhance the phonebook interface, such as adjusting text size and formatting.
+- learned ways to enhance the phonebook interface, such as adjusting text size and formatting.
 - Addressed issues with the loading animation and clarified the separation of messages.
 
 **Next Steps:**
@@ -798,7 +798,7 @@ Here's a short progress log summarizing what my partner and I have accomplished 
    - Adjusted the code to display attributes alphabetically before the default `created_at` and `updated_at` attributes.
 
 4. **New Model Placement:**
-   - Explored options to control the placement of newly created models in the list.
+   - learned options to control the placement of newly created models in the list.
    - learned the desire to have newly created models appear at the top of the list.
 
 5. **Additional Changes and Testing:**
@@ -946,7 +946,7 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 **Today's Progress**: Introduction to SQL, Database Management System, SQL
 
 1. **Introduction to Relational Databases:**
-   - Explored the basics of relational databases and the significance of concepts like tables, rows, and columns.
+   - learned the basics of relational databases and the significance of concepts like tables, rows, and columns.
 
 2. **Relational Database Management Systems (RDBMS):**
    - learned the role of RDBMS in managing and organizing data efficiently.
@@ -958,7 +958,7 @@ Today's progress focused on establishing a foundation for the phonebook applicat
    - Learned about key relational database concepts, including primary keys, foreign keys, and relationships.
 
 5. **Relational Database Design:**
-   - Explored the principles of designing effective relational databases, emphasizing normalization and entity-relationship diagrams.
+   - learned the principles of designing effective relational databases, emphasizing normalization and entity-relationship diagrams.
 
 6. **SQL Basics:**
    - Covered fundamental SQL statements, including SELECT, INSERT, UPDATE, DELETE, and their use in retrieving, modifying, and deleting data.
@@ -967,7 +967,7 @@ Today's progress focused on establishing a foundation for the phonebook applicat
    - learned relational algebra and its operators, such as σ (select) and π (project), showcasing their equivalence to SQL statements.
 
 8. **SQL Functions:**
-   - Explored the use of SQL functions to compute and manipulate data, focusing on examples related to the order entry system.
+   - learned the use of SQL functions to compute and manipulate data, focusing on examples related to the order entry system.
 
 9. **Data Definition Language (DDL) and Data Manipulation Language (DML):**
    - Distinguished between DDL and DML statements, highlighting their roles in defining and manipulating database structures and data.
@@ -976,7 +976,7 @@ Today's progress focused on establishing a foundation for the phonebook applicat
     - learned the importance of data modeling and schemas in organizing and representing information in a relational database.
 
 11. **Indexing in Relational Databases:**
-    - Explored the significance of indexing in relational databases, especially in optimizing the performance of SELECT queries.
+    - learned the significance of indexing in relational databases, especially in optimizing the performance of SELECT queries.
 
 12. **SQL Statements for Retrieving Data:**
     - Analyzed the basic syntax of SQL SELECT statements, emphasizing the SELECT, FROM, WHERE, and ORDER BY clauses.
@@ -997,12 +997,12 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 
 **Today's Progress**: More Queries, Contraints, Functions - SQL
 
-1. Explored the **NOT NULL Constraint**:
+1. learned the **NOT NULL Constraint**:
    - Ensures a column cannot have NULL values.
    - Illustrated with a table example where LastName and FirstName columns are set as NOT NULL.
    - implemented that an attempt to insert a row with a NULL value in a NOT NULL column results in an error.
 
-2. Explored the **UNIQUE Constraint**:
+2. learned the **UNIQUE Constraint**:
    - Ensures all values in a column are unique.
    - Illustrated with a Brands table where BrandName is set as UNIQUE.
    - Showed that duplicate entries trigger an error, maintaining uniqueness.
@@ -1017,7 +1017,7 @@ Today's progress focused on establishing a foundation for the phonebook applicat
    - Illustrated with Authors and Books tables, where AuthorId in Books is a foreign key referencing AuthorId in Authors.
    - Emphasized that foreign key enforcement ensures data integrity and valid relationships between tables.
 
-5. Explored the **ENUM Constraint**:
+5. learned the **ENUM Constraint**:
    - Creates a string object with values chosen from a list.
    - Illustrated with a Shops table where Quality is an ENUM with values 'High', 'Average', 'Low'.
    - Showed that inserting values not in the ENUM list results in an empty string.
@@ -1037,13 +1037,13 @@ Each constraint serves a specific purpose in database design, contributing to da
 **Today's Progress**: Introduction to Web Development, HTML and CSS
 
 1. **Understanding HTML Elements:**
-   - Explored the concept of HTML elements as the building blocks of a webpage, defining its structure and content.
+   - learned the concept of HTML elements as the building blocks of a webpage, defining its structure and content.
 
 2. **HTML Tags:**
    - Broke down the idea of tags as the bookends of HTML elements, with opening and closing tags forming a container for content.
 
 3. **HTML Attributes:**
-   - Explored attributes as additional information or properties attached to HTML elements, enhancing their behavior or appearance.
+   - learned attributes as additional information or properties attached to HTML elements, enhancing their behavior or appearance.
 
 4. **HTML Document Structure:**
    - learned the necessary structure for HTML documents, including the document type declaration, `<html>`, `<head>`, and `<body>` elements.
@@ -1065,22 +1065,22 @@ Each constraint serves a specific purpose in database design, contributing to da
 **Today's Progress**: Getting to know, HTML and CSS
 
 1. **HTML Basics:**
-   - Explored the fundamentals of HTML, including elements, tags, and attributes.
+   - learned the fundamentals of HTML, including elements, tags, and attributes.
    - learned the common HTML terms: elements, tags, and attributes.
    - Learned about the structure of an HTML document, including the `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>` elements.
 
 2. **CSS Basics:**
    - learned the basics of CSS, focusing on selectors, properties, and values.
-   - Explored different types of selectors, such as type, class, and ID selectors.
+   - learned different types of selectors, such as type, class, and ID selectors.
    - learned the role of properties in styling HTML elements and how values determine the appearance.
    - Learned about additional selectors like descendant, child, pseudo-classes, and attribute selectors.
 
 3. **Referencing CSS in HTML:**
-   - Explored best practices for referencing external CSS files in HTML using the `<link>` element.
+   - learned best practices for referencing external CSS files in HTML using the `<link>` element.
    - learned the importance of organizing styles in an external stylesheet for consistency across a website.
 
 4. **CSS Resets and Cross-Browser Compatibility:**
-   - Explored the concept of CSS resets to standardize default styles across different browsers.
+   - learned the concept of CSS resets to standardize default styles across different browsers.
    - learned the importance of cross-browser compatibility and testing.
    - learned popular CSS resets like Eric Meyer's reset and Normalize.css.
 
@@ -1101,11 +1101,11 @@ Each constraint serves a specific purpose in database design, contributing to da
    - learned the `<head>` and `<body>` elements, explaining their roles.
 
 2. **Text-Based Elements in HTML:**
-   - Explored various text-based elements such as headings, paragraphs, bold text (`<strong>`), and italicized text (`<em>`).
+   - learned various text-based elements such as headings, paragraphs, bold text (`<strong>`), and italicized text (`<em>`).
    - implemented the use of heading levels from `<h1>` to `<h6>` and the `<p>` element.
 
 3. **Building Structure with HTML5 Elements:**
-   - Explored new HTML5 structurally based elements like `<header>`, `<nav>`, `<article>`, `<section>`, `<aside>`, and `<footer>`.
+   - learned new HTML5 structurally based elements like `<header>`, `<nav>`, `<article>`, `<section>`, `<aside>`, and `<footer>`.
    - Clarified the semantic meanings and use cases for each element.
 
 4. **CSS Cascade:**
@@ -1118,14 +1118,14 @@ Each constraint serves a specific purpose in database design, contributing to da
 
 6. **Calculating Specificity:**
    - learned specificity weights of CSS selectors, focusing on type, class, and ID selectors.
-   - Explored how specificity influences the precedence of styles, using examples.
+   - learned how specificity influences the precedence of styles, using examples.
 
 7. **Combining Selectors:**
    - learned the concept of combining selectors to increase specificity.
    - learned the key selector and prequalifiers in combined selectors.
 
 8. **Layering Styles with Multiple Classes:**
-   - Explored the use of multiple classes in HTML elements for modular styling.
+   - learned the use of multiple classes in HTML elements for modular styling.
    - implemented how to layer styles using different classes.
 
 9. **Common CSS Property Values - Colors:**
@@ -1133,7 +1133,7 @@ Each constraint serves a specific purpose in database design, contributing to da
    - learned common color-related property values.
 
 10. **Common CSS Property Values - Lengths:**
-    - Explored absolute and relative length values in CSS.
+    - learned absolute and relative length values in CSS.
     - learned pixel units for absolute lengths and percentage and em units for relative lengths.
   
 **link to progress:** [WebDev](https://github.com/hunterxcobby/WEB-DEV_learning)
@@ -1309,12 +1309,12 @@ The solution reads and processes the input correctly, calculates the average mar
 
 
 1. **Introduction to Make and Makefiles:**
-   - Explored the purpose and functionality of `make`.
+   - learned the purpose and functionality of `make`.
    - Defined what Makefiles are and their role in automating software builds.
 
 2. **When, Why, and How to Use Makefiles:**
    - learned the scenarios when Makefiles are beneficial.
-   - Explored the basics of using Makefiles to automate build processes.
+   - learned the basics of using Makefiles to automate build processes.
 
 3. **Rules in Makefiles:**
    - learned the concept of rules in Makefiles.
@@ -1326,7 +1326,7 @@ The solution reads and processes the input correctly, calculates the average mar
 
 5. **Common/Useful Rules:**
    - learned common and useful rules in Makefiles.
-   - Explored how these rules can simplify the build process.
+   - learned how these rules can simplify the build process.
 
 6. **Variables in Makefiles:**
    - learned the concept of variables in Makefiles.
@@ -1509,10 +1509,10 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
    - **Evolution of Databases:** learned the evolution from navigational to relational databases, object-oriented, NoSQL, and beyond.
    - **Database Software:** Defined database software as a tool for creating, editing, and maintaining database files.
    - **Database Management System (DBMS):** Described DBMS as a comprehensive software interface between databases and users/programs.
-   - **MySQL Database:** Explored MySQL, an open-source relational DBMS optimized for web applications and widely used by major platforms.
+   - **MySQL Database:** learned MySQL, an open-source relational DBMS optimized for web applications and widely used by major platforms.
    - **Using Databases for Business:** Highlighted how databases, especially self-driving ones, enhance business performance and decision-making.
    - **Database Challenges:** learned challenges faced by large enterprise databases, including data volume, security, scalability, and maintenance.
-   - **Autonomous Technology:** Explored the rise of self-driving databases, utilizing cloud-based tech and machine learning for automation.
+   - **Autonomous Technology:** learned the rise of self-driving databases, utilizing cloud-based tech and machine learning for automation.
    - **Future of Databases:** Envisioned the future impact of autonomous databases, revolutionizing computing with enhanced performance and security.
 
 
@@ -1544,7 +1544,7 @@ The provided Python code now correctly generates the HackerRank Logo with the sp
    - Concluded with the analogy of celestial bodies in the DNS universe.
 
 5. **Overall Progress:**
-   - Explored the distinctions between web and application servers.
+   - learned the distinctions between web and application servers.
    - Delved into various DNS record types and their functions.
    - Maintained clarity and simplicity in explanations with relevant analogies.
    - Ensured a systematic and comprehensive coverage of the provided topics.
@@ -1618,7 +1618,7 @@ The implementation successfully generates alphabet rangoli patterns based on the
    - Emphasized redundancy at the internal component, system, and site levels for robust protection.
 
 3. **HTTP vs. HTTPS:**
-   - Explored the secure version of HTTP, HTTPS, highlighting its role in encrypting data between browsers and websites.
+   - learned the secure version of HTTP, HTTPS, highlighting its role in encrypting data between browsers and websites.
    - Pointed out the visual indicators in browsers for HTTPS connections.
 
 4. **How HTTPS Works and HTTPS Certificate:**
@@ -1647,7 +1647,7 @@ The implementation successfully generates alphabet rangoli patterns based on the
     - Learned additional firewall vendors, offering a diverse range of security solutions.
 
 11. **National Firewalls and the Great Firewall of China:**
-    - Explored the use of firewalls for content control in nations, focusing on China's Great Firewall.
+    - learned the use of firewalls for content control in nations, focusing on China's Great Firewall.
     - Described techniques such as IP address blocking, DNS cache poisoning, and VPN restrictions employed in the Great Firewall.
 
 12. **Overall Progress:**
@@ -1803,7 +1803,7 @@ The implementation successfully generates alphabet rangoli patterns based on the
    - Ensured that the function returns 1 if the tree is perfect and 0 otherwise, following the specified prototype.
 
 3. **Binary Tree Concepts:**
-   - Explored and learned concepts related to binary trees, including fullness and perfection.
+   - learned and learned concepts related to binary trees, including fullness and perfection.
    - Implemented functions to evaluate these properties, deepening understanding of binary tree structures.
 
 4. **Coding Style Compliance:**
@@ -1918,7 +1918,7 @@ Overall, the session focused on creating a functional and educational CRUD appli
 
 3. **Explained File Organization, Modules, and Packages:**
    - learned the differences between modules and packages.
-   - Explored file organization strategies for a project.
+   - learned file organization strategies for a project.
 
 4. **Explained Absolute and Relative Import Paths:**
    - Clarified the difference between absolute and relative import paths in Python.
@@ -1937,7 +1937,7 @@ Overall, the session focused on creating a functional and educational CRUD appli
 
 8. **Testing and Verification:**
    - learned and implemented how to test the functionality of the `create` method and others in the cmd interface.
-   - Explored interactions and outputs to ensure proper functioning.
+   - learned interactions and outputs to ensure proper functioning.
 
 9. **Understanding and Discussing Various Code Snippets:**
    - Analyzed and explained code snippets related to datetime, JSON handling, and command-line interfaces.
@@ -1971,7 +1971,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 **Today's Progress**: conditionals, data structure, functions, operators, variables, operators precedence
 
 1. **Short-Circuiting in JavaScript:**
-   - Explored the concept of short-circuiting in JavaScript, understanding how certain operators like logical AND (`&&`), logical OR (`||`), nullish coalescing (`??`), and optional chaining (`?.`) evaluate expressions.
+   - learned the concept of short-circuiting in JavaScript, understanding how certain operators like logical AND (`&&`), logical OR (`||`), nullish coalescing (`??`), and optional chaining (`?.`) evaluate expressions.
 
 2. **Table of Operators and Precedence:**
    - Examined a table listing JavaScript operators from highest to lowest precedence, including notes on their associativity, individual operators, and usage examples.
@@ -1980,16 +1980,16 @@ Throughout the session, we focused on practical implementations, explanations ta
    - Covered basic control flow statements in JavaScript, particularly the block statement and its scoping effects. learned the use of `var`, `let`, and `const` for scoping.
 
 4. **Conditional Statements:**
-   - Explored conditional statements in JavaScript, focusing on the `if...else` statement and its best practices. learned the importance of using block statements for better code structure.
+   - learned conditional statements in JavaScript, focusing on the `if...else` statement and its best practices. learned the importance of using block statements for better code structure.
 
 5. **Switch Statement:**
-   - learned the `switch` statement in JavaScript, explaining how it allows evaluating an expression and matching its value to various case labels. Explored the use of `break` statements and provided an example.
+   - learned the `switch` statement in JavaScript, explaining how it allows evaluating an expression and matching its value to various case labels. learned the use of `break` statements and provided an example.
 
 6. **User Input Handling:**
    -  modifying code to handle user input by utilizing the `readline` module for a more interactive experience. Resolved issues related to using the `prompt` function and clarified the need for user input.
 
 7. **Exception Handling Statements:**
-   - Covered exception handling in JavaScript using the `throw` statement and `try...catch` statements. Explored the use of the `finally` block and learned nesting `try...catch` statements.
+   - Covered exception handling in JavaScript using the `throw` statement and `try...catch` statements. learned the use of the `finally` block and learned nesting `try...catch` statements.
 
 8. **Utilizing Error Objects:**
    - Studied the utilization of `Error` objects for throwing and catching exceptions. Provided an example of creating and handling custom errors for more informative debugging.
@@ -2012,13 +2012,13 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 3. learned the concept of objects in programming, explaining how they are a collection of related data and functionality.
 
-4. Explored object literals, showcasing their structure and common patterns for creating and accessing properties and methods.
+4. learned object literals, showcasing their structure and common patterns for creating and accessing properties and methods.
 
 5. Dived into more advanced object concepts, such as objects as object properties and bracket notation for property access.
 
 6. Covered setting object members, including updating values, creating new members, and dynamically setting member names.
 
-7. Explored the significance of the "this" keyword in methods and how it refers to the current object.
+7. learned the significance of the "this" keyword in methods and how it refers to the current object.
 
 8. learned constructors as a way to create reusable object blueprints, making it more efficient to create multiple objects with shared properties and methods.
 
@@ -2037,26 +2037,26 @@ Throughout the session, we focused on practical implementations, explanations ta
 1. **JavaScript Basics:**
    - learned the importance of JavaScript programming.
    - Covered how to run a JavaScript script.
-   - Explored the creation of variables and constants.
+   - learned the creation of variables and constants.
    - learned the differences between `var`, `const`, and `let`.
    - Covered various data types available in JavaScript.
 
 2. **Control Flow in JavaScript:**
-   - Explored the use of `if` and `if...else` statements.
+   - learned the use of `if` and `if...else` statements.
    - Covered the use of comments and assigning values to variables.
-   - Explored the use of `while` and `for` loops, as well as `break` and `continue` statements.
+   - learned the use of `while` and `for` loops, as well as `break` and `continue` statements.
 
 3. **Functions and Scope:**
    - learned what a function is and how to use functions in JavaScript.
-   - Explored functions that do not use a return statement.
+   - learned functions that do not use a return statement.
    - learned the scope of variables in JavaScript.
 
 4. **Operators and Data Manipulation:**
-   - Explored arithmetic operators and how to use them.
+   - learned arithmetic operators and how to use them.
    - learned how to manipulate dictionaries in JavaScript.
 
 5. **Modules and Importing Files:**
-   - Explored how to import a file in JavaScript using ES modules.
+   - learned how to import a file in JavaScript using ES modules.
 
 6. **Error Resolution:**
    - Addressed and resolved issues related to package installation and script execution.
@@ -2080,7 +2080,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 **Today's Progress**: SQLAlchemy, declarative mapping, creating schema, instance of mapped classes, sessions.
 
 1. **SQL Joins:**
-   - Explored different types of joins in SQL, including inner joins, outer joins (left and right), and cross joins.
+   - learned different types of joins in SQL, including inner joins, outer joins (left and right), and cross joins.
    - learned the concept of evaluation order in SQL joins, emphasizing the importance of understanding the sequence of joins in a query.
    
 2. **Set Operations on Tables:**
@@ -2093,7 +2093,7 @@ Throughout the session, we focused on practical implementations, explanations ta
    - learned the SQLAlchemy version check and connecting to an SQLite in-memory database.
 
 4. **Declarative Mapping in SQLAlchemy:**
-   - Explored how to declare a mapping between Python classes and database tables using the Declarative system in SQLAlchemy.
+   - learned how to declare a mapping between Python classes and database tables using the Declarative system in SQLAlchemy.
    - Defined a base class using `declarative_base()` and created a class (`User`) mapped to a table (`users`).
    - learned the importance of having a primary key in the mapped class.
 
@@ -2101,17 +2101,17 @@ Throughout the session, we focused on practical implementations, explanations ta
    - Examined the process of creating a schema in SQLAlchemy, including the creation of table metadata and issuing CREATE TABLE statements using `MetaData.create_all()`.
 
 6. **Creating an Instance of the Mapped Class:**
-   - Explored the instantiation of objects from a mapped class in SQLAlchemy, understanding the role of the `__init__` method.
+   - learned the instantiation of objects from a mapped class in SQLAlchemy, understanding the role of the `__init__` method.
    - learned the default values for attributes and how SQLAlchemy instrumentation works.
 
 7. **Creating a Session in SQLAlchemy:**
    - learned the concept of a Session in SQLAlchemy, which serves as a workspace for interacting with the database.
-   - Explored the creation of a Session class and its association with an Engine.
+   - learned the creation of a Session class and its association with an Engine.
    - learned the lifecycle patterns of a Session and when to create a new Session.
 
 8. **Adding and Updating Objects in SQLAlchemy:**
    - implemented how to add and update objects in SQLAlchemy, including using `Session.add()` and `Session.add_all()`.
-   - Explored the concept of a flush and how SQLAlchemy manages the identity map.
+   - learned the concept of a flush and how SQLAlchemy manages the identity map.
    - Showed how to commit changes to the database using `Session.commit()`.
 
 9. **Session Object States in SQLAlchemy:**
@@ -2174,7 +2174,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 1. **SQLAlchemy Overview:**
    - Discussed the importance and benefits of using Object-Relational Mappers (ORMs).
-   - Explored various Python ORM implementations, including SQLAlchemy, Peewee, Django ORM, PonyORM, and SQLObject.
+   - learned various Python ORM implementations, including SQLAlchemy, Peewee, Django ORM, PonyORM, and SQLObject.
 
 2. **Introduction to MySQL in Python:**
    - Introduced MySQL Python, the MySQL driver for Python, including the _mysql wrapper library and the DB-API 2.0 module MySQLdb.
@@ -2212,3 +2212,43 @@ Throughout the session, we focused on practical implementations, explanations ta
     - Tackled additional questions, including the purpose of the `freeze` command, filtering options in MySQLdb, printing from a table, and using format to create SQL queries.
 
 **link to notes:** [Python MySQL](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/22-Python_MYSQL)
+
+
+
+## Day 79: January 16, 2024
+
+**Today's Progress**: SQLAlchemy Python && SQL
+
+1. **Mapping and Declaring Classes:**
+   - learned the process of declaring classes in SQLAlchemy using the Declarative system.
+   - Created a base class and mapped a simple User class to a database table.
+
+2. **Creating a Schema:**
+   - Discussed the creation of a schema, including the use of the Declarative system, Table objects, and MetaData.
+   - Demonstrated the process of creating tables and specifying column details.
+
+3. **Creating an Instance of the Mapped Class:**
+   - learned the process of creating instances of mapped classes.
+   - Demonstrated the use of the constructor (`__init__()` method) and how SQLAlchemy's instrumentation works.
+
+4. **Creating a Session:**
+   - learned the role of the Session as the ORM's handle to the database.
+   - Created a Session class and discussed its lifecycle patterns.
+   - learned how to instantiate and configure a Session.
+
+5. **Adding and Updating Objects:**
+   - Discussed persisting objects to the database using the Session.
+   - learned the process of adding and updating objects, including the use of `add()`, `add_all()`, and `commit()`.
+
+6. **Rolling Back:**
+   - learned the ability to roll back changes made within a transaction using `rollback()`.
+
+7. **Querying:**
+   - Introduced Query objects and demonstrated basic querying using `query()` and various filtering techniques.
+   - Covered the generative nature of Query objects and their use in LIMIT, OFFSET, and ordering.
+
+8. **Common Filter Operators:**
+   - learned common filter operators such as `==`, `!=`, `like`, `ilike`, `in_`, `notin_`, `is_`, `isnot`, `and_`, `or_`, and `match`.
+
+
+**link to notes:** [Python && SQL]
