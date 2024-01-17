@@ -14,8 +14,7 @@
 - There are a lot of flag options you can add to make the testing easier.
 - I always write notes with sample codes as to help new learners and the future me as a reference.
 - The link to the sample codes is down below
-- Like usual, starting to learn something new is a bit challenging but with the right mindset, you can figure it out!
-- Keep on coding ! 
+- Like usual, starting to learn something new is a bit challenging but with the right mindset, you we figure it out!
 
 **Link to work:** [TDD notes](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/13-TDD)
 
