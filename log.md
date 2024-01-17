@@ -2252,3 +2252,27 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 
 **link to notes:** [Python && SQL](https://github.com/hunterxcobby/DBMS_learning)
+
+
+## Day 80: January 17, 2024
+
+**Today's Progress**: SQLAlchemy Python && SQL
+
+1. **Mock Peer Review for SQL Alchemy Code:**
+   - Reviewed SQL Alchemy code related to common filter operators, provided explanations, and discussed potential improvements.
+
+2. **Code Review for Console Script:**
+   - Assisted in reviewing and fixing code for a Python script (`console.py`) related to parsing command-line arguments, addressing syntax warnings, and ensuring proper functionality.
+
+3. **Database Setup Scripts:**
+   - Assisted in creating SQL scripts (`setup_mysql_dev.sql` and `setup_mysql_test.sql`) to set up MySQL databases, users, and privileges for a project.
+
+4. **File Storage Update:**
+   - Reviewed and provided suggestions for updating the `FileStorage` class in Python related to adding a `delete` method and modifying the `all` method.
+
+5. **User Class Update:**
+   - Updated the `User` class in Python, inheriting from `BaseModel` and `Base`, and added or replaced class attributes as per the provided requirements.
+
+These tasks involved code review, SQL script creation, and Python class updates to enhance functionality and align with project specifications.
+
+**link to project:** [Python && SQL](https://github.com/hunterxcobby/AirBnB_V2)
