@@ -2275,4 +2275,4 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 These tasks involved code review, SQL script creation, and Python class updates to enhance functionality and align with project specifications.
 
-**link to project:** [Python && SQL](https://github.com/hunterxcobby/AirBnB_V2)
+**link to project:** [AirBnB_v2](https://github.com/hunterxcobby/AirBnB_v2)
