@@ -2275,3 +2275,34 @@ Throughout the session, we focused on practical implementations, explanations ta
 These tasks involved code review, SQL script creation, and Python class updates to enhance functionality and align with project specifications.
 
 **link to project:** [AirBnB_v2](https://github.com/hunterxcobby/AirBnB_clone_v2)
+
+
+## Day 81: January 18, 2024
+
+**Today's Progress**: SQLAlchemy Python && SQL
+
+1. **Syntax Warning Fixes:**
+   - Identified and addressed syntax warnings in the `console.py` file, replacing `is` with `==` where appropriate.
+
+2. **Error Handling in tearDown Method:**
+   - Updated the `tearDown` method in the test files (`test_base_model.py`) to include specific exception handling instead of using a bare `except` statement.
+
+3. **BaseModel Class Modification:**
+   - Modified the `BaseModel` class to properly handle the conversion of `created_at` and `updated_at` attributes from string to datetime objects.
+
+4. **Code Review and Suggestions:**
+   - Reviewed your `console.py` code, provided comments, and suggested improvements.
+   
+5. **Bug Fix in `do_create` Method:**
+   - Addressed a bug in the `do_create` method of `console.py` by ensuring proper handling of parameters and their evaluation.
+
+6. **Additional Code Comments:**
+   - Added comments to the modified code sections to provide clarity on the changes made.
+
+7. **Review and Suggestions on Overall Progress:**
+   - Discussed errors encountered, potential improvements, and provided guidance on debugging and refining the code.
+
+8. **Ongoing Support and Clarifications:**
+   - Addressed various specific issues and errors reported by you, offering guidance and assistance.
+  
+  **link to project:** [AirBnB_v2](https://github.com/hunterxcobby/AirBnB_clone_v2)
