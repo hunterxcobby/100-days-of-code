@@ -55,6 +55,7 @@
 |[Day 76](log.md#day-76-january-13-2024) **13/01/24**| **Python**: Web frameworks, MVT, Projects vs Apps, environment variables|[Day 77](log.md#day-77-january-14-2024) **14/01/24**| **Python**: Object Relational Mappers (ORM)|
 [Day 78](log.md#day-78-january-15-2024) **15/01/24**| **Python**: Object Relational Mappers, The MySQLdb Module, SQLAlchemy |[Day 79](log.md#day-79-january-16-2024) **16/01/24**| **Python && SQL**: SQLAlchemy Documentation |
 |[Day 80](log.md#day-80-january-17-2024) **17/01/24**| **Python && SQL**: Airbnb version 2 Project |[Day 81](log.md#day-81-january-18-2024) **18/01/24**| **Python && SQL**: Airbnb version 2 Project |
+|[Day 82](log.md#day-82-january-19-2024) **19/01/24**| **Puppet**: Configuration Management |
 
 
 
