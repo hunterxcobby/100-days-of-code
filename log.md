@@ -2351,3 +2351,66 @@ These tasks involved code review, SQL script creation, and Python class updates 
     - Responded to user queries and adjusted the pace based on the user's feedback.
 
  **link to notes:** [Configuration Management](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0A-configuration_management)
+
+
+## Day 83: January 20, 2024
+
+**Today's Progress**: String Capitalization , Python
+ 
+### Challenge: Capitalize Names
+
+1. **Understand the Problem:**
+   - The task is to capitalize the first letter of each word in a given full name.
+   - The input is a string containing the full name.
+
+2. **Input Format:**
+   - A single line of input containing the full name.
+
+3. **Output Format:**
+   - Print the capitalized string.
+
+4. **Approach:**
+   - Split the full name into individual words.
+   - Capitalize the first letter of each word.
+   - Join the capitalized words back into a string.
+
+5. **Pseudocode:**
+   ```python
+   def capitalize_name(name):
+       # Split the name into words
+       words = name.split()
+
+       # Capitalize the first letter of each word
+       capitalized_words = [word.capitalize() for word in words]
+
+       # Join the capitalized words back into a string
+       capitalized_name = ' '.join(capitalized_words)
+
+       return capitalized_name
+
+   # Sample Input
+   full_name = "chris alan"
+
+   # Output the capitalized name
+   result = capitalize_name(full_name)
+   print(result)
+   ```
+
+6. **Sample Input and Output:**
+   - Sample Input: "chris alan"
+   - Expected Output: "Chris Alan"
+
+7. **Test the Function:**
+   - Test the function with various inputs, including edge cases.
+
+8. **Optimization:**
+   - The provided solution is concise and covers the requirements.
+   - No additional optimization is needed for this simple task.
+
+9. **Documentation:**
+   - Add comments or docstrings to explain the code.
+
+10. **Finalization:**
+    - Ensure the code is readable, well-documented, and provides the correct output.
+
+**link to implementation:** [String Capitalization](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/15-cAPITALIZE)
