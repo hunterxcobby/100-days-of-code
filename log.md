@@ -2420,24 +2420,26 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 **Today's Progress**: SSH (Secure Shell)
 
-1. Discussed the concept of SSH (Secure Shell) as a secure protocol for connecting to Linux servers remotely.
+- learned 
 
-2. Explored how SSH works, emphasizing the client-server model and the use of SSH keys for authentication.
+1. the concept of SSH (Secure Shell) as a secure protocol for connecting to Linux servers remotely.
 
-3. Covered the process of generating SSH key pairs on a local machine, including considerations for key length.
+2. how SSH works, emphasizing the client-server model and the use of SSH keys for authentication.
 
-4. Demonstrated the use of an SSH agent to avoid typing the passphrase repeatedly and forwarding SSH credentials for server-to-server authentication.
+3. the process of generating SSH key pairs on a local machine, including considerations for key length.
 
-5. Addressed the practice of changing the default port that the SSH daemon runs on to enhance security.
+4. the use of an SSH agent to avoid typing the passphrase repeatedly and forwarding SSH credentials for server-to-server authentication.
 
-6. Explored methods of limiting users who can connect through SSH using directives like AllowUsers and AllowGroups.
+5. changing the default port that the SSH daemon runs on to enhance security.
 
-7. Advised on disabling root login through SSH and encouraged the use of a dedicated user account with sudo privileges.
+6. methods of limiting users who can connect through SSH using directives like AllowUsers and AllowGroups.
 
-8. Discussed a scenario where root access is allowed for specific commands, achieved by modifying the root user's authorized_keys file.
+7. disabling root login through SSH and encouraged the use of a dedicated user account with sudo privileges.
 
-9. Responded to a query about removing the passphrase from an RSA key.
+8. scenario where root access is allowed for specific commands, achieved by modifying the root user's authorized_keys file.
 
-10. Provided a step-by-step guide on connecting to a server using a private key, emphasizing the use of the `ssh` command with the `-i` option.
+9. removing the passphrase from an RSA key.
+
+10.connecting to a server using a private key, emphasizing the use of the `ssh` command with the `-i` option.
 
 **link to notes:** [Secure Shell](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0B-ssh/SSH-Essentials)
