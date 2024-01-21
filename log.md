@@ -2420,7 +2420,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 **Today's Progress**: SSH (Secure Shell)
 
-- learned 
+- learned; 
 
 1. the concept of SSH (Secure Shell) as a secure protocol for connecting to Linux servers remotely.
 
@@ -2440,6 +2440,6 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 9. removing the passphrase from an RSA key.
 
-10.connecting to a server using a private key, emphasizing the use of the `ssh` command with the `-i` option.
+10. connecting to a server using a private key, emphasizing the use of the `ssh` command with the `-i` option.
 
 **link to notes:** [Secure Shell](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0B-ssh/SSH-Essentials)
