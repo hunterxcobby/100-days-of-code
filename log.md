@@ -2414,3 +2414,30 @@ These tasks involved code review, SQL script creation, and Python class updates 
     - Ensure the code is readable, well-documented, and provides the correct output.
 
 **link to implementation:** [String Capitalization](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/15-cAPITALIZE)
+
+
+## Day 84: January 21, 2024
+
+**Today's Progress**: SSH (Secure Shell)
+
+1. Discussed the concept of SSH (Secure Shell) as a secure protocol for connecting to Linux servers remotely.
+
+2. Explored how SSH works, emphasizing the client-server model and the use of SSH keys for authentication.
+
+3. Covered the process of generating SSH key pairs on a local machine, including considerations for key length.
+
+4. Demonstrated the use of an SSH agent to avoid typing the passphrase repeatedly and forwarding SSH credentials for server-to-server authentication.
+
+5. Addressed the practice of changing the default port that the SSH daemon runs on to enhance security.
+
+6. Explored methods of limiting users who can connect through SSH using directives like AllowUsers and AllowGroups.
+
+7. Advised on disabling root login through SSH and encouraged the use of a dedicated user account with sudo privileges.
+
+8. Discussed a scenario where root access is allowed for specific commands, achieved by modifying the root user's authorized_keys file.
+
+9. Responded to a query about removing the passphrase from an RSA key.
+
+10. Provided a step-by-step guide on connecting to a server using a private key, emphasizing the use of the `ssh` command with the `-i` option.
+
+**link to notes:** [Secure Shell](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0B-ssh/SSH-Essentials)
