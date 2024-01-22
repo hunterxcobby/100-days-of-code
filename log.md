@@ -1014,7 +1014,7 @@ Today's progress focused on establishing a foundation for the phonebook applicat
 4. learned the **FOREIGN KEY Constraint**:
    - Establishes a referential constraint between two tables.
    - Illustrated with Authors and Books tables, where AuthorId in Books is a foreign key referencing AuthorId in Authors.
-   - Emphasized that foreign key enforcement ensures data integrity and valid relationships between tables.
+   - discovered that foreign key enforcement ensures data integrity and valid relationships between tables.
 
 5. learned the **ENUM Constraint**:
    - Creates a string object with values chosen from a list.
@@ -1614,7 +1614,7 @@ The implementation successfully generates alphabet rangoli patterns based on the
 
 2. **Eliminating Single Points of Failure:**
    - Outlined steps to identify and eliminate SPOFs, including risk assessments and achieving redundancy.
-   - Emphasized redundancy at the internal component, system, and site levels for robust protection.
+   - discovered redundancy at the internal component, system, and site levels for robust protection.
 
 3. **HTTP vs. HTTPS:**
    - learned the secure version of HTTP, HTTPS, highlighting its role in encrypting data between browsers and websites.
@@ -1846,7 +1846,7 @@ The implementation successfully generates alphabet rangoli patterns based on the
 
 6. **Review and Testing:**
    - Encouraged the user to run the script and test each command for a practical understanding.
-   - Emphasized the importance of the `cmdloop` method for maintaining the command-line interface.
+   - discovered the importance of the `cmdloop` method for maintaining the command-line interface.
 
 7. **Documentation:**
    - Documented the code with inline comments to enhance readability and understanding.
@@ -2021,7 +2021,7 @@ Throughout the session, we focused on practical implementations, explanations ta
 
 8. learned constructors as a way to create reusable object blueprints, making it more efficient to create multiple objects with shared properties and methods.
 
-9. Emphasized the ubiquity of objects in JavaScript, pointing out their use in built-in APIs and objects like String, Array, and Document.
+9. discovered the ubiquity of objects in JavaScript, pointing out their use in built-in APIs and objects like String, Array, and Document.
 
 10. Applied the acquired knowledge to complete practical tasks involving objects and their properties, including creating band and cat objects with specific requirements.
 
@@ -2084,7 +2084,7 @@ Throughout the session, we focused on practical implementations, explanations ta
    
 2. **Set Operations on Tables:**
    - Covered set operations in SQL, highlighting that joins are not equivalent to unions and learned union and minus operations on tables.
-   - Emphasized the importance of having identical attributes in sets participating in set operations.
+   - discovered the importance of having identical attributes in sets participating in set operations.
 
 3. **Introduction to SQLAlchemy:**
    - Initiated the exploration of SQLAlchemy, focusing on the Object Relational Mapper (ORM).
@@ -2315,7 +2315,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 1. **Configuration Management and Automation:**
-   - Explored the concept of configuration management in the context of server infrastructure.
+   - learned the concept of configuration management in the context of server infrastructure.
    - Discussed the role of automation in server configuration management.
    - Introduced popular configuration management tools: Puppet, Ansible, Chef, and Salt.
 
@@ -2443,3 +2443,46 @@ These tasks involved code review, SQL script creation, and Python class updates 
 10. connecting to a server using a private key, emphasizing the use of the `ssh` command with the `-i` option.
 
 **link to notes:** [Secure Shell](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0B-ssh/SSH-Essentials)
+
+
+## Day 85: January 22, 2024
+
+**Today's Progress**: Web Servers, HTTP Requests, Nginx
+
+1. **Setting Up Nginx Server Blocks:**
+   - Created directory structure for multiple sites in `/var/www`.
+   - Set ownership and permissions for web directories.
+   - Created sample pages for each site.
+
+2. **Configuring Nginx Server Blocks:**
+   - Created server block files for each domain in `/etc/nginx/sites-available`.
+   - Edited server block files to define root directories, server names, and basic configurations.
+   - Enabled server blocks by creating symbolic links in `/etc/nginx/sites-enabled`.
+
+3. **Server Configuration and Restart:**
+   - Adjusted `server_names_hash_bucket_size` in `/etc/nginx/nginx.conf` to avoid hash bucket memory issues.
+   - Tested Nginx configuration with `sudo nginx -t`.
+   - Restarted Nginx to apply changes with `sudo systemctl restart nginx`.
+
+4. **Local Hosts File Modification (Optional):**
+   - Modified the local computer's hosts file for testing purposes by mapping domain names to the server's IP address.
+
+5. **Introduction to Web Servers and Domain Names:**
+   - Discussed the importance of having a domain name for a professional appearance and trust.
+   - learned the concepts of internet domain, domain name, root domain, and subdomain.
+   - discovered the need to buy a domain name from registrars and configure DNS records.
+
+6. **HTTP Methods Overview:**
+   - learned common HTTP methods: GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, TRACE.
+   - Provided explanations and real-world analogies for each HTTP method.
+
+7. **Detailed Exploration of HTTP Methods:**
+   - learned the details of GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, TRACE methods.
+   - Provided examples of HTTP requests and server responses for each method.
+
+8. **Current Discussion: TRACE Method:**
+   - learned the TRACE method, highlighting its purpose of echoing back HTTP requests for debugging.
+   - read examples of TRACE requests and server responses.
+
+
+**link to notes:** [Secure Shell](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0C-web_server)
