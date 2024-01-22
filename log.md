@@ -2485,4 +2485,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - read examples of TRACE requests and server responses.
 
 
-**link to notes:** [Secure Shell](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0C-web_server)
+**link to notes:** [Web Server](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0C-web_server)
