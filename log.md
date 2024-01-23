@@ -2496,7 +2496,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 1. **Understanding Redirects:**
    - Explored the concept of redirects and their importance in web development.
    - Discussed different types of redirects, including 301 (Moved Permanently), 302 (Found or Moved Temporarily), 307 (Moved Temporarily), and Meta Refresh.
-   - Provided insights into when to use each type of redirect based on specific scenarios.
+   - Insights into when to use each type of redirect based on specific scenarios.
 
 2. **SEO Best Practices in Redirects:**
    - Emphasized the SEO best practices when implementing redirects, with a focus on using 301 redirects for permanent changes.
@@ -2505,7 +2505,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 3. **Log File Locations:**
    - Responded to a query about the location of Nginx configuration files.
-   - Provided common paths for the main Nginx configuration file (`nginx.conf`) on Linux (Ubuntu/Debian and CentOS/RHEL) and Windows systems.
+   - Learned common paths for the main Nginx configuration file (`nginx.conf`) on Linux (Ubuntu/Debian and CentOS/RHEL) and Windows systems.
 
 
 **link to notes:** [Web Server](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0C-web_server)
