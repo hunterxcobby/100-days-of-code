@@ -57,7 +57,7 @@
 |[Day 80](log.md#day-80-january-17-2024) **17/01/24**| **Python && SQL**: Airbnb version 2 Project |[Day 81](log.md#day-81-january-18-2024) **18/01/24**| **Python && SQL**: Airbnb version 2 Project |
 |[Day 82](log.md#day-82-january-19-2024) **19/01/24**| **Puppet**: Configuration Management |[Day 83](log.md#day-83-january-20-2024) **20/01/24**| **Python**: String Capitalization, Hackerrank |
 |[Day 84](log.md#day-84-january-21-2024) **21/01/24**| **Bash**: Secure Shell|[Day 85](log.md#day-85-january-22-2024) **22/01/24**| ****: Web Servers, Nginx, HTTP requests |
-|[Day 86](log.md#day-86-january-23-2024) **23/01/24**| ****: HTTP requests|
+|[Day 86](log.md#day-86-january-23-2024) **23/01/24**| ****: HTTP requests|[Day 87](log.md#day-87-january-24-2024) **24/01/24**| ****: Web Stack Debugging|
 
 
 
