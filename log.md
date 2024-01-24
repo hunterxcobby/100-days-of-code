@@ -2509,3 +2509,39 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 **link to notes:** [Web Server](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0C-web_server)
+
+
+
+## Day 87: January 24, 2024
+
+**Today's Progress**: 
+
+1. **HTTP Methods:**
+   - Explored various HTTP methods, including GET, POST, PUT, DELETE, CONNECT, OPTIONS, and TRACE.
+   - Discussed the purpose and usage of each method in web development.
+
+2. **Redirects:**
+   - Explored the concept of redirects in web development.
+   - Discussed common HTTP status codes for redirects, including 301 (Moved Permanently) and 302 (Found or Moved Temporarily).
+   - Examined other redirect methods like 307 (Moved Temporarily) and Meta Refresh.
+
+3. **SEO Best Practices:**
+   - Discussed SEO best practices related to redirects, emphasizing the importance of using 301 redirects for permanent moves.
+   - Highlighted the impact of redirects on search engine rankings and trust.
+
+4. **Nginx Configuration:**
+   - Explored Nginx configuration files and made adjustments to achieve specific redirection requirements.
+   - Addressed issues related to duplicate location directives and the resulting "301 Moved Permanently" responses.
+
+5. **Debugging Apache in Docker Container:**
+   - Explored debugging tasks involving Apache running in a Docker container.
+   - Investigated and resolved issues preventing the successful display of a "Hello Holberton" page.
+
+6. **Miscellaneous Issues:**
+   - Addressed errors related to Apache service start-up, including "apache.service not found" and Apache not starting due to port conflicts.
+   - Investigated and resolved issues related to Nginx configuration causing "duplicate location" errors.
+
+7. **File Transfer with SCP:**
+   - Provided guidance on using `scp` to securely copy files between machines.
+
+**link to notes:** [Web Server](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0C-web_server)
