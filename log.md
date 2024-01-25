@@ -2545,3 +2545,38 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Provided guidance on using `scp` to securely copy files between machines.
 
 **link to notes:** [Web Server](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0C-web_server)
+
+
+
+## Day 8: January 25,8 2024
+
+**Today's Progress**: Python Network
+
+
+1. **URL and URI**: Discussed the concepts of Uniform Resource Locator (URL) and Uniform Resource Identifier (URI), including their syntax and components.
+
+2. **"POST" Request Method**: Explored the POST request method in HTTP, its syntax, usage for submitting form data, and differences from the GET method.
+
+3. **File Upload using multipart/form-data POST Request**: Covered file uploads in HTTP using the multipart/form-data POST request, including examples and relevant MIME types.
+
+4. **"CONNECT" Request Method**: Introduced the CONNECT request method in HTTP for establishing proxy connections.
+
+5. **Content Negotiation**: Explained content negotiation in HTTP, including Content-Type negotiation, language negotiation, and encoding negotiation.
+
+6. **Persistent (or Keep-alive) Connections**: Discussed persistent connections in HTTP, their benefits, and relevant Apache server configuration directives.
+
+7. **Range Download**: Briefly touched on the Accept-Ranges and Transfer-Encoding headers for range downloads in HTTP.
+
+8. **Cache Control**: Covered cache control in HTTP, including the Cache-Control and Pragma headers for controlling caching behavior.
+
+9. **HTTP Cookies**: Introduced HTTP cookies, including their purpose, Set-Cookie and Cookie headers, and examples in various server-side applications like PHP, Node.js, Python, and Ruby on Rails.
+
+10. **Lifetime of a Cookie**: Discussed the lifetime of cookies, including permanent cookies and session cookies, along with examples.
+
+11. **Restrict Access to Cookies**: Explored methods to restrict access to cookies using the Secure and HttpOnly attributes, with examples.
+
+12. **Where Cookies are Sent**: Defined the scope of cookies using the Domain and Path attributes, with examples.
+
+
+**link to notes:** [Python Network](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/23-python-network_0/0-HTTP)
+
