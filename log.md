@@ -2548,7 +2548,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 
-## Day 8: January 25,8 2024
+## Day 8: January 25, 2024
 
 **Today's Progress**: Python Network
 
