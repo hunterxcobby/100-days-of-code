@@ -58,7 +58,7 @@
 |[Day 82](log.md#day-82-january-19-2024) **19/01/24**| **Puppet**: Configuration Management |[Day 83](log.md#day-83-january-20-2024) **20/01/24**| **Python**: String Capitalization, Hackerrank |
 |[Day 84](log.md#day-84-january-21-2024) **21/01/24**| **Bash**: Secure Shell|[Day 85](log.md#day-85-january-22-2024) **22/01/24**| ****: Web Servers, Nginx, HTTP requests |
 |[Day 86](log.md#day-86-january-23-2024) **23/01/24**| ****: HTTP requests|[Day 87](log.md#day-87-january-24-2024) **24/01/24**| ****: Web Stack Debugging|
-[Day 88](log.md#day-88-january-25-2024) **25/01/24**| **Python**: Python Network , HTTP|
+![Day 88](log.md#day-88-january-25-2024) **25/01/24**| **Python**: Python Network , HTTP|[Day 89](log.md#day-89-january-26-2024) **26/01/24**| **Python**: HTTO requests, URLlib|
 
 
 
