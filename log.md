@@ -2548,7 +2548,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 
-## Day 8: January 25, 2024
+## Day 88: January 25, 2024
 
 **Today's Progress**: Python Network
 
@@ -2579,4 +2579,36 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 **link to notes:** [Python Network](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/23-python-network_0/0-HTTP)
+
+
+
+## Day 89: January 26, 2024
+
+**Today's Progress**: Python Network 
+
+1. **Introduction to urllib.request**: Explored the `urllib.request` module, which provides a simple interface for fetching URLs.
+
+2. **Fetching URLs**: Discussed the `urlopen` function for fetching URLs and storing responses in temporary locations using `shutil.copyfileobj` and `tempfile.NamedTemporaryFile`.
+
+3. **Understanding HTTP requests and responses**: Explored HTTP requests and responses, mirroring them with `Request` and `Response` objects.
+
+4. **Data Handling**: Covered sending data to URLs using POST requests and encoding data using `urlencode` from `urllib.parse`.
+
+5. **Headers**: Explored adding headers to HTTP requests to mimic browser behavior using the `headers` argument in `urllib.request.Request`.
+
+6. **Handling Exceptions**: Discussed error handling with `URLError` and `HTTPError` exceptions, and how to handle them using `try-except` blocks.
+
+7. **Error Codes**: Reviewed HTTP error codes and their meanings, along with how to handle them in Python.
+
+8. **Wrapping it Up**: Summarized approaches to handle `URLError` and `HTTPError` exceptions.
+
+9. **info and geturl**: Learned about the `info` and `geturl` methods of response objects, providing information about the fetched page and the actual URL.
+
+10. **Openers and Handlers**: Explored customizing URL openers and handlers for handling specific situations like proxies, authentication, and redirects.
+
+11. **Basic Authentication**: Covered handling basic authentication using `HTTPBasicAuthHandler` and password managers.
+
+12. **Proxies**: Discussed working with proxies and disabling proxy detection using `ProxyHandler`.
+
+13. **Sockets and Layers**: Explored the layered architecture of Python's web resource fetching process, including setting socket timeouts.
 
