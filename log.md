@@ -2612,3 +2612,46 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 13. **Sockets and Layers**: Explored the layered architecture of Python's web resource fetching process, including setting socket timeouts.
 
+
+
+## Day 90: January 27, 2024
+
+**Today's Progress**: List Challenge on HackerRank, Python
+
+1. **Read Input:**
+   - Read the number of commands `n` from input.
+   
+2. **Initialize List:**
+   - Initialize an empty list `lst`.
+
+3. **Parse Commands:**
+   - Loop `n` times to read and parse each command.
+   - Split each command into words using the `split()` method.
+   - The first word of each command indicates the operation to perform.
+
+4. **Perform Operations:**
+   - For each command, determine the operation to perform based on the first word.
+   - Use conditional statements (`if`, `elif`, `else`) to handle different types of operations:
+     - If the operation is 'insert', use `insert()` method to insert the specified element at the specified index.
+     - If the operation is 'print', use `print()` method to print the current state of the list.
+     - If the operation is 'remove', use `remove()` method to remove the specified element from the list.
+     - If the operation is 'append', use `append()` method to append the specified element to the end of the list.
+     - If the operation is 'sort', use `sort()` method to sort the list.
+     - If the operation is 'pop', use `pop()` method to remove and return the last element of the list.
+     - If the operation is 'reverse', use `reverse()` method to reverse the elements of the list.
+
+5. **Handle Errors:**
+   - Use `try-except` blocks to handle errors that may occur during list operations.
+   - For example, handle `ValueError` when converting input arguments to integers.
+   - Print error messages or handle errors gracefully as needed.
+
+6. **Output:**
+   - After processing all commands, the final state of the list should be printed as the output.
+
+7. **Test and Debug:**
+   - Test the program with sample inputs and edge cases to ensure correctness.
+   - Debug any issues or errors encountered during testing.
+
+8. **Optimization (Optional):**
+   - Review the code for potential optimizations or improvements in terms of readability, efficiency, or functionality.
+
