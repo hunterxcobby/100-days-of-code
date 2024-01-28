@@ -2655,3 +2655,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
 8. **Optimization (Optional):**
    - Review the code for potential optimizations or improvements in terms of readability, efficiency, or functionality.
 
+**link to solution:** [Lists](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/16-Lists)
