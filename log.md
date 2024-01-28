@@ -2659,3 +2659,12 @@ These tasks involved code review, SQL script creation, and Python class updates 
 **link to solution:** [Lists](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/16-Lists)
 
 
+## Day 91: January 28, 2024
+
+**Today's Progress**:Djongo, Python
+
+- Created a django project
+- create blog and pages apps
+- routed their url to a simple html site
+
+**link to solution:** [Lists](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/django)
