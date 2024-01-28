@@ -2612,6 +2612,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 13. **Sockets and Layers**: Explored the layered architecture of Python's web resource fetching process, including setting socket timeouts.
 
+**link to notes:** [Python Network](https://github.com/hunterxcobby/Python-Projects/tree/main/lessons/exercises/24-python-network_1/0-URLlib)
 
 
 ## Day 90: January 27, 2024
@@ -2656,3 +2657,5 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Review the code for potential optimizations or improvements in terms of readability, efficiency, or functionality.
 
 **link to solution:** [Lists](https://github.com/hunterxcobby/Python-Challenges/tree/main/01-HackerRank/16-Lists)
+
+
