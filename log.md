@@ -2661,7 +2661,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 ## Day 91: January 28, 2024
 
-**Today's Progress**:Djongo, Python
+**Today's Progress**:Django, Python
 
 - Created a django project
 - create blog and pages apps
