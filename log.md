@@ -2705,4 +2705,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
     - troubleshooting SSH connection issues, including checking for routing problems and specifying custom SSH port numbers.
 
 
-**link to notes:** [Load Balancers]()
+**link to notes:** [Load Balancers](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0F-load_balancer)
