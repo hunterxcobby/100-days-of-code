@@ -2668,3 +2668,41 @@ These tasks involved code review, SQL script creation, and Python class updates 
 - routed their url to a simple html site
 
 **link to solution:** [Lists](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/django)
+
+
+## Day 92: January 29, 2024
+
+**Today's Progress**: Load Balancer, HAProxy
+
+1. **Introduction to HAProxy**:
+   - an overview of HAProxy as a TCP/HTTP Load Balancer and proxying solution used to distribute workload across multiple servers.
+
+2. **HAProxy Terminology**:
+   - important terms like Access Control List (ACL), backend, and frontend in relation to load balancing.
+
+3. **Types of Load Balancing**:
+   - Explored different types of load balancing, including no load balancing, layer 4 load balancing, and layer 7 load balancing, along with their respective configurations.
+
+4. **Load Balancing Algorithms**:
+   - commonly used load balancing algorithms in HAProxy, such as roundrobin, leastconn, and source, along with sticky sessions.
+
+5. **Health Check**:
+   - Covered HAProxy's health check mechanism to determine the availability of backend servers and how it ensures high availability.
+
+6. **High Availability Setup**:
+   - Explored the concept of high availability (HA) setups, which prevent single points of failure, especially in load balancer configurations.
+
+7. **HTTP Headers**:
+   - Defined HTTP headers, including request headers, response headers, general headers, and entity headers, and their roles in HTTP communication.
+
+8. **Troubleshooting Nginx and Apache**:
+   - diagnosing and resolving issues related to Nginx and Apache web servers, including port conflicts and configuration errors.
+
+9. **Configuring HAProxy**:
+   - configuring HAProxy on a server to distribute traffic to multiple backend servers using roundrobin algorithm.
+
+10. **SSH Connection Troubleshooting**:
+    - troubleshooting SSH connection issues, including checking for routing problems and specifying custom SSH port numbers.
+
+
+**link to notes:** [Load Balancers]()
