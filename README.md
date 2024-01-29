@@ -60,6 +60,7 @@
 |[Day 86](log.md#day-86-january-23-2024) **23/01/24**| ****: HTTP requests|[Day 87](log.md#day-87-january-24-2024) **24/01/24**| ****: Web Stack Debugging|
 |[Day 88](log.md#day-88-january-25-2024) **25/01/24**| **Python**: Python Network , HTTP|[Day 89](log.md#day-89-january-26-2024) **26/01/24**| **Python**: HTTP requests, URLlib|
 |[Day 90](log.md#day-90-january-27-2024) **27/01/24**| **Python**: The list challenge , HackerRank|[Day 91](log.md#day-91-january-28-2024) **28/01/24**| **Python**: Django|
+|[Day 92](log.md#day-92-january-29-2024) **29/01/24**| **Python**: Load Balancer|
 
 
 
