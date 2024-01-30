@@ -2737,5 +2737,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
     - Maintained detailed documentation of progress, solutions, and explanations for each task, ensuring clear understanding of concepts, code implementations, and troubleshooting steps.
     - Documented insights gained from solving various scripting challenges, facilitating learning and knowledge retention for future reference.
 
-**link to :** [Python Network]()
-
+**link to :** [Python Network](https://github.com/hunterxcobby/alx-higher_level_programming)
