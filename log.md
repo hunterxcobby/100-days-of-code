@@ -2706,3 +2706,36 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 **link to notes:** [Load Balancers](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x0F-load_balancer)
+
+
+
+## Day 92: January 30, 2024
+
+**Today's Progress**: Python Network
+
+1. **Shell Scripting Tasks:**
+    - Successfully implemented Bash scripts to handle tasks involving cURL requests, including sending requests to specific URLs, managing responses, and addressing syntax errors.
+    - Identified and resolved issues related to script syntax, parameter passing, and error handling, ensuring the scripts executed as intended.
+
+2. **Python Scripting Tasks:**
+    - Completed Python scripting tasks, focusing on sending requests to URLs, processing responses, and utilizing libraries like `urllib` and `requests` for HTTP interactions.
+    - Developed Python scripts to interact with the GitHub API, retrieve commit information from repositories, and format the output according to task requirements.
+
+3. **Error Handling and Debugging:**
+    - Encountered errors such as HTTP status code errors and invalid JSON responses during scripting tasks, and implemented error handling mechanisms to manage these issues effectively.
+    - Debugged scripts to resolve errors and ensure they functioned correctly under different scenarios, improving overall robustness and reliability.
+
+4. **Code Optimization and Efficiency:**
+    - Optimized script code to enhance readability, efficiency, and adherence to task specifications, focusing on improving performance and reducing complexity.
+    - Implemented strategies to streamline code execution, enhance script performance, and maintain code quality throughout the development process.
+
+5. **Task Completion and Testing:**
+    - Successfully completed assigned tasks by writing scripts that met specified requirements and produced expected outputs, ensuring adherence to task instructions.
+    - Conducted thorough testing of scripts in designated sandboxes to validate functionality and correctness, making necessary adjustments to achieve desired results.
+
+6. **Documentation and Reporting:**
+    - Maintained detailed documentation of progress, solutions, and explanations for each task, ensuring clear understanding of concepts, code implementations, and troubleshooting steps.
+    - Documented insights gained from solving various scripting challenges, facilitating learning and knowledge retention for future reference.
+
+**link to :** [Python Network]()
+
