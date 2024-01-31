@@ -61,6 +61,7 @@
 |[Day 88](log.md#day-88-january-25-2024) **25/01/24**| **Python**: Python Network , HTTP|[Day 89](log.md#day-89-january-26-2024) **26/01/24**| **Python**: HTTP requests, URLlib|
 |[Day 90](log.md#day-90-january-27-2024) **27/01/24**| **Python**: The list challenge , HackerRank|[Day 91](log.md#day-91-january-28-2024) **28/01/24**| **Python**: Django|
 |[Day 92](log.md#day-92-january-29-2024) **29/01/24**| **Python**: Load Balancer|[Day 93](log.md#day-93-january-30-2024) **30/01/24**| **Python**: Python Network|
+|[Day 94](log.md#day-94-january-31-2024) **31/01/24**| **C lang**: Number guessing game|
 
 
 
