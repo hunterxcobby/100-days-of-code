@@ -2709,7 +2709,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 
-## Day 92: January 30, 2024
+## Day 93: January 30, 2024
 
 **Today's Progress**: Python Network
 
@@ -2738,3 +2738,55 @@ These tasks involved code review, SQL script creation, and Python class updates 
     - Documented insights gained from solving various scripting challenges, facilitating learning and knowledge retention for future reference.
 
 **link to :** [Python Network](https://github.com/hunterxcobby/alx-higher_level_programming)
+
+
+
+## Day 93: January 31, 2024
+
+**Today's Progress**: Number Guessing Game
+
+1. **Task Definition:**
+   - Defined the task to create a number guessing game using `while` loops, `break`, and `continue` statements.
+   - Set the goal of allowing users to guess a randomly generated number between 1 and 100.
+   
+2. **Environment Setup:**
+   - Included necessary header files: `<stdio.h>`, `<stdlib.h>`, and `<time.h>`.
+   - Created the `number_guessing.c` file in the "Tasks" directory to contain the program.
+
+3. **Random Number Generation:**
+   - Used `srand(time(NULL))` to seed the random number generator with the current time for randomness.
+   - Generated a random number between 1 and 100 using `rand() % 100 + 1` and stored it as the target number.
+
+4. **Variables Initialization:**
+   - Declared variables `userGuess` to store user input and `attempts` to count the number of attempts.
+
+5. **Game Implementation:**
+   - Utilized a `while` loop with `while (1)` for an indefinite loop until the correct guess is made.
+   - Prompted users to input their guess using `printf`.
+   - Checked the validity of user input using `scanf` and handled invalid input by clearing the input buffer and prompting users to enter a numeric value again.
+   - Incremented the `attempts` counter for each guess.
+
+6. **Guess Evaluation:**
+   - Implemented a check to compare the user's guess with the target number using `if` statements.
+   - Provided feedback to users indicating whether their guess was too high or too low using `printf`.
+   - Terminated the loop and displayed a congratulatory message when the correct guess was made using `break`.
+
+7. **Code Refinement:**
+   - Simplified the feedback message to improve clarity and readability by replacing the ternary operator with an `if-else` statement.
+
+8. **Documentation:**
+   - Documented each step and provided clear explanations for beginners to understand.
+   - Ensured readability and maintainability by adding comments throughout the code.
+
+9. **Testing:**
+   - Conducted testing to ensure the program functions as expected, allowing users to successfully play the number guessing game.
+   
+10. **Revision and Review:**
+    - Reviewed the code to ensure accuracy, readability, and adherence to task requirements.
+    - Made necessary revisions to improve clarity and correctness based on feedback and review.
+
+11. **Completion:**
+    - Completed the task successfully, meeting all requirements and ensuring the code is beginner-friendly and easy to understand.
+   
+
+**link to :** [Number Guessigng Game](https://github.com/hunterxcobby/CWC-Learning/tree/main/c_programming/number_guessing-game)
