@@ -2741,7 +2741,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 
-## Day 93: January 31, 2024
+## Day 94: January 31, 2024
 
 **Today's Progress**: Number Guessing Game
 
@@ -2789,4 +2789,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
     - Completed the task successfully, meeting all requirements and ensuring the code is beginner-friendly and easy to understand.
    
 
-**link to :** [Number Guessigng Game](https://github.com/hunterxcobby/CWC-Learning/tree/main/c_programming/number_guessing-game)
+**link to task:** [Number Guessigng Game](https://github.com/hunterxcobby/CWC-Learning/tree/main/c_programming/number_guessing-game)
