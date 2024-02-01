@@ -2829,4 +2829,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Explored how each directive handles file locations based on URI requests.
   
   
-**link to notes:** [](https://github.com/hunterxcobby/CWC-Learning/tree/main/c_programming/number_guessing-game)
+**link to notes:** [AirBnB_clone-Deploy_static](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x03.AirBnB_clone-Deploy_static)
