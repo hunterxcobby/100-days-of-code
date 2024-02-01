@@ -2790,3 +2790,43 @@ These tasks involved code review, SQL script creation, and Python class updates 
    
 
 **link to task:** [Number Guessing Game](https://github.com/hunterxcobby/CWC-Learning/tree/main/c_programming/number_guessing-game)
+
+
+
+## Day 95: February 01, 2024
+
+**Today's Progress**: Number Guessing Game
+
+1. **Fabric Introduction:**
+   - Discussed what Fabric is and its role in deployment processes.
+
+2. **Deploying Code to a Server Easily:**
+   - Explored the process of deploying code to a server efficiently using Fabric.
+   - Discussed the steps involved, including executing Fabric commands locally and remotely, and transferring files with Fabric.
+
+3. **Understanding TGZ Archives:**
+   - Defined a TGZ archive and its purpose in software distribution.
+   - Explored how TGZ archives are used to package and compress files for easier distribution and deployment.
+
+4. **Executing Fabric Commands Locally:**
+   - Discussed how to execute Fabric commands locally using the Fabric library in Python.
+   - Explored the steps involved in running Fabric commands on the local machine.
+
+5. **Executing Fabric Commands Remotely:**
+   - Explored the process of executing Fabric commands remotely on a target server.
+   - Discussed how Fabric simplifies remote command execution and management.
+
+6. **Transferring Files with Fabric:**
+   - Explored how to transfer files between the local machine and remote servers using Fabric.
+   - Discussed the methods available in Fabric for transferring files efficiently.
+
+7. **Managing Nginx Configuration:**
+   - Explored the basics of managing Nginx configuration files.
+   - Discussed how to modify Nginx configuration settings for various purposes.
+
+8. **Difference Between `root` and `alias` in Nginx Configuration:**
+   - Discussed the differences between the `root` and `alias` directives in Nginx configuration files.
+   - Explored how each directive handles file locations based on URI requests.
+  
+  
+**link to notes:** [](https://github.com/hunterxcobby/CWC-Learning/tree/main/c_programming/number_guessing-game)
