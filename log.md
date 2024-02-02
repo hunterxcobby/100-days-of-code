@@ -2857,3 +2857,5 @@ Sure, here's a progress log of what we've accomplished today:
    - Engaged in practical exercises to apply theoretical knowledge, such as configuring domain zones, generating SSL certificates, and troubleshooting deployment issues.
    - Provided guidance on using commands, editing configuration files, and resolving errors in a Linux environment.
 
+
+**link to notes:** [HTTPS & SSL](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x10-HTTPS_SSL)
