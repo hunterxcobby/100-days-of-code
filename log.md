@@ -2795,7 +2795,7 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 ## Day 95: February 01, 2024
 
-**Today's Progress**: Number Guessing Game
+**Today's Progress**: AirBnB_clone-Deploy_static
 
 1. **Fabric Introduction:**
    - Discussed what Fabric is and its role in deployment processes.
@@ -2830,3 +2830,30 @@ These tasks involved code review, SQL script creation, and Python class updates 
   
   
 **link to notes:** [AirBnB_clone-Deploy_static](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x03.AirBnB_clone-Deploy_static)
+
+
+
+## Day 95: February 01, 2024
+
+**Today's Progress**: HTTPS, SSL
+
+Sure, here's a progress log of what we've accomplished today:
+
+1. **Understanding HTTPS and SSL:**
+   - Explained the concepts of HTTPS and SSL in simple terms using real-life analogies.
+   - Discussed the purpose and benefits of SSL certificates, including encryption, authentication, trust, and PCI compliance.
+   - Explored the disadvantages of SSL, such as cost and performance considerations.
+
+2. **Deployment Tasks:**
+   - configuring domain zones and subdomains for load balancing using Bash scripting.
+   - Created SSL certificates using Certbot and configured HAproxy to accept encrypted traffic.
+   - Troubleshooted errors related to Apache configuration and port usage conflicts.
+
+3. **Programming Concepts:**
+   - Discussed the Feynman learning technique and applied it to explain programming concepts in step-by-step and analogy-based approaches.
+   - Clarified concepts related to round-robin DNS, HTTP, and HTTPS.
+
+4. **Hands-on Practice:**
+   - Engaged in practical exercises to apply theoretical knowledge, such as configuring domain zones, generating SSL certificates, and troubleshooting deployment issues.
+   - Provided guidance on using commands, editing configuration files, and resolving errors in a Linux environment.
+
