@@ -2886,4 +2886,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Reviewed the steps taken to configure HAProxy for SSL/TLS termination.
    - Provided guidance on next steps for managing SSL/TLS certificates and renewals using Certbot.
 
-**link to project:** [HTTPS & SSL task]()
+**link to project:** [HTTPS & SSL task](https://github.com/hunterxcobby/alx-system_engineering-devops/tree/master/0x10-https_ssl)
