@@ -2833,11 +2833,9 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 
-## Day 95: February 01, 2024
+## Day 96: February 02, 2024
 
 **Today's Progress**: HTTPS, SSL
-
-Sure, here's a progress log of what we've accomplished today:
 
 1. **Understanding HTTPS and SSL:**
    - Explained the concepts of HTTPS and SSL in simple terms using real-life analogies.
@@ -2859,3 +2857,33 @@ Sure, here's a progress log of what we've accomplished today:
 
 
 **link to notes:** [HTTPS & SSL](https://github.com/hunterxcobby/system-devops_learning/tree/main/shell_scripting/0x10-HTTPS_SSL)
+
+
+
+## Day 97: February 03, 2024
+
+**Today's Progress**: HTTPS, SSL / SSL termination
+
+1. **Initial Setup and Certificate Generation:**
+   - Explored the process of setting up Certbot for certificate generation.
+   - Generated SSL/TLS certificates for the domain "www.hunterxcobby.tech" using Certbot.
+
+2. **HAProxy Configuration for SSL/TLS Termination:**
+   - Reviewed the HAProxy configuration for SSL/TLS termination.
+   - Updated the HAProxy configuration file (`haproxy.cfg`) to include SSL/TLS termination.
+   - Explored options for binding SSL certificate files (`fullchain.pem` and `privkey.pem`) to the HAProxy configuration.
+   - Modified the HAProxy configuration to bind the SSL certificate and private key files.
+
+3. **Troubleshooting and Error Handling:**
+   - Addressed errors encountered during HAProxy configuration, such as incorrect file paths and SSL certificate loading issues.
+   - Provided guidance on locating SSL certificate files and understanding their contents.
+
+4. **Final Configuration:**
+   - Updated the HAProxy configuration to correctly bind the SSL certificate (`fullchain.pem`) and private key (`privkey.pem`).
+   - Ensured that the HAProxy configuration is correctly set up for SSL/TLS termination on port 443.
+
+5. **Summary and Next Steps:**
+   - Reviewed the steps taken to configure HAProxy for SSL/TLS termination.
+   - Provided guidance on next steps for managing SSL/TLS certificates and renewals using Certbot.
+
+**link to project:** [HTTPS & SSL task]()
