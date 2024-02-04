@@ -2887,3 +2887,31 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Provided guidance on next steps for managing SSL/TLS certificates and renewals using Certbot.
 
 **link to project:** [HTTPS & SSL task](https://github.com/hunterxcobby/alx-system_engineering-devops/tree/master/0x10-https_ssl)
+
+
+
+## Day 98: February 04, 2024
+
+**Today's Progress**:  AirBnB clone - Deploy static
+
+1. **SSL Certificate Configuration**:
+   - We reviewed how to configure SSL certificates in HAProxy.
+   - Discussed different configurations for binding SSL certificates, including paths and file formats.
+
+2. **Troubleshooting SSL Errors**:
+   - Addressed various errors encountered during SSL certificate configuration in HAProxy.
+   - Analyzed error messages and suggested potential solutions.
+
+3. **Fabric Script for Deployment**:
+   - Discussed requirements for a Fabric script to deploy archives to web servers.
+   - Outlined steps for creating the `do_deploy` function according to the provided specifications.
+
+4. **Fabric Script Development**:
+   - Developed a pseudocode representation of the `do_deploy` function.
+   - Included steps to check archive existence, upload, uncompress, and manage symbolic links.
+
+5. **Testing and Verification**:
+   - Provided a command to test the Fabric script for deployment.
+   - Emphasized the importance of verifying the deployment's success after running the script.
+
+(**link to notes:** [AirBnB_clone-Deploy_static](https://github.com/hunterxcobby/AirBnB_clone_v2/blob/master/101-setup_web_static.pp)
