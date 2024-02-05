@@ -2941,4 +2941,4 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Highlighted the importance of understanding trade-offs between time complexity, space complexity, and implementation complexity when selecting the appropriate search algorithm.
 
 
-(**link to notes:** [Search Algorithms](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x1E-search_algorithms)
+**link to notes:** [Search Algorithms](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x1E-search_algorithms)
