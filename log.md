@@ -2914,4 +2914,31 @@ These tasks involved code review, SQL script creation, and Python class updates 
    - Provided a command to test the Fabric script for deployment.
    - Emphasized the importance of verifying the deployment's success after running the script.
 
-(**link to notes:** [AirBnB_clone-Deploy_static](https://github.com/hunterxcobby/AirBnB_clone_v2/blob/master/101-setup_web_static.pp)
+(**link to notes:** [AirBnB_clone-Deploy_static](https://github.com/hunterxcobby/AirBnB_clone_v2/)
+
+
+
+## Day 99: February 05, 2024
+
+**Today's Progress**:  Search Alogrithms
+
+1. **Space Complexity**:
+   - Discussed the concept of space complexity, distinguishing between auxiliary space and space complexity.
+   - Explained space complexity using real-life analogies and examples, such as moving into an apartment and sorting algorithms' space requirements.
+   - Reviewed example codes in C and Python to illustrate space complexity in recursive and non-recursive functions.
+
+2. **Search Algorithms**:
+   - Defined search algorithms as methods used to locate specific items within a collection of data.
+   - Explained linear search as a simple search algorithm that sequentially checks each element in a dataset until a match is found.
+   - Illustrated linear search with real-life analogies and provided example code in C.
+   - Introduced binary search as an efficient search algorithm for sorted datasets, dividing the search interval in half with each iteration.
+   - Discussed when to use linear search versus binary search based on the characteristics of the dataset and the efficiency requirements.
+   - Provided example code in C for binary search and explained its implementation.
+
+3. **Best Search Algorithms for Different Scenarios**:
+   - Analyzed various search algorithms (linear search, binary search, hash table, interpolation search, exponential search, jump search) based on their suitability for different scenarios.
+   - Discussed factors influencing the choice of the best search algorithm, including dataset size, sorting status, frequency of searches, and available resources.
+   - Highlighted the importance of understanding trade-offs between time complexity, space complexity, and implementation complexity when selecting the appropriate search algorithm.
+
+
+(**link to notes:** [Search Algorithms](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x1E-search_algorithms)
