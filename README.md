@@ -64,7 +64,7 @@
 |[Day 94](log.md#day-94-january-31-2024) **31/01/24**| **C lang**: Number guessing game|[Day 95](log.md#day-95-february-01-2024) **01/02/24**| **Python**: AirBnB clone - Deploy static, Introudction to Fabric, Nginx, CI/CD|
 |[Day 96](log.md#day-96-february-02-2024) **02/02/24**| **Python**: AirBnB clone - Deploy static, HTTPS , SSL , |[Day 97](log.md#day-97-february-03-2024) **03/02/24**| HTTPS , SSL , |
 |[Day 98](log.md#day-98-february-04-2024) **04/02/24**| **Python**: AirBnB clone - Deploy static, HTTPS |[Day 99](log.md#day-99-february-05-2024) **05/02/24**| **C lang**: Search Algorithm |
-![Day 100](log.md#day-100-february-06-2024) **06/03/24**| **Python**: Django Assigment |
+|[Day 100](log.md#day-100-february-06-2024) **06/03/24**| **Python**: Django Assigment && Importation business Website |
 
 
 
