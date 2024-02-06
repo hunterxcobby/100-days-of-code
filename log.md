@@ -2942,3 +2942,32 @@ These tasks involved code review, SQL script creation, and Python class updates 
 
 
 **link to notes:** [Search Algorithms](https://github.com/hunterxcobby/C-Projects/tree/master/lessons/solutions/0x1E-search_algorithms)
+
+
+
+## Day 100: February 06, 2024
+
+**Today's Progress**:  Django assignment && Importation Website
+
+1. **Set Up Django Project**:
+   - Discussed the task of setting up a Django project named "BlogAPI" and configuring necessary project settings.
+
+2. **Create Models**:
+   - Designed Django models for blog posts and comments, outlining their fields and purpose.
+
+3. **Create Serializer Classes**:
+   - Discussed the creation of serializer classes using Django REST Framework to serialize/deserialize data between Django models and JSON format for API endpoints.
+
+4. **Create Views**:
+   - Implemented views for endpoints such as retrieving a list of blog posts, retrieving a specific blog post by ID, adding a new blog post, editing an existing blog post, and deleting a blog post.
+
+5. **Define URL Patterns**:
+   - Outlined the process of mapping each view to a URL pattern in the Django project's URL configuration.
+
+6. **Test Endpoints**:
+   - Discussed testing endpoints using tools like Postman or curl to ensure they function as expected.
+
+7. **Resolve Import Error with rest_framework**:
+   - Provided steps to resolve import errors with `rest_framework`, including installing Django REST Framework, checking installed packages, ensuring correct Django settings, and rebuilding environment if using Docker.
+
+**link to TASK:** [Django assignment](https://github.com/hunterxcobby/WEB-DEV_learning/tree/main/django-2)
